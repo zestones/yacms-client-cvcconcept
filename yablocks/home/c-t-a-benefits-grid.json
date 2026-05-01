@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "component": "blocks/cta/CTABenefitsGrid",
+    "section": "home/c-t-a-benefits-grid"
+  },
+  "data": {
+    "title": "Pourquoi choisir CVC Concept ?",
+    "benefits": [
+      {
+        "icon": "zap",
+        "text": "Optimisation énergétique pour réduire vos coûts opérationnels.",
+        "_tid": "Nkwd38"
+      },
+      {
+        "icon": "shield",
+        "text": "Respect strict des normes internationales de sécurité.",
+        "_tid": "RFHIT0"
+      },
+      {
+        "icon": "clock",
+        "text": "Maintenance préventive et intervention rapide sur site.",
+        "_tid": "eJKo7a"
+      }
+    ],
+    "cta": {
+      "text": "Découvrir notre approche",
+      "link": "/expertise"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "component": "blocks/cta/CTABanner",
+    "section": "home/c-t-a-banner"
+  },
+  "data": {
+    "title": "Prêt pour votre projet CVC ?",
+    "primaryCTA": {
+      "text": "Obtenir une étude gratuite",
+      "href": "/contact",
+      "variant": "primary"
+    },
+    "features": [
+      "Devis rapide",
+      "Conseil sur mesure",
+      "Technologie durable"
+    ],
+    "layout": "centered"
+  }
+}

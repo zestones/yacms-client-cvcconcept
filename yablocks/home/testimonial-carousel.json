@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "component": "blocks/testimonials/TestimonialCarousel",
+    "section": "home/testimonial-carousel"
+  },
+  "data": {
+    "title": "Ce que disent nos partenaires",
+    "testimonials": [
+      {
+        "cardImage": "/avatars/client1.jpg",
+        "quote": "Une expertise technique remarquable. CVC Concept a transformé notre efficacité énergétique.",
+        "name": "M. Ahmed Mansouri",
+        "role": "Directeur Technique, Groupe Industriel",
+        "_tid": "YfNJFB"
+      }
+    ]
+  }
+}

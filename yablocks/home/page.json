@@ -6,7 +6,13 @@
   },
   "theme": "cvcconcept-default",
   "blocks": [
-    "./hero001.json",
-    "./cta002.json"
+    "./nav-glassmorphic.json",
+    "./hero-split-image.json",
+    "./c-t-a-benefits-grid.json",
+    "./stats-primary-row.json",
+    "./trust-logo-grid.json",
+    "./testimonial-carousel.json",
+    "./c-t-a-banner.json",
+    "./footer-columns.json"
   ]
 }

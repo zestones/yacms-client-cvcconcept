@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "component": "blocks/footer/FooterColumns",
+    "section": "home/footer-columns"
+  },
+  "data": {
+    "brand": {
+      "alt": "CVC Concept Logo",
+      "tagline": "Experts en solutions climatiques en Algérie."
+    },
+    "linkGroups": [
+      {
+        "title": "Entreprise",
+        "links": [
+          {
+            "text": "À propos",
+            "href": "/about",
+            "_tid": "FtfFc9"
+          },
+          {
+            "text": "Carrières",
+            "href": "/careers",
+            "_tid": "5CWtgy"
+          }
+        ],
+        "_tid": "yRWebt"
+      },
+      {
+        "title": "Services",
+        "links": [
+          {
+            "text": "Climatisation",
+            "href": "/services/clim",
+            "_tid": "zEKv3j"
+          },
+          {
+            "text": "Chauffage",
+            "href": "/services/chauffage",
+            "_tid": "feGApp"
+          }
+        ],
+        "_tid": "GbsmG0"
+      }
+    ],
+    "legal": {
+      "copyright": "© 2024 CVC Concept. Tous droits réservés."
+    }
+  }
+}
