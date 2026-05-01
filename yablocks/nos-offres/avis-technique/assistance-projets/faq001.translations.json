@@ -1,0 +1,83 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.sectionLabel": {
+      "source": "FAQ",
+      "de": "FAQ",
+      "ar": "الأسئلة الشائعة",
+      "zh": "常见问题",
+      "ru": "FAQ",
+      "en": "FAQ",
+      "it": "FAQ"
+    },
+    "data.title": {
+      "source": "Questions fréquentes sur l'assistance à la maîtrise d'ouvrage technique",
+      "de": "Häufig gestellte Fragen zur technischen Projektsteuerung",
+      "ar": "أسئلة شائعة حول المساعدة في إدارة المشاريع التقنية",
+      "zh": "关于技术业主工程师 (AMO) 支持的常见问题",
+      "ru": "Часто задаваемые вопросы о техническом сопровождении заказчика (AMOA)",
+      "en": "Frequently Asked Questions about Technical Project Management Assistance",
+      "it": "Domande frequenti sull'assistenza alla gestione tecnica dell'opera"
+    },
+    "data.items[@Mi0Uyz].question": {
+      "source": "Quelle différence entre un AMOA et un chef de projet intégrateur ?",
+      "de": "Was ist der Unterschied zwischen einem AMOA und einem Projektleiter des Integrators?",
+      "ar": "ما الفرق بين مساعد إدارة المشروع (AMOA) ومدير مشروع التكامل؟",
+      "zh": "AMOA 与集成项目经理之间有什么区别？"
+    },
+    "data.items[@5R6GD4].question": {
+      "source": "À quelle phase du projet intervenez-vous ?",
+      "de": "In welcher Projektphase greifen Sie ein?",
+      "ar": "في أي مرحلة من المشروع تتدخلون؟",
+      "zh": "您在项目的哪个阶段介入？"
+    },
+    "data.items[@NJ3kya].question": {
+      "source": "Mon projet est déjà en cours avec un intégrateur — pouvez-vous quand même intervenir ?",
+      "de": "Mein Projekt läuft bereits mit einem Integrator – können Sie trotzdem unterstützen?",
+      "ar": "مشروعي قيد التنفيذ بالفعل مع شركة تكامل — هل لا يزال بإمكانكم التدخل؟",
+      "zh": "我的项目已经在与集成商合作进行中——您仍然可以介入吗？"
+    },
+    "data.items[@FXUCGY].question": {
+      "source": "Combien coûte une prestation d'AMOA ?",
+      "de": "Wie viel kostet eine AMOA-Leistung?",
+      "ar": "كم تبلغ تكلفة خدمات مساعد إدارة المشروع (AMOA)؟",
+      "zh": "AMOA 服务的费用是多少？"
+    },
+    "data.items[@15eBke].question": {
+      "source": "Travaillez-vous sur des projets hors France ?",
+      "de": "Arbeiten Sie auch an Projekten außerhalb Frankreichs?",
+      "ar": "هل تعملون على مشاريع خارج فرنسا؟",
+      "zh": "您是否承接法国以外的项目？"
+    },
+    "data.items[@Mi0Uyz].answer": {
+      "source": "Le chef de projet intégrateur représente l'entreprise qui réalise les travaux — son objectif est de livrer dans les délais et marges. L'AMOA (Assistance à Maîtrise d'Ouvrage) représente le client : son rôle est de s'assurer que ce qui est livré correspond bien aux besoins initiaux, dans les règles de l'art, avec la documentation requise. AUTEM joue ce second rôle — indépendant de tout prestataire.",
+      "de": "Der Projektleiter des Integrators vertritt das Unternehmen, das die Arbeiten ausführt – sein Ziel ist die Lieferung innerhalb der Fristen und Margen. Der AMOA (Assistance à Maîtrise d'Ouvrage / Projektunterstützung) vertritt den Kunden: Seine Rolle ist es, sicherzustellen, dass das gelieferte Produkt den ursprünglichen Anforderungen entspricht, nach den anerkannten Regeln der Technik erstellt wurde und die erforderliche Dokumentation vorliegt. AUTEM übernimmt diese zweite Rolle – unabhängig von jedem Dienstleister.",
+      "ar": "يمثل مدير مشروع التكامل الشركة التي تنفذ الأعمال — وهدفه هو التسليم في المواعيد المحددة وضمن هوامش الربح. أما مساعد إدارة المشروع (AMOA) فيمثل العميل: ودوره هو التأكد من أن ما يتم تسليمه يتوافق تماماً مع الاحتياجات الأولية، وفقاً لأصول المهنة، ومع التوثيق المطلوب. تلعب AUTEM هذا الدور الثاني — بشكل مستقل عن أي مزود خدمة.",
+      "zh": "集成项目经理代表执行工作的公司——其目标是在期限和利润范围内交付。AMOA（业主辅助管理）代表客户：其职责是确保交付内容符合初始需求、符合行业标准并具备所需的文档。AUTEM 扮演这第二个角色——独立于任何服务提供商。"
+    },
+    "data.items[@5R6GD4].answer": {
+      "source": "Idéalement dès l'expression du besoin, pour structurer les spécifications avant tout engagement avec un intégrateur. Mais nous pouvons aussi intervenir en cours de projet pour reprendre la gestion technique d'un projet qui s'emballe, ou en fin de projet pour préparer les tests de réception et garantir la qualité de la documentation finale.",
+      "de": "Idealerweise bereits bei der Bedarfsanalyse, um die Spezifikationen zu strukturieren, bevor eine Verpflichtung mit einem Integrator eingegangen wird. Wir können jedoch auch mitten im Projekt eingreifen, um die technische Leitung eines aus dem Ruder gelaufenen Projekts zu übernehmen, oder am Projektende, um die Abnahmetests vorzubereiten und die Qualität der finalen Dokumentation zu gewährleisten.",
+      "ar": "من الناحية المثالية، نبدأ منذ مرحلة تحديد الاحتياجات، لهيكلة المواصفات قبل أي التزام مع شركة تكامل. ولكن يمكننا أيضاً التدخل أثناء سير المشروع لاستعادة الإدارة الفنية لمشروع بدأ يخرج عن السيطرة، أو في نهاية المشروع لإعداد اختبارات الاستلام وضمان جودة التوثيق النهائي.",
+      "zh": "理想情况下是从需求表达阶段开始，以便在与集成商达成任何协议之前构建规格说明。但我们也可以在项目进行过程中介入，以接管失控项目的技术管理，或在项目末期介入，以准备验收测试并保证最终文档的质量。"
+    },
+    "data.items[@NJ3kya].answer": {
+      "source": "Oui. C'est une situation fréquente. Nous pouvons faire un état des lieux technique du projet, identifier les écarts par rapport aux spécifications initiales, et proposer un plan d'action pour cadrer la suite — sans mettre en péril la relation avec l'intégrateur. Notre approche est factuelle et constructive.",
+      "de": "Ja. Das ist eine häufige Situation. Wir können eine technische Bestandsaufnahme des Projekts durchführen, Abweichungen von den ursprünglichen Spezifikationen identifizieren und einen Aktionsplan für das weitere Vorgehen vorschlagen – ohne die Beziehung zum Integrator zu gefährden. Unser Ansatz ist sachlich und konstruktiv.",
+      "ar": "نعم، هذا موقف شائع. يمكننا إجراء تقييم فني لحالة المشروع، وتحديد الفجوات مقارنة بالمواصفات الأولية، واقتراح خطة عمل لتأطير الخطوات التالية — دون تعريض العلاقة مع شركة التكامل للخطر. نهجنا واقعي وبناء.",
+      "zh": "是的。这种情况很常见。我们可以对项目进行技术现状评估，识别与初始规格之间的偏差，并提出一个行动计划来规范后续工作——且不会危及与集成商的关系。我们的方法是基于事实且建设性的。"
+    },
+    "data.items[@FXUCGY].answer": {
+      "source": "Cela dépend du périmètre et de la phase où nous intervenons. Une assistance complète de l'expression du besoin à la réception représente typiquement 5 à 15% du montant de réalisation. Une intervention ciblée (rédaction de cahier des charges, conduite de FAT/SAT) est facturée à la mission sur devis. Contactez-nous avec les éléments de votre projet pour un chiffrage rapide.",
+      "de": "Das hängt vom Umfang und der Phase ab, in der wir eingreifen. Eine vollständige Unterstützung von der Bedarfsanalyse bis zur Abnahme macht typischerweise 5 bis 15 % der Umsetzungskosten aus. Eine gezielte Intervention (Erstellung des Lastenhefts, Durchführung von FAT/SAT) wird auf Projektbasis per Angebot abgerechnet. Kontaktieren Sie uns mit Ihren Projektdetails für eine schnelle Kostenschätzung.",
+      "ar": "يعتمد ذلك على النطاق والمرحلة التي نتدخل فيها. عادة ما تمثل المساعدة الكاملة من تحديد الاحتياجات إلى الاستلام ما بين 5 إلى 15% من قيمة التنفيذ. أما التدخلات المحددة (كتابة دفتر الشروط، إدارة اختبارات FAT/SAT) فيتم فوترتها بناءً على المهمة وفقاً لعرض سعر. تواصلوا معنا بتفاصيل مشروعكم للحصول على تقدير سريع للتكلفة.",
+      "zh": "这取决于范围以及我们介入的阶段。从需求表达到验收的完整辅助通常占实施金额的 5% 到 15%。针对性的干预（编写技术规格书、执行 FAT/SAT）则根据报价单按任务计费。请联系我们并提供您的项目详情，以便快速报价。"
+    },
+    "data.items[@15eBke].answer": {
+      "source": "Oui. Nous avons accompagné des projets en Belgique (Thalys, Bruxelles), au Canada (TM), en Israël (Wonderlogix), en Russie (Danone/CoVostok), au Luxembourg (ArcelorMittal) et au Maroc (St-Gobain). Nous intervenons en France, en Europe et à l'international, en français et en anglais.",
+      "de": "Ja. Wir haben Projekte in Belgien (Thalys, Brüssel), Kanada (TM), Israel (Wonderlogix), Russland (Danone/CoVostok), Luxemburg (ArcelorMittal) und Marokko (St-Gobain) begleitet. Wir sind in Frankreich, Europa und international auf Französisch und Englisch tätig.",
+      "ar": "نعم. لقد دعمنا مشاريع في بلجيكا (Thalys, Bruxelles)، وكندا (TM)، وإسرائيل (Wonderlogix)، وروسيا (Danone/CoVostok)، ولوكسمبورغ (ArcelorMittal)، والمغرب (St-Gobain). نحن نعمل في فرنسا وأوروبا ودولياً، باللغتين الفرنسية والإنجليزية.",
+      "zh": "是的。我们曾支持过比利时（Thalys, 布鲁塞尔）、加拿大 (TM)、以色列 (Wonderlogix)、俄罗斯 (Danone/CoVostok)、卢森堡 (ArcelorMittal) 和摩洛哥 (St-Gobain) 的项目。我们在法国、欧洲及国际范围内提供服务，支持法语和英语。"
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "component": "blocks/footer/FooterColumns",
+    "section": "_shared/footer"
+  },
+  "data": {
+    "brand": {
+      "name": "YourBrand",
+      "logo": "/images/unnamed.png",
+      "tagline": "Professional services and innovative solutions. Trusted by businesses worldwide for over a decade.",
+      "alt": "YourBrand Logo"
+    },
+    "contact": {
+      "address": "123 Main Street\nYour City, ST 12345",
+      "phone": "(555) 123-4567",
+      "email": "contact@yourbusiness.com",
+      "hours": "Mon-Fri: 9am-5pm\nSat: 10am-2pm"
+    },
+    "linkGroups": [
+      {
+        "title": "Services",
+        "links": [
+          {
+            "text": "Consulting",
+            "href": "/service/consulting",
+            "_tid": "KpeVeL"
+          },
+          {
+            "text": "Development",
+            "href": "/service/development",
+            "_tid": "m3DvAK"
+          },
+          {
+            "text": "Design",
+            "href": "/service/design",
+            "_tid": "Xj8bC1"
+          },
+          {
+            "text": "Support",
+            "href": "/service/support",
+            "_tid": "YAWVLL"
+          }
+        ],
+        "_tid": "PjSVoM"
+      },
+      {
+        "title": "Company",
+        "links": [
+          {
+            "text": "About Us",
+            "href": "/about",
+            "_tid": "ImUrs5"
+          },
+          {
+            "text": "Our Work",
+            "href": "/portfolio",
+            "_tid": "dQo6zL"
+          },
+          {
+            "text": "Testimonials",
+            "href": "/testimonials",
+            "_tid": "M5W6XQ"
+          }
+        ],
+        "_tid": "Cyj4kl"
+      },
+      {
+        "title": "Resources",
+        "links": [
+          {
+            "text": "Blog",
+            "href": "/blog",
+            "_tid": "GI68Hh"
+          },
+          {
+            "text": "FAQ",
+            "href": "/faq",
+            "_tid": "kOVizi"
+          },
+          {
+            "text": "Contact",
+            "href": "/contact",
+            "_tid": "uxe48l"
+          }
+        ],
+        "_tid": "mtbadr"
+      }
+    ],
+    "socialLinks": [],
+    "certifications": [
+      {
+        "src": "/logos/certification-1.png",
+        "alt": "Certification 1",
+        "_tid": "EHgSM7"
+      },
+      {
+        "src": "/logos/certification-2.png",
+        "alt": "Certification 2",
+        "_tid": "aoPN4k"
+      }
+    ],
+    "legal": {
+      "copyright": "All rights reserved.",
+      "links": [
+        {
+          "text": "Legal Notice",
+          "href": "/legal",
+          "_tid": "nwvjCF"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "/privacy",
+          "_tid": "daKRJe"
+        },
+        {
+          "text": "Terms of Service",
+          "href": "/terms",
+          "_tid": "k52wCG"
+        }
+      ]
+    }
+  }
+}

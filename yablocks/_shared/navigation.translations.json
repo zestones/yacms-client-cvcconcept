@@ -1,0 +1,194 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.logo.text": {
+      "source": "YourBrand",
+      "it": "YourBrand",
+      "en": "YourBrand",
+      "de": "YourBrand",
+      "ar": "YourBrand",
+      "ru": "YourBrand",
+      "zh": "YourBrand"
+    },
+    "data.logo.href": {
+      "source": "/",
+      "it": "/",
+      "en": "/",
+      "de": "/",
+      "ar": "/",
+      "ru": "/",
+      "zh": "/"
+    },
+    "data.logo.image": {
+      "source": "/logos/logo.png",
+      "it": "/logos/logo.png",
+      "en": "/logos/logo.png",
+      "de": "/logos/logo.png",
+      "ar": "/logos/logo.png",
+      "ru": "/logos/logo.png",
+      "zh": "/logos/logo.png"
+    },
+    "data.cta.text": {
+      "source": "Get Started",
+      "it": "Inizia ora",
+      "en": "Get Started",
+      "de": "Jetzt loslegen",
+      "ar": "ابدأ الآن",
+      "ru": "Начать",
+      "zh": "立即开始"
+    },
+    "data.cta.href": {
+      "source": "#contact",
+      "it": "#contact",
+      "en": "#contact",
+      "de": "#contact",
+      "ar": "#contact",
+      "ru": "#contact",
+      "zh": "#contact"
+    },
+    "data.links[@2jEoj7].label": {
+      "source": "Home",
+      "en": "Home",
+      "de": "Startseite",
+      "ar": "الرئيسية",
+      "ru": "Главная",
+      "zh": "首页",
+      "it": "Home"
+    },
+    "data.links[@YTDCLe].label": {
+      "source": "Services",
+      "en": "Services",
+      "de": "Leistungen",
+      "ar": "الخدمات",
+      "ru": "Услуги",
+      "zh": "服务",
+      "it": "Servizi"
+    },
+    "data.links[@ORjBjf].label": {
+      "source": "About",
+      "en": "About",
+      "de": "Über uns",
+      "ar": "من نحن",
+      "ru": "О нас",
+      "zh": "关于",
+      "it": "Chi siamo"
+    },
+    "data.links[@ht4GrW].label": {
+      "source": "Portfolio",
+      "en": "Portfolio",
+      "de": "Portfolio",
+      "ar": "أعمالنا",
+      "ru": "Портфолио",
+      "zh": "作品集",
+      "it": "Portfolio"
+    },
+    "data.links[@cf8tIX].label": {
+      "source": "Contact",
+      "en": "Contact",
+      "de": "Kontakt",
+      "ar": "اتصل بنا",
+      "ru": "Контакты",
+      "zh": "联系我们",
+      "it": "Contatti"
+    },
+    "data.links[@2jEoj7].href": {
+      "source": "/",
+      "en": "/",
+      "de": "/",
+      "ar": "/",
+      "ru": "/",
+      "zh": "/",
+      "it": "/"
+    },
+    "data.links[@YTDCLe].href": {
+      "source": "#services",
+      "en": "#services",
+      "de": "#services",
+      "ar": "#services",
+      "ru": "#services",
+      "zh": "#services",
+      "it": "#services"
+    },
+    "data.links[@ORjBjf].href": {
+      "source": "/about",
+      "en": "/about",
+      "de": "/about",
+      "ar": "/about",
+      "ru": "/about",
+      "zh": "/about",
+      "it": "/about"
+    },
+    "data.links[@ht4GrW].href": {
+      "source": "/portfolio",
+      "en": "/portfolio",
+      "de": "/portfolio",
+      "ar": "/portfolio",
+      "ru": "/portfolio",
+      "zh": "/portfolio",
+      "it": "/portfolio"
+    },
+    "data.links[@cf8tIX].href": {
+      "source": "#contact",
+      "en": "#contact",
+      "de": "#contact",
+      "ar": "#contact",
+      "ru": "#contact",
+      "zh": "#contact",
+      "it": "#contact"
+    },
+    "data.links[@YTDCLe].dropdown[@PvmXXc].label": {
+      "source": "Service One",
+      "en": "Service One",
+      "de": "Leistung Eins",
+      "ar": "الخدمة الأولى",
+      "ru": "Услуга 1",
+      "zh": "服务一",
+      "it": "Servizio Uno"
+    },
+    "data.links[@YTDCLe].dropdown[@L4hFql].label": {
+      "source": "Service Two",
+      "en": "Service Two",
+      "de": "Leistung Zwei",
+      "ar": "الخدمة الثانية",
+      "ru": "Услуга 2",
+      "zh": "服务二",
+      "it": "Servizio Due"
+    },
+    "data.links[@YTDCLe].dropdown[@gBY3WC].label": {
+      "source": "Service Three",
+      "en": "Service Three",
+      "de": "Leistung Drei",
+      "ar": "الخدمة الثالثة",
+      "ru": "Услуга 3",
+      "zh": "服务三",
+      "it": "Servizio Tre"
+    },
+    "data.links[@YTDCLe].dropdown[@PvmXXc].href": {
+      "source": "/service/service-one",
+      "en": "/service/service-one",
+      "de": "/service/service-one",
+      "ar": "/service/service-one",
+      "ru": "/service/service-one",
+      "zh": "/service/service-one",
+      "it": "/service/service-one"
+    },
+    "data.links[@YTDCLe].dropdown[@L4hFql].href": {
+      "source": "/service/service-two",
+      "en": "/service/service-two",
+      "de": "/service/service-two",
+      "ar": "/service/service-two",
+      "ru": "/service/service-two",
+      "zh": "/service/service-two",
+      "it": "/service/service-two"
+    },
+    "data.links[@YTDCLe].dropdown[@gBY3WC].href": {
+      "source": "/service/service-three",
+      "en": "/service/service-three",
+      "de": "/service/service-three",
+      "ar": "/service/service-three",
+      "ru": "/service/service-three",
+      "zh": "/service/service-three",
+      "it": "/service/service-three"
+    }
+  }
+}

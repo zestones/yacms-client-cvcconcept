@@ -1,0 +1,44 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Vos équipements industriels ont plus de 10 ans et vous n'avez pas de plan d'obsolescence ?",
+      "de": "Ihre Industrieanlagen sind älter als 10 Jahre und Sie haben keinen Obsoleszenzplan?",
+      "ar": "هل معداتك الصناعية عمرها أكثر من 10 سنوات وليس لديك خطة لمواجهة التقادم؟",
+      "zh": "您的工业设备已使用超过 10 年，且尚未制定过时计划？",
+      "ru": "Вашему промышленному оборудованию более 10 лет, и у вас нет плана по борьбе с устареванием?",
+      "en": "Is your industrial equipment more than 10 years old and you don't have an obsolescence plan?",
+      "it": "Le vostre attrezzature industriali hanno più di 10 anni e non avete un piano di obsolescenza?"
+    },
+    "data.cta.text": {
+      "source": "Lancer votre audit d'obsolescence",
+      "de": "Starten Sie Ihr Obsoleszenz-Audit",
+      "ar": "ابدأ تدقيق التقادم الخاص بك",
+      "zh": "启动您的过时审计",
+      "ru": "Запустить аудит устаревания",
+      "en": "Start your obsolescence audit",
+      "it": "Avvia l'audit di obsolescenza"
+    },
+    "data.benefits[@q98U0T].text": {
+      "source": "Audit d'obsolescence complet : automates, IPC, SCADA, logiciels — toutes marques",
+      "de": "Vollständiges Obsoleszenz-Audit: SPS, IPC, SCADA, Software – alle Marken",
+      "ar": "تدقيق شامل للتقادم: أجهزة PLC، IPC، SCADA، والبرمجيات — لجميع العلامات التجارية",
+      "zh": "全面的过时审计：PLC、IPC、SCADA、软件 —— 涵盖所有品牌",
+      "en": "Comprehensive obsolescence audit: PLCs, IPC, SCADA, software — all brands"
+    },
+    "data.benefits[@0uHuaT].text": {
+      "source": "Plan de renouvellement sur 3 à 5 ans : priorisé, budgété, avec fenêtres d'intervention",
+      "de": "Erneuerungsplan über 3 bis 5 Jahre: priorisiert, budgetiert, mit Interventionsfenstern",
+      "ar": "خطة تجديد من 3 إلى 5 سنوات: مرتبة حسب الأولويات، ومحددة الميزانية، مع تحديد نوافذ التدخل",
+      "zh": "3 至 5 年更新计划：优先级排序、预算编制，并包含干预窗口",
+      "en": "3 to 5-year renewal plan: prioritized, budgeted, with intervention windows"
+    },
+    "data.benefits[@p6Mppo].text": {
+      "source": "Expert indépendant — aucun intérêt commercial lié aux marques recommandées",
+      "de": "Unabhängiger Experte – kein kommerzielles Interesse an den empfohlenen Marken",
+      "ar": "خبير مستقل — لا توجد مصالح تجارية مرتبطة بالعلامات التجارية الموصى بها",
+      "zh": "独立专家 —— 与推荐品牌无商业利益关联",
+      "en": "Independent expert — no commercial interest linked to recommended brands"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "component": "blocks/article/ArticleTocLayout",
+    "section": "blog/3-trends-to-follow-in-plc-automation/article-toc-layout"
+  },
+  "data": {
+    "navbarHeight": 96,
+    "tocTitle": "Sommaire",
+    "sections": [
+      {
+        "heading": "Introduction : L'IA comme levier de l'automatisation",
+        "paragraphs": [
+          {
+            "text": "Le monde des automates programmables (PLC) ne disparaît pas, il se transforme radicalement. En ce début 2026, l'IA ne modifie pas les fondements de l'électronique ou de l'OT, mais elle agit comme un catalyseur pour moderniser nos outils de travail. Le développement devient plus accessible, la maintenance plus rapide et la programmation plus flexible.",
+            "_tid": "HxnuJD"
+          }
+        ],
+        "videoUrl": "https://www.youtube.com/watch?v=u1zvKZyBE6I",
+        "subsections": [],
+        "_tid": "bPSvVJ"
+      },
+      {
+        "heading": "1. Plateformes de formation : De l'apprentissage empirique à l'IA",
+        "paragraphs": [
+          {
+            "text": "L'apprentissage traditionnel, basé sur l'échec sur le terrain, laisse place à des outils assistés par IA. Des plateformes comme plc.app et easyplc.school permettent aux ingénieurs systèmes et aux profils IT de se former gratuitement et rapidement. Ce changement de paradigme réduit les coûts de formation tout en accélérant la montée en compétences.",
+            "_tid": "EfMAzb"
+          }
+        ],
+        "subsections": [],
+        "_tid": "OHcNUd"
+      },
+      {
+        "heading": "2. Diagnostic intelligent avec Snap PLC",
+        "paragraphs": [
+          {
+            "text": "La maintenance est simplifiée par des outils comme Snap PLC. En analysant les LEDs d'une armoire électrique via une simple photo, l'IA identifie le matériel et propose un diagnostic préliminaire. Bien que l'expertise humaine reste indispensable pour la validation, cet outil réduit drastiquement les temps d'arrêt et facilite la prise en main de nouveaux équipements.",
+            "_tid": "VjVPiy"
+          }
+        ],
+        "subsections": [],
+        "_tid": "1IoiJW"
+      },
+      {
+        "heading": "3. Programmation et génération de code",
+        "paragraphs": [
+          {
+            "text": "Le développement PLC évolue vers plus d'agilité avec trois approches innovantes :",
+            "_tid": "gYE26X"
+          }
+        ],
+        "list": {
+          "style": "unordered",
+          "items": [
+            {
+              "text": "PLC Copilot : Un assistant de débogage pour environnements comme Codesys, réduisant le temps de recherche d'erreurs de plusieurs heures à quelques minutes.",
+              "_tid": "Hd6iVg"
+            },
+            {
+              "text": "Accelera : Plateforme orientée spécifications. Elle transforme vos besoins fonctionnels en code PLC ou DCS, facilitant les phases de validation FAT/SAT et incluant les process engineers dans la boucle.",
+              "_tid": "ASzW08"
+            },
+            {
+              "text": "Chronax : Une approche 'logiciel' permettant d'écrire du code PLC avec des langages modernes, rendant l'automatisation accessible aux développeurs IT et standardisant la gestion de code.",
+              "_tid": "82T38a"
+            }
+          ]
+        },
+        "subsections": [],
+        "_tid": "AItM3l"
+      }
+    ]
+  }
+}

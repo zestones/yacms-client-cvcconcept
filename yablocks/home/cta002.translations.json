@@ -1,0 +1,75 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Prêt à libérer votre potentiel de croissance ?",
+      "de": "Bereit, Ihr Wachstumspotenzial voll auszuschöpfen?",
+      "it": "Pronto a liberare il tuo potenziale di crescita?",
+      "en": "Ready to unlock your growth potential?",
+      "ar": "هل أنت مستعد لإطلاق إمكانات النمو لديك؟",
+      "ru": "Готовы раскрыть свой потенциал роста?",
+      "zh": "准备好释放您的增长潜力了吗？"
+    },
+    "data.cta.text": {
+      "source": "Prendre RDV",
+      "de": "Termin vereinbaren",
+      "it": "Prenota un appuntamento",
+      "en": "Book a Meeting",
+      "ar": "حجز موعد",
+      "ru": "Записаться на встречу",
+      "zh": "预约会议"
+    },
+    "data.benefits[@3rlmAi].text": {
+      "source": "Approche ROIste",
+      "en": "ROI-driven approach",
+      "ar": "نهج يركز على العائد على الاستثمار (ROI)",
+      "ru": "ROI-ориентированный подход",
+      "zh": "注重投资回报率 (ROI) 的方法",
+      "de": "ROI-orientierter Ansatz"
+    },
+    "data.benefits[@g179EW].text": {
+      "source": "+200 clients industriels accompagnés",
+      "en": "+200 industrial clients supported",
+      "ar": "دعم أكثر من 200 عميل صناعي",
+      "ru": "Более 200 промышленных клиентов",
+      "zh": "已助力 200 多家工业客户",
+      "de": "+200 unterstützte Industriekunden"
+    },
+    "data.benefits[@IRskBv].text": {
+      "source": "HubSpot Diamond Partner",
+      "en": "HubSpot Diamond Partner",
+      "ar": "شريك HubSpot الماسي",
+      "ru": "HubSpot Diamond Partner",
+      "zh": "HubSpot 钻石合作伙伴",
+      "de": "HubSpot Diamond Partner"
+    },
+    "data.benefits[@qx0uRr].text": {
+      "source": "hello World",
+      "ar": "hello World",
+      "en": "hello World",
+      "ru": "hello World",
+      "zh": "hello World",
+      "de": "hello World"
+    },
+    "data.benefits[@3wdaaW].text": {
+      "source": "accompagnement personalisé",
+      "de": "personalisierte Unterstützung"
+    },
+    "data.benefits[@fVw7mQ].text": {
+      "source": "accompagnement personalisé",
+      "de": "personalisierte Unterstützung"
+    },
+    "data.benefits[@tlfIcE].text": {
+      "source": "approche personalisé",
+      "de": "personalisierter Ansatz"
+    },
+    "data.benefits[@91bFhA].text": {
+      "source": "accompagnement personalisé",
+      "de": "personalisierte Unterstützung"
+    },
+    "data.benefits[@czqMJR].text": {
+      "source": "accompagnement personalisé",
+      "de": "personalisierte Unterstützung"
+    }
+  }
+}

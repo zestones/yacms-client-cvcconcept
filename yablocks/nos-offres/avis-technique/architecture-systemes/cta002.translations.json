@@ -1,0 +1,50 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Vous définissez l'architecture de votre prochain système de production ?",
+      "en": "Are you defining the architecture for your next production system?",
+      "de": "Planen Sie die Architektur Ihres nächsten Produktionssystems?",
+      "ar": "هل تقوم بتحديد بنية نظام الإنتاج القادم الخاص بك؟",
+      "ru": "Вы проектируете архитектуру вашей следующей производственной системы?",
+      "it": "Stai definendo l'architettura del tuo prossimo sistema di produzione?",
+      "zh": "您正在定义下一个生产系统的架构吗？"
+    },
+    "data.cta.text": {
+      "source": "Demander un avis d'architecture",
+      "en": "Request an architecture review",
+      "de": "Architekturberatung anfragen",
+      "ar": "طلب استشارة حول البنية التحتية",
+      "ru": "Запросить консультацию по архитектуре",
+      "it": "Richiedi un parere sull'architettura",
+      "zh": "申请架构咨询"
+    },
+    "data.benefits[@6YHe5A].text": {
+      "source": "Expert indépendant — aucun lien commercial avec les constructeurs",
+      "en": "Independent expert — no commercial ties to manufacturers",
+      "de": "Unabhängiger Experte — keine kommerziellen Bindungen an Hersteller",
+      "ar": "خبير مستقل — لا توجد روابط تجارية مع الشركات المصنعة",
+      "ru": "Независимый эксперт — отсутствие коммерческих связей с производителями",
+      "it": "Esperto indipendente — nessun legame commerciale con i produttori",
+      "zh": "独立专家 —— 与制造商无商业关联"
+    },
+    "data.benefits[@mUpD9m].text": {
+      "source": "Spécifications et cahier des charges livrables, prêts pour appel d'offres",
+      "en": "Deliverable specifications and requirements, ready for tender",
+      "de": "Lieferbare Spezifikationen und Lastenhefte, bereit für die Ausschreibung",
+      "ar": "مواصفات ودفاتر شروط قابلة للتسليم، جاهزة لطلبات العروض",
+      "ru": "Спецификации и технические задания, готовые к тендеру",
+      "it": "Specifiche e capitolato tecnico consegnabili, pronti per la gara d'appalto",
+      "zh": "提供可交付的规格说明书和技术要求，可直接用于招标"
+    },
+    "data.benefits[@Q80QQA].text": {
+      "source": "Multimarque, multi-secteurs — Siemens, Rockwell, Schneider, Beckhoff, Wago",
+      "en": "Multi-brand, multi-sector — Siemens, Rockwell, Schneider, Beckhoff, Wago",
+      "de": "Marken- und branchenübergreifend — Siemens, Rockwell, Schneider, Beckhoff, Wago",
+      "ar": "متعدد العلامات التجارية، متعدد القطاعات — Siemens، Rockwell، Schneider، Beckhoff، Wago",
+      "ru": "Мультибрендовость и многоотраслевой опыт — Siemens, Rockwell, Schneider, Beckhoff, Wago",
+      "it": "Multimarca, multisettore — Siemens, Rockwell, Schneider, Beckhoff, Wago",
+      "zh": "多品牌、多行业 —— Siemens, Rockwell, Schneider, Beckhoff, Wago"
+    }
+  }
+}

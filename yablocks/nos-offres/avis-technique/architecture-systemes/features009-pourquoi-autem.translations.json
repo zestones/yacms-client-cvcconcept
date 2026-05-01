@@ -1,0 +1,104 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "POURQUOI AUTEM",
+      "en": "WHY AUTEM",
+      "de": "WARUM AUTEM",
+      "ar": "لماذا AUTEM",
+      "ru": "ПОЧЕМУ AUTEM",
+      "it": "PERCHÉ AUTEM",
+      "zh": "为什么选择 AUTEM"
+    },
+    "data.title": {
+      "source": "Expert indépendant, multimarque, terrain — pas un bureau d'études généraliste.",
+      "en": "Independent, multi-brand, field-proven expert — not a generalist consultancy.",
+      "de": "Unabhängiger, herstellerübergreifender Praxisexperte – kein allgemeines Planungsbüro.",
+      "ar": "خبير مستقل، متعدد العلامات التجارية، ميداني — وليس مجرد مكتب دراسات عام.",
+      "ru": "Независимый многобрендовый эксперт-практик — а не просто общий проектный институт.",
+      "it": "Esperto indipendente, multimarca, sul campo — non un ufficio di studi generalista.",
+      "zh": "独立、多品牌、实战专家 —— 而非通用设计事务所。"
+    },
+    "data.conclusion": {
+      "source": "Nous n'avons aucun intérêt à vous orienter vers un fournisseur plutôt qu'un autre. Notre seule métrique est votre autonomie opérationnelle à 5 et 10 ans.",
+      "en": "We have no interest in steering you toward one supplier over another. Our only metric is your operational autonomy over the next 5 to 10 years.",
+      "de": "Wir haben kein Interesse daran, Sie zu einem bestimmten Lieferanten zu steuern. Unsere einzige Kennzahl ist Ihre operative Autonomie in 5 und 10 Jahren.",
+      "ar": "ليس لدينا أي مصلحة في توجيهكم نحو مورد دون آخر. مقياسنا الوحيد هو استقلاليتكم التشغيلية على مدى 5 و10 سنوات.",
+      "ru": "Мы не заинтересованы в продвижении одного поставщика перед другим. Нашим единственным критерием является ваша операционная автономность на горизонте 5 и 10 лет.",
+      "it": "Non abbiamo alcun interesse a indirizzarvi verso un fornitore piuttosto che un altro. La nostra unica metrica è la vostra autonomia operativa a 5 e 10 anni.",
+      "zh": "我们没有理由引导您选择某个特定供应商。我们唯一的衡量标准是您在 5 到 10 年内的运营自主权。"
+    },
+    "data.image.alt": {
+      "source": "Expert AUTEM — architecture systèmes de contrôle-commande industriels",
+      "en": "AUTEM Expert — industrial control system architecture",
+      "de": "AUTEM-Experte – Architektur industrieller Steuerungs- und Leitsysteme",
+      "ar": "خبير AUTEM — هندسة أنظمة التحكم والقيادة الصناعية",
+      "ru": "Эксперт AUTEM — архитектура промышленных систем управления",
+      "it": "Esperto AUTEM — architettura sistemi di controllo-comando industriali",
+      "zh": "AUTEM 专家 —— 工业控制系统架构"
+    },
+    "data.paragraphs[@mFiBX2].text": {
+      "source": "Les mauvaises architectures industrielles sont souvent conçues par des intervenants qui ne remettent plus les pieds sur le terrain. AUTEM a mis en service des systèmes chez Hermès, Amazon, Thalys et ArcelorMittal. Nos spécifications sont construites sur l'expérience de ce qui tient — pas sur des préférences théoriques.",
+      "en": "Poor industrial architectures are often designed by stakeholders who no longer set foot on the ground. AUTEM has commissioned systems for Hermès, Amazon, Thalys, and ArcelorMittal. Our specifications are built on the experience of what actually works—not on theoretical preferences.",
+      "de": "Schlechte Industriearchitekturen werden oft von Akteuren konzipiert, die kaum noch den Fuß auf die Produktionsfläche setzen. AUTEM hat Systeme bei Hermès, Amazon, Thalys und ArcelorMittal in Betrieb genommen. Unsere Spezifikationen basieren auf der Erfahrung dessen, was in der Praxis funktioniert – nicht auf theoretischen Präferenzen.",
+      "ar": "غالبًا ما يتم تصميم البنى الصناعية السيئة من قبل جهات لم تعد تطأ أقدامها الميدان. لقد قامت AUTEM بتشغيل أنظمة لدى Hermès وAmazon وThalys وArcelorMittal. مواصفاتنا مبنية على خبرة ما ينجح فعليًا — وليس على تفضيلات نظرية.",
+      "ru": "Ошибки в промышленной архитектуре часто допускаются теми, кто давно не был на производстве. AUTEM вводил в эксплуатацию системы для Hermès, Amazon, Thalys и ArcelorMittal. Наши спецификации основаны на реальном опыте того, что действительно работает, а не на теоретических предпочтениях.",
+      "it": "Le architetture industriali errate sono spesso progettate da consulenti che non mettono più piede sul campo. AUTEM ha messo in servizio sistemi presso Hermès, Amazon, Thalys e ArcelorMittal. Le nostre specifiche si basano sull'esperienza di ciò che funziona concretamente — non su preferenze teoriche.",
+      "zh": "糟糕的工业架构通常是由那些不再接触现场的人员设计的。AUTEM 已在 Hermès、Amazon、Thalys 和 ArcelorMittal 成功部署系统。我们的规范基于实际运行的经验，而非理论偏好。"
+    },
+    "data.highlights[@b7U3Ue].text": {
+      "source": "Indépendant de tout constructeur (Siemens, Rockwell, Schneider, Beckhoff) — aucun conflit d'intérêt dans les recommandations",
+      "en": "Vendor-independent (Siemens, Rockwell, Schneider, Beckhoff)—no conflict of interest in recommendations",
+      "de": "Unabhängig von jedem Hersteller (Siemens, Rockwell, Schneider, Beckhoff) – keine Interessenkonflikte bei den Empfehlungen",
+      "ar": "مستقل عن أي مصنع (Siemens, Rockwell, Schneider, Beckhoff) — لا يوجد تضارب في المصالح في التوصيات",
+      "ru": "Независимость от любого производителя (Siemens, Rockwell, Schneider, Beckhoff) — отсутствие конфликта интересов при подготовке рекомендаций",
+      "it": "Indipendente da ogni costruttore (Siemens, Rockwell, Schneider, Beckhoff) — nessun conflitto di interessi nelle raccomandazioni",
+      "zh": "独立于任何制造商（Siemens, Rockwell, Schneider, Beckhoff）——在建议中不存在利益冲突"
+    },
+    "data.highlights[@udGjhQ].text": {
+      "source": "Double compétence OT+IT : automates, réseaux industriels, supervision, cybersécurité et intégration système",
+      "en": "Dual OT+IT expertise: PLCs, industrial networks, supervision, cybersecurity, and system integration",
+      "de": "Doppelkompetenz OT+IT: SPS, industrielle Netzwerke, Leitsysteme, Cybersicherheit und Systemintegration",
+      "ar": "كفاءة مزدوجة في OT+IT: أجهزة التحكم المنطقية المبرمجة، الشبكات الصناعية، الإشراف، الأمن السيبراني وتكامل الأنظمة",
+      "ru": "Двойная компетенция OT+IT: ПЛК, промышленные сети, SCADA, кибербезопасность и системная интеграция",
+      "it": "Doppia competenza OT+IT: PLC, reti industriali, supervisione, cybersecurity e integrazione di sistema",
+      "zh": "OT+IT 双重能力：PLC、工业网络、监控、网络安全和系统集成"
+    },
+    "data.highlights[@y8RnWP].text": {
+      "source": "Expérience terrain multi-secteurs : luxe, logistique, mobilité, chimie, métallurgie, machines spéciales",
+      "en": "Multi-sector field experience: luxury, logistics, mobility, chemicals, metallurgy, special machinery",
+      "de": "Praxiserfahrung in verschiedenen Sektoren: Luxusgüter, Logistik, Mobilität, Chemie, Metallurgie, Sondermaschinenbau",
+      "ar": "خبرة ميدانية في قطاعات متعددة: الفخامة، اللوجستيات، التنقل، الكيماويات، المعادن، والآلات الخاصة",
+      "ru": "Опыт работы в различных секторах: люкс, логистика, транспорт, химия, металлургия, спецмашиностроение",
+      "it": "Esperienza sul campo multi-settore: lusso, logistica, mobilità, chimica, metallurgia, macchine speciali",
+      "zh": "多行业现场经验：奢侈品、物流、出行、化工、冶金、专用设备"
+    },
+    "data.highlights[@JEGEJJ].text": {
+      "source": "Maîtrise des normes industrielles : ISA-88, ISA-95, IEC 62443 (cybersécurité OT), IEC 61511",
+      "en": "Mastery of industrial standards: ISA-88, ISA-95, IEC 62443 (OT cybersecurity), IEC 61511",
+      "de": "Beherrschung industrieller Normen: ISA-88, ISA-95, IEC 62443 (OT-Cybersicherheit), IEC 61511",
+      "ar": "إتقان المعايير الصناعية: ISA-88, ISA-95, IEC 62443 (الأمن السيبراني لـ OT), IEC 61511",
+      "ru": "Владение промышленными стандартами: ISA-88, ISA-95, IEC 62443 (кибербезопасность OT), IEC 61511",
+      "it": "Padronanza delle norme industriali: ISA-88, ISA-95, IEC 62443 (cybersecurity OT), IEC 61511",
+      "zh": "精通工业标准：ISA-88, ISA-95, IEC 62443 (OT 网络安全), IEC 61511"
+    },
+    "data.highlights[@9ffFlM].text": {
+      "source": "Livrables utilisables directement : spécifications, schémas d'architecture, cahier des charges prêts pour appel d'offres",
+      "en": "Directly usable deliverables: specifications, architecture diagrams, tender-ready technical specifications",
+      "de": "Direkt nutzbare Ergebnisse: Spezifikationen, Architekturdiagramme, Lastenhefte bereit für die Ausschreibung",
+      "ar": "مخرجات قابلة للاستخدام مباشرة: مواصفات، مخططات معمارية، ودفاتر شروط جاهزة للمناقصات",
+      "ru": "Готовые к использованию результаты: спецификации, схемы архитектуры, технические задания для тендеров",
+      "it": "Deliverable direttamente utilizzabili: specifiche, schemi di architettura, capitolati pronti per la gara d'appalto",
+      "zh": "可直接使用的交付物：规范、架构图、可用于招标的技术规范书"
+    },
+    "data.highlights[@aPhM5n].text": {
+      "source": "Accompagnement possible jusqu'à la validation : relecture des offres fournisseurs, assistance au choix final",
+      "en": "Support available through to validation: review of supplier bids, assistance in final selection",
+      "de": "Begleitung bis zur Validierung: Prüfung von Lieferantenangeboten, Unterstützung bei der finalen Auswahl",
+      "ar": "إمكانية المرافقة حتى مرحلة الاعتماد: مراجعة عروض الموردين والمساعدة في الاختيار النهائي",
+      "ru": "Возможное сопровождение до этапа приемки: проверка предложений поставщиков, помощь в окончательном выборе",
+      "it": "Possibile accompagnamento fino alla validazione: revisione delle offerte dei fornitori, assistenza nella scelta finale",
+      "zh": "可提供直至验证阶段的陪同服务：审核供应商报价，协助最终选择"
+    }
+  }
+}

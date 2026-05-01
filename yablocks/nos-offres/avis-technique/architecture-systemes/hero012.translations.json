@@ -1,0 +1,41 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "AVIS TECHNIQUE",
+      "en": "TECHNICAL ADVISORY",
+      "de": "TECHNISCHE ",
+      "ar": "رأي تقني",
+      "ru": "ТЕХНИЧЕСКИЙ ОБЗОР",
+      "it": "PARERE TECNICO",
+      "zh": "技术建议"
+    },
+    "data.title": {
+      "source": "Architecture de Systèmes de Commande.",
+      "en": "Control System Architecture.",
+      "de": "Architektur von Steuerungssystemen.",
+      "ar": "بنية أنظمة التحكم والقيادة.",
+      "ru": "Архитектура систем управления",
+      "it": "Architettura dei Sistemi di Controllo-Comando.",
+      "zh": "控制系统架构"
+    },
+    "data.subtitle": {
+      "source": "Vous devez choisir et structurer l'architecture de votre prochain système de production ? AUTEM construit des architectures d'automatisme indépendantes de tout constructeur — souveraines, scalables et documentées de bout en bout.",
+      "en": "Do you need to choose and structure the architecture for your next production system? AUTEM designs vendor-independent automation architectures — sovereign, scalable, and documented end-to-end.",
+      "de": "Müssen Sie die Architektur Ihres nächsten Produktionssystems wählen und strukturieren? AUTEM erstellt herstellerunabhängige Automatisierungsarchitekturen – souverän, skalierbar und durchgehend dokumentiert.",
+      "ar": "هل يجب عليك اختيار وتصميم بنية نظام الإنتاج القادم الخاص بك؟ تقوم AUTEM ببناء بنيات أتمتة مستقلة عن أي مصنع — سيادية، قابلة للتوسع وموثقة بالكامل.",
+      "ru": "Вам нужно выбрать и структурировать архитектуру вашей следующей производственной системы? AUTEM создает архитектуры автоматизации, независимые от любого производителя — суверенные, масштабируемые и полностью документированные.",
+      "it": "Devi scegliere e strutturare l'architettura del tuo prossimo sistema di produzione? AUTEM costruisce architetture di automazione indipendenti da ogni produttore: sovrane, scalabili e documentate end-to-end.",
+      "zh": "您需要为下一个生产系统选择并构建架构？AUTEM 构建独立于任何制造商的自动化架构——主权、可扩展且端到端文档齐全。"
+    },
+    "data.backgroundImage.alt": {
+      "source": "Architecture systèmes contrôle-commande automatisme industriel — AUTEM",
+      "en": "Industrial automation control system architecture — AUTEM",
+      "de": "Architektur von Steuerungs- und Regelsystemen für die industrielle Automatisierung – AUTEM",
+      "ar": "بنية أنظمة التحكم والقيادة للأتمتة الصناعية — AUTEM",
+      "ru": "Архитектура систем управления промышленной автоматизацией — AUTEM",
+      "it": "Architettura sistemi controllo-comando automazione industriale — AUTEM",
+      "zh": "工业自动化控制系统架构 — AUTEM"
+    }
+  }
+}

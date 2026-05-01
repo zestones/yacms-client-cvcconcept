@@ -1,0 +1,86 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.headline": {
+      "source": "Une mauvaise architecture ne coûte rien à l'heure où on la choisit — elle coûte tout quand on ne peut plus la changer.",
+      "en": "A bad architecture costs nothing at the time it's chosen — it costs everything when it can no longer be changed.",
+      "de": "Eine schlechte Architektur kostet in dem Moment, in dem man sie wählt, nichts — sie kostet alles, wenn man sie nicht mehr ändern kann.",
+      "ar": "البنية التحتية السيئة لا تكلف شيئاً في لحظة اختيارها — بل تكلف كل شيء عندما يصبح من المستحيل تغييرها.",
+      "ru": "Плохая архитектура ничего не стоит в момент выбора — она стоит всего, когда её больше нельзя изменить.",
+      "it": "Un'architettura errata non costa nulla nel momento in cui viene scelta — costa tutto quando non è più possibile cambiarla.",
+      "zh": "糟糕的架构在选择之初看似没有成本——但在无法更改时，它将付出所有代价。"
+    },
+    "data.closing": {
+      "source": "Une architecture choisie avec soin, c'est 10 ans de maintenance sans surprise — et une équipe interne capable de la faire évoluer.",
+      "en": "A carefully chosen architecture means 10 years of maintenance without surprises — and an internal team capable of evolving it.",
+      "de": "Eine sorgfältig gewählte Architektur bedeutet 10 Jahre Wartung ohne Überraschungen — und ein internes Team, das in der Lage ist, sie weiterzuentwickeln.",
+      "ar": "البنية التحتية التي يتم اختيارها بعناية تعني 10 سنوات من الصيانة دون مفاجآت — وفريق داخلي قادر على تطويرها.",
+      "ru": "Тщательно продуманная архитектура — это 10 лет обслуживания без сюрпризов и внутренняя команда, способная развивать её дальше.",
+      "it": "Un'architettura scelta con cura significa 10 anni di manutenzione senza sorprese — e un team interno capace di farla evolvere.",
+      "zh": "精心选择的架构意味着 10 年无忧的维护，以及一支能够使其持续演进的内部团队。"
+    },
+    "data.badges[@jBHTyq].alt": {
+      "source": "Hermès — Architecture systèmes industriels, Paris",
+      "en": "Hermès — Industrial systems architecture, Paris",
+      "de": "Hermès — Industrielle Systemarchitektur, Paris",
+      "ar": "Hermès — هندسة الأنظمة الصناعية، باريس",
+      "ru": "Hermès — Архитектура промышленных систем, Париж",
+      "it": "Hermès — Architettura sistemi industriali, Parigi",
+      "zh": "Hermès — 工业系统架构，巴黎"
+    },
+    "data.badges[@H7HbQZ].alt": {
+      "source": "Amazon — WCS/WMS automatisation entrepôt mécanisé",
+      "en": "Amazon — WCS/WMS mechanized warehouse automation",
+      "de": "Amazon — WCS/WMS Automatisierung mechanisierter Lager",
+      "ar": "Amazon — أتمتة WCS/WMS للمستودعات الميكانيكية",
+      "ru": "Amazon — WCS/WMS автоматизация механизированного склада",
+      "it": "Amazon — WCS/WMS automazione magazzino meccanizzato",
+      "zh": "Amazon — 机械化仓库自动化 WCS/WMS"
+    },
+    "data.badges[@aybNWj].alt": {
+      "source": "Thalys — Supervision réseau, télémétrie IoT",
+      "en": "Thalys — Network supervision, IoT telemetry",
+      "de": "Thalys — Netzwerküberwachung, IoT-Telemetrie",
+      "ar": "Thalys — مراقبة الشبكة، القياس عن بعد عبر IoT",
+      "ru": "Thalys — Диспетчеризация сети, IoT-телеметрия",
+      "it": "Thalys — Supervisione rete, telemetria IoT",
+      "zh": "Amazon — 网络监督，IoT 遥测"
+    },
+    "data.paragraphs[@pfPCEX].text": {
+      "source": "Choisir une plateforme par habitude ou parce qu'un commercial s'est montré convaincant. Ne pas anticiper les besoins d'interconnexion entre les systèmes OT et IT. Dimensionner un réseau sans penser à la croissance et à la redondance. Ces décisions paraissent anodines en début de projet. Leur impact se mesure en années, pas en semaines.",
+      "en": "Choosing a platform out of habit or because a salesperson was convincing. Failing to anticipate interconnection needs between OT and IT systems. Sizing a network without considering growth and redundancy. These decisions seem trivial at the start of a project. Their impact is measured in years, not weeks.",
+      "de": "Eine Plattform aus Gewohnheit oder weil ein Vertriebsmitarbeiter überzeugend war, zu wählen. Die Vernetzungsbedarfe zwischen OT- und IT-Systemen nicht vorauszusehen. Ein Netzwerk zu dimensionieren, ohne an Wachstum und Redundanz zu denken. Diese Entscheidungen erscheinen zu Beginn eines Projekts unbedeutend. Ihre Auswirkungen bemessen sich in Jahren, nicht in Wochen.",
+      "ar": "اختيار منصة بناءً على العادة أو لأن مندوب المبيعات كان مقنعاً. عدم توقع احتياجات الربط بين أنظمة OT و IT. تصميم شبكة دون التفكير في النمو والتكرار. تبدو هذه القرارات تافهة في بداية المشروع، لكن تأثيرها يُقاس بالسنوات لا بالأسابيع.",
+      "ru": "Выбор платформы по привычке или потому что менеджер по продажам был убедителен. Отсутствие прогнозирования потребностей в межсистемном взаимодействии между OT и IT. Проектирование сети без учета роста и резервирования. Эти решения кажутся незначительными в начале проекта. Их влияние измеряется годами, а не неделями.",
+      "it": "Scegliere una piattaforma per abitudine o perché un commerciale si è dimostrato convincente. Non anticipare le esigenze di interconnessione tra i sistemi OT e IT. Dimensionare una rete senza pensare alla crescita e alla ridondanza. Queste decisioni sembrano insignificanti all'inizio di un progetto. Il loro impatto si misura in anni, not in settimane.",
+      "zh": "出于习惯选择平台，或者因为销售人员的说服力而做决定。未能预见 OT 和 IT 系统之间的互连需求。在规划网络规模时未考虑增长和冗余。这些决定在项目初期看似微不足道，但其影响将以年为单位，而非以周为单位。"
+    },
+    "data.paragraphs[@suwvlf].text": {
+      "source": "En aval, la facture s'alourdit : serveurs SCADA surdimensionnés ou sous-dimensionnés, réseaux industriels impossibles à sécuriser, équipements incompatibles entre eux, dépendance totale à un unique fabricant pour les mises à jour, les licences et le support.",
+      "en": "Downstream, the costs mount: oversized or undersized SCADA servers, industrial networks that are impossible to secure, incompatible equipment, and total dependence on a single manufacturer for updates, licenses, and support.",
+      "de": "Im weiteren Verlauf steigen die Kosten: über- oder unterdimensionierte SCADA-Server, industrielle Netzwerke, die sich nicht absichern lassen, inkompatible Geräte, totale Abhängigkeit von einem einzigen Hersteller für Updates, Lizenzen und Support.",
+      "ar": "وفيما بعد، تزداد التكاليف: خوادم SCADA ذات أحجام غير مناسبة (سواء كانت أكبر أو أصغر من اللازم)، شبكات صناعية يستحيل تأمينها، معدات غير متوافقة فيما بينها، واعتماد كلي على مصنع واحد للتحديثات والتراخيص والدعم.",
+      "ru": "В итоге счет становится всё выше: переразмеренные или недоразмеренные серверы SCADA, промышленные сети, которые невозможно обезопасить, несовместимое между собой оборудование, полная зависимость от одного производителя в вопросах обновлений, лицензий и поддержки.",
+      "it": "A valle, il conto si fa pesante: server SCADA sovradimensionati o sottodimensionati, reti industriali impossibili da mettere in sicurezza, attrezzature incompatibili tra loro, dipendenza totale da un unico produttore per aggiornamenti, licenze e supporto.",
+      "zh": "在后续阶段，成本将大幅增加：SCADA 服务器配置过高或过低，工业网络无法保障安全，设备之间互不兼容，在更新、许可和支持方面完全依赖于单一制造商。"
+    },
+    "data.paragraphs[@1ErBrU].text": {
+      "source": "Une architecture bien définie répond à des questions précises : quels équipements, quels protocoles, quelle topologie réseau, quels niveaux de redondance, quelle séparation OT/IT, quelle stratégie de cybersécurité. Elle est documentée, justifiée — et défendable devant un client, un auditeur ou une équipe maintenance.",
+      "en": "A well-defined architecture answers specific questions: which equipment, which protocols, which network topology, what levels of redundancy, what OT/IT separation, and what cybersecurity strategy. It is documented, justified—and defensible before a client, an auditor, or a maintenance team.",
+      "de": "Eine gut definierte Architektur beantwortet präzise Fragen: welche Geräte, welche Protokolle, welche Netzwerktopologie, welche Redundanzebenen, welche OT/IT-Trennung, welche Cybersicherheitsstrategie. Sie ist dokumentiert, begründet — und gegenüber einem Kunden, einem Auditor oder einem Wartungsteam vertretbar.",
+      "ar": "تستجيب البنية التحتية المحددة جيداً لأسئلة دقيقة: ما هي المعدات، ما هي البروتوكولات، ما هي طبولوجيا الشبكة، ما هي مستويات التكرار، كيف يتم الفصل بين OT و IT، وما هي استراتيجية الأمن السيبراني. تكون هذه البنية موثقة ومبررة — وقابلة للدفاع عنها أمام العميل أو المدقق أو فريق الصيانة.",
+      "ru": "Четко определенная архитектура отвечает на конкретные вопросы: какое оборудование, какие протоколы, какая топология сети, какие уровни резервирования, какое разделение OT/IT, какая стратегия кибербезопасности. Она документирована, обоснована и может быть защищена перед клиентом, аудитором или командой технического обслуживания.",
+      "it": "Un'architettura ben definita risponde a domande precise: quali attrezzature, quali protocolli, quale topologia di rete, quali livelli di ridondanza, quale separazione OT/IT, quale strategia di cybersecurity. È documentata, giustificata — e difendibile davanti a un cliente, un auditore o un team di manutenzione.",
+      "zh": "一个定义良好的架构能够回答具体的问题：哪些设备，哪些协议，什么样的网络拓扑，什么样的冗余级别，OT/IT 如何分离，什么样的网络安全策略。它经过文档化和合理化，能够在客户、审计员或维护团队面前具有说服力。"
+    },
+    "data.paragraphs[@lhc1ZK].text": {
+      "source": "AUTEM intervient en amont : avant les appels d'offres, avant les choix structurants. En tant qu'expert indépendant, sans affiliation à aucun constructeur, notre seul objectif est de vous proposer l'architecture qui répond à vos contraintes techniques, budgétaires et opérationnelles à long terme.",
+      "en": "AUTEM intervenes upstream: before tenders, before structural choices. As an independent expert, with no affiliation to any manufacturer, our sole objective is to propose the architecture that meets your technical, budgetary, and operational constraints in the long term.",
+      "de": "AUTEM setzt bereits im Vorfeld an: vor den Ausschreibungen, vor den strukturellen Entscheidungen. Als unabhängiger Experte ohne Bindung an Hersteller ist es unser einziges Ziel, Ihnen die Architektur vorzuschlagen, die Ihren technischen, budgetären und betrieblichen Anforderungen langfristig gerecht wird.",
+      "ar": "تتدخل AUTEM في المراحل الأولية: قبل طلبات العروض، وقبل اتخاذ القرارات الهيكلية. وبصفتنا خبراء مستقلين، دون أي ارتباط بأي مصنع، هدفنا الوحيد هو اقتراح البنية التحتية التي تلبي قيودكم التقنية والميزانية والتشغيلية على المدى الطويل.",
+      "ru": "AUTEM вмешивается на раннем этапе: до тендеров, до принятия структурных решений. Как независимый эксперт, не связанный ни с одним производителем, наша единственная цель — предложить вам архитектуру, которая отвечает вашим техническим, бюджетным и операционным ограничениям в долгосрочной перспективе.",
+      "it": "AUTEM interviene a monte: prima dei bandi di gara, prima delle scelte strutturanti. In qualità di esperti indipendenti, senza affiliazione a nessun costruttore, il nostro unico obiettivo è proporvi l'architettura che risponda ai vostri vincoli tecnici, budgetari e operativi a lungo termine.",
+      "zh": "AUTEM 在前期介入：在招标前，在做出结构性选择之前。作为一名独立专家，不隶属于任何制造商，我们的唯一目标是为您提供能够满足您长期技术、预算和运营约束的架构方案。"
+    }
+  }
+}

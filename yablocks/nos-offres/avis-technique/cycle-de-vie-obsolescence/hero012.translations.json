@@ -1,0 +1,41 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "AVIS TECHNIQUE",
+      "de": "TECHNISCHE MITTEILUNG",
+      "ar": "رأي فني",
+      "zh": "技术建议",
+      "ru": "ТЕХНИЧЕСКОЕ ЗАКЛЮЧЕНИЕ",
+      "en": "TECHNICAL ADVICE",
+      "it": "PARERE TECNICO"
+    },
+    "data.title": {
+      "source": "Cycle de Vie et Gestion de l'Obsolescence.",
+      "de": "Lebenszyklus und Obsoleszenzmanagement",
+      "ar": "دورة الحياة وإدارة التقادم",
+      "zh": "生命周期与过时管理",
+      "ru": "Жизненный цикл и управление устареванием",
+      "en": "Life Cycle and Obsolescence Management",
+      "it": "Ciclo di Vita e Gestione dell'Obsolescenza."
+    },
+    "data.subtitle": {
+      "source": "Vos automates et logiciels ont 10, 15 ou 20 ans ? La plupart des industriels découvrent l'obsolescence le jour d'une panne — quand il est trop tard pour planifier. AUTEM vous aide à anticiper, avant que votre ligne s'arrête.",
+      "de": "Sind Ihre SPS und Software 10, 15 oder 20 Jahre alt? Die meisten Industrieunternehmen entdecken die Obsoleszenz erst am Tag eines Ausfalls – wenn es für eine Planung zu spät ist. AUTEM hilft Ihnen, vorauszuschauen, bevor Ihre Anlage stillsteht.",
+      "ar": "هل تبلغ أعمار أجهزتكم الآلية وبرامجكم 10 أو 15 أو 20 عاماً؟ يكتشف معظم الصناعيين التقادم في يوم حدوث العطل — عندما يكون الوقت قد فات للتخطيط. تساعدكم AUTEM على الاستباقية قبل أن يتوقف خط إنتاجكم.",
+      "zh": "您的自动化设备和软件已经使用了 10、15 或 20 年？大多数工业企业在设备发生故障时才意识到其已过时——那时计划已经太晚。AUTEM 帮助您提前预判，避免生产线停机。",
+      "ru": "Вашим контроллерам и программному обеспечению 10, 15 или 20 лет? Большинство промышленных предприятий обнаруживают устаревание в день поломки — когда планировать уже слишком поздно. AUTEM поможет вам предусмотреть всё заранее, чтобы ваша линия не остановилась.",
+      "en": "Are your PLCs and software 10, 15, or 20 years old? Most industrial operators discover obsolescence on the day of a breakdown—when it's too late to plan. AUTEM helps you anticipate, before your line stops.",
+      "it": "I vostri PLC e software hanno 10, 15 o 20 anni? La maggior parte degli industriali scopre l'obsolcenza quando avviene un guasto — quando è troppo tardi per pianificare. AUTEM vi aiuta ad anticipare, prima che la vostra linea si fermi."
+    },
+    "data.backgroundImage.alt": {
+      "source": "Gestion cycle de vie obsolescence équipements industriels — AUTEM",
+      "de": "Lebenszyklusmanagement und Obsoleszenz industrieller Anlagen – AUTEM",
+      "ar": "إدارة دورة حياة تقادم المعدات الصناعية — AUTEM",
+      "zh": "工业设备生命周期过时管理 — AUTEM",
+      "ru": "Управление жизненным циклом и устареванием промышленного оборудования — AUTEM",
+      "en": "Industrial equipment life cycle and obsolescence management — AUTEM",
+      "it": "Gestione ciclo di vita obsolescenza apparecchiature industriali — AUTEM"
+    }
+  }
+}

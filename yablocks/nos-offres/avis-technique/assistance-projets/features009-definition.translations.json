@@ -1,0 +1,83 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "ASSISTANCE PROJETS",
+      "de": "PROJEKTUnterstützung",
+      "ar": "دعم المشاريع",
+      "zh": "项目协助",
+      "ru": "ПОДДЕРЖКА ПРОЕКТОВ",
+      "en": "PROJECT SUPPORT",
+      "it": "ASSISTENZA PROGETTI"
+    },
+    "data.title": {
+      "source": "AMOA technique en automatisme et digitalisation : périmètre et livrables",
+      "de": "Technische AMOA in Automatisierung und Digitalisierung: Umfang und Ergebnisse",
+      "ar": "المساعدة الفنية لإدارة المشاريع (AMOA) في الأتمتة والرقمنة: النطاق والمخرجات",
+      "zh": "自动化与数字化技术 AMOA：范围与交付物",
+      "ru": "Техническое сопровождение (AMOA) в области автоматизации и цифровизации: область применения и результаты",
+      "en": "Technical PMO for automation and digitalization: scope and deliverables",
+      "it": "AMOA tecnica in automazione e digitalizzazione: perimetro e deliverable"
+    },
+    "data.conclusion": {
+      "source": "Résultat : un projet réceptionné conforme au besoin initial, avec une équipe interne formée et une documentation exploitable pour la maintenance.",
+      "de": "Ergebnis: Ein Projekt, das den ursprünglichen Anforderungen entspricht, mit einem geschulten internen Team und einer für die Wartung nutzbaren Dokumentation.",
+      "ar": "النتيجة: مشروع يتم استلامه مطابقاً للاحتياجات الأولية، مع فريق داخلي مدرب وتوثيق قابل للاستخدام للصيانة.",
+      "zh": "结果：项目验收符合初始需求，内部团队经过培训，并拥有可用于维护的文档。",
+      "ru": "Результат: проект принят в полном соответствии с первоначальными требованиями, внутренняя команда обучена, а документация пригодна для эксплуатации и технического обслуживания.",
+      "en": "Result: a project delivered in compliance with the initial needs, with a trained internal team and usable documentation for maintenance.",
+      "it": "Risultato: un progetto collaudato e conforme alle esigenze iniziali, con un team interno formato e una documentazione utilizzabile per la manutenzione."
+    },
+    "data.image.alt": {
+      "source": "Assistance MOA projet automatisme industriel — AUTEM",
+      "de": "Unterstützung bei der Projektsteuerung (MOA) für industrielle Automatisierung — AUTEM",
+      "ar": "دعم إدارة مشاريع الأتمتة الصناعية — AUTEM",
+      "zh": "工业自动化项目 MOA 协助 — AUTEM",
+      "ru": "Техническое сопровождение (AMOA) проекта промышленной автоматизации — AUTEM",
+      "en": "Industrial automation project PMO support — AUTEM",
+      "it": "Assistenza MOA progetto automazione industriale — AUTEM"
+    },
+    "data.paragraphs[@fwgGmi].text": {
+      "source": "L'assistance à maîtrise d'ouvrage (AMOA) technique en automatisme couvre tout le cycle d'un projet industriel du côté du client : de la définition des besoins jusqu'à la réception du système. AUTEM joue le rôle de traducteur entre vos enjeux opérationnels et les exigences techniques des intégrateurs.",
+      "de": "Die technische Projektbegleitung (AMOA) in der Automatisierung deckt den gesamten Zyklus eines Industrieprojekts auf Kundenseite ab: von der Bedarfsdefinition bis zur Systemabnahme. AUTEM fungiert als Übersetzer zwischen Ihren betrieblichen Herausforderungen und den technischen Anforderungen der Integratoren.",
+      "ar": "تغطي المساعدة التقنية لصاحب المشروع (AMOA) في مجال الأتمتة الدورة الكاملة للمشروع الصناعي من جانب العميل: بدءاً من تحديد الاحتياجات وصولاً إلى استلام النظام. تلعب AUTEM دور المترجم بين تحدياتكم التشغيلية والمتطلبات التقنية للمتكاملين.",
+      "zh": "自动化领域的技术业主辅助服务 (AMOA) 涵盖了客户侧工业项目的整个生命周期：从需求定义到系统验收。AUTEM 在您的运营挑战与集成商的技术要求之间扮演“翻译者”的角色。"
+    },
+    "data.highlights[@ygrekM].text": {
+      "source": "Rédaction du cahier des charges technique et fonctionnel pour appels d'offres",
+      "de": "Erstellung des technischen und funktionalen Lastenhefts für Ausschreibungen",
+      "ar": "صياغة دفتر الشروط التقني والوظيفي لطلبات العروض",
+      "zh": "为招标编写技术和功能需求规格书"
+    },
+    "data.highlights[@dTaD74].text": {
+      "source": "Analyse comparative des offres intégrateurs et recommandations objectives",
+      "de": "Vergleichende Analyse der Integratoren-Angebote und objektive Empfehlungen",
+      "ar": "التحليل المقارن لعروض المتكاملين وتقديم توصيات موضوعية",
+      "zh": "对集成商方案进行对比分析并提供客观建议"
+    },
+    "data.highlights[@jAjT9a].text": {
+      "source": "Suivi de conception : revues techniques, validation des plans, commentaires documentaires",
+      "de": "Konzeptionsbegleitung: technische Reviews, Validierung von Plänen, Dokumentationskommentare",
+      "ar": "متابعة التصميم: المراجعات التقنية، المصادقة على المخططات، والملاحظات التوثيقية",
+      "zh": "设计跟踪：技术评审、图纸验证、文档批注"
+    },
+    "data.highlights[@qdS5xB].text": {
+      "source": "Préparation et conduite des tests d'acceptation (FAT en atelier intégrateur, SAT sur site client)",
+      "de": "Vorbereitung und Durchführung von Abnahmetests (FAT in der Werkstatt des Integrators, SAT beim Kunden vor Ort)",
+      "ar": "إعداد وإجراء اختبارات القبول (FAT في ورشة المتكامل، SAT في موقع العميل)",
+      "zh": "准备并执行验收测试（集成商工厂验收 FAT，客户现场验收 SAT）"
+    },
+    "data.highlights[@Is3UMW].text": {
+      "source": "Réception technique et constitution du dossier de fin d'affaire (DOE, manuels, programmes)",
+      "de": "Technische Abnahme und Erstellung der Projektabschlussdokumentation (DOE, Handbücher, Programme)",
+      "ar": "الاستلام التقني وإعداد ملف نهاية المشروع (DOE، الأدلة، البرامج)",
+      "zh": "技术验收并编制完工文档（DOE、手册、程序）"
+    },
+    "data.highlights[@bebf1L].text": {
+      "source": "Coordination entre les expertises : automaticien, électricien, informatique industrielle, process",
+      "de": "Koordination zwischen den Fachbereichen: Automatisierung, Elektrik, industrielle Informatik, Prozess",
+      "ar": "التنسيق بين الخبرات المختلفة: مهندس الأتمتة، الكهربائي، المعلوماتية الصناعية، والعمليات",
+      "zh": "协调各专业领域：自动化工程师、电工、工业信息化、工艺流程"
+    }
+  }
+}

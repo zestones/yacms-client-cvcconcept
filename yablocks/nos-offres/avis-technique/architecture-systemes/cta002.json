@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "component": "blocks/cta/CTABenefitsGrid",
+    "section": "offre/avis-technique/architecture-systemes/cta002"
+  },
+  "data": {
+    "title": "Vous définissez l'architecture de votre prochain système de production ?",
+    "benefits": [
+      {
+        "icon": "shield",
+        "text": "Expert indépendant — aucun lien commercial avec les constructeurs",
+        "_tid": "6YHe5A"
+      },
+      {
+        "icon": "file-text",
+        "text": "Spécifications et cahier des charges livrables, prêts pour appel d'offres",
+        "_tid": "mUpD9m"
+      },
+      {
+        "icon": "layers",
+        "text": "Multimarque, multi-secteurs — Siemens, Rockwell, Schneider, Beckhoff, Wago",
+        "_tid": "Q80QQA"
+      }
+    ],
+    "cta": {
+      "text": "Demander un avis d'architecture",
+      "link": "/contact"
+    }
+  }
+}

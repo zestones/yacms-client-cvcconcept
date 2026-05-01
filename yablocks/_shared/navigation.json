@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "component": "blocks/navigation/NavGlassmorphic",
+    "section": "home/navigation"
+  },
+  "data": {
+    "logo": {
+      "text": "YourBrand",
+      "href": "/",
+      "image": "/logos/logo.png"
+    },
+    "links": [
+      {
+        "label": "Home",
+        "href": "/",
+        "_tid": "2jEoj7"
+      },
+      {
+        "label": "Services",
+        "href": "#services",
+        "dropdown": [
+          {
+            "label": "Service One",
+            "href": "/service/service-one",
+            "_tid": "PvmXXc"
+          },
+          {
+            "label": "Service Two",
+            "href": "/service/service-two",
+            "_tid": "L4hFql"
+          },
+          {
+            "label": "Service Three",
+            "href": "/service/service-three",
+            "_tid": "gBY3WC"
+          }
+        ],
+        "_tid": "YTDCLe"
+      },
+      {
+        "label": "About",
+        "href": "/about",
+        "_tid": "ORjBjf"
+      },
+      {
+        "label": "Portfolio",
+        "href": "/portfolio",
+        "_tid": "ht4GrW"
+      },
+      {
+        "label": "Contact",
+        "href": "#contact",
+        "_tid": "cf8tIX"
+      }
+    ],
+    "cta": {
+      "text": "Get Started",
+      "href": "#contact"
+    }
+  }
+}

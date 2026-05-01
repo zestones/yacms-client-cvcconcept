@@ -1,0 +1,104 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "ARCHITECTURE DE SYSTÈMES",
+      "en": "SYSTEMS ARCHITECTURE",
+      "de": "SYSTEMARCHITEKTUR",
+      "ar": "هندسة الأنظمة",
+      "ru": "АРХИТЕКТУРА СИСТЕМ",
+      "it": "ARCHITETTURA DI SISTEMA",
+      "zh": "系统架构"
+    },
+    "data.title": {
+      "source": "Du cahier des charges à la spécification d'architecture : périmètre et livrables",
+      "en": "From requirements to architecture specification: scope and deliverables",
+      "de": "Vom Lastenheft zur Architekturspezifikation: Umfang und Ergebnisse",
+      "ar": "من دفتر الشروط إلى مواصفات الهندسة: النطاق والمخرجات",
+      "ru": "От технического задания до спецификации архитектуры: область применения и результаты",
+      "it": "Dal capitolato tecnico alla specifica di architettura: perimetro e deliverable",
+      "zh": "从需求规格书到架构规范：范围与交付物"
+    },
+    "data.conclusion": {
+      "source": "Résultat : un document de référence qui engage les bons choix dès le départ, permet d'objectiver les comparaisons entre solutions et protège vos équipes contre la dépendance fournisseur.",
+      "en": "Result: a reference document that ensures the right choices are made from the start, enables objective comparisons between solutions, and protects your teams from vendor lock-in.",
+      "de": "Ergebnis: Ein Referenzdokument, das von Beginn an die richtigen Entscheidungen sicherstellt, objektive Vergleiche zwischen Lösungen ermöglicht und Ihre Teams vor der Abhängigkeit von einzelnen Lieferanten schützt.",
+      "ar": "النتيجة: وثيقة مرجعية تضمن اتخاذ الخيارات الصحيحة منذ البداية، وتسمح بمقارنة موضوعية بين الحلول، وتحمي فرقكم من التبعية للموردين.",
+      "ru": "Результат: базовый документ, который обеспечивает правильный выбор решений с самого начала, позволяет объективно сравнивать варианты и защищает ваши команды от зависимости от одного поставщика.",
+      "it": "Risultato: un documento di riferimento che garantisce le scelte corrette fin dall'inizio, permette di oggettivare i confronti tra le soluzioni e protegge i vostri team dal lock-in del fornitore.",
+      "zh": "结果：一份参考文档，确保从一开始就做出正确选择，使不同方案之间的比较客观化，并保护您的团队免受供应商依赖的影响。"
+    },
+    "data.image.alt": {
+      "source": "Architecture systèmes de contrôle-commande — spécification technique AUTEM",
+      "en": "Control-command systems architecture — AUTEM technical specification",
+      "de": "Architektur von Steuerungs- und Leitsystemen – technische Spezifikation von AUTEM",
+      "ar": "هندسة أنظمة التحكم والقيادة - المواصفات التقنية لشركة AUTEM",
+      "ru": "Архитектура систем управления и контроля — техническая спецификация AUTEM",
+      "it": "Architettura sistemi di controllo-comando — specifica tecnica AUTEM",
+      "zh": "控制系统架构 — AUTEM 技术规范"
+    },
+    "data.paragraphs[@Nqw0xc].text": {
+      "source": "Définir l'architecture d'un système de contrôle-commande industriel, c'est répondre à une série de choix structurants : quels automates, quelle supervision, quel réseau industriel, quels protocoles de communication, quelle intégration vers les systèmes IT (ERP, MES). AUTEM formalise ces choix dans une spécification d'architecture complète et documentée.",
+      "en": "Defining the architecture of an industrial control system means making a series of structural choices: which PLCs, which supervision system, which industrial network, which communication protocols, and how to integrate with IT systems (ERP, MES). AUTEM formalizes these choices in a complete and documented architecture specification.",
+      "de": "Die Definition der Architektur eines industriellen Steuerungs- und Leitsystems bedeutet, eine Reihe von strukturellen Entscheidungen zu treffen: welche SPS, welche Visualisierung, welches Industrienetzwerk, welche Kommunikationsprotokolle, welche Integration in IT-Systeme (ERP, MES). AUTEM formalisiert diese Entscheidungen in einer vollständigen und dokumentierten Architekturspezifikation.",
+      "ar": "إن تحديد هندسة نظام التحكم والقيادة الصناعي يعني الإجابة على سلسلة من الخيارات الهيكلية: أي أجهزة تحكم منطقية مبرمجة (PLCs)، أي نظام إشراف، أي شبكة صناعية، أي بروتوكولات اتصال، وكيفية التكامل مع أنظمة تكنولوجيا المعلومات (ERP, MES). تقوم AUTEM بصياغة هذه الخيارات في مواصفات هندسية كاملة وموثقة.",
+      "ru": "Определение архитектуры промышленной системы управления и контроля означает принятие ряда структурных решений: выбор контроллеров, системы супервизии, промышленной сети, протоколов связи и способов интеграции с IT-системами (ERP, MES). AUTEM формализует эти решения в полной и документированной спецификации архитектуры.",
+      "it": "Definire l'architettura di un sistema di controllo-comando industriale significa rispondere a una serie di scelte strutturanti: quali PLC, quale supervisione, quale rete industriale, quali protocolli di comunicazione, quale integrazione verso i sistemi IT (ERP, MES). AUTEM formalizza queste scelte in una specifica di architettura completa e documentata.",
+      "zh": "定义工业控制系统的架构，意味着要做出的一系列结构性选择：选择哪些 PLC，什么样的监督系统，什么样的工业网络，什么样的通信协议，以及如何集成到 IT 系统（ERP, MES）中。AUTEM 将这些选择正式化为一份完整且文档化的架构规格书。"
+    },
+    "data.highlights[@CNqQA5].text": {
+      "source": "Analyse fonctionnelle et organique : décomposition des fonctions, identification des interfaces, inventaire des entrées-sorties",
+      "en": "Functional and organic analysis: decomposition of functions, identification of interfaces, inventory of inputs-outputs",
+      "de": "Funktionale und organische Analyse: Funktionszerlegung, Identifizierung von Schnittstellen, Inventar der Ein- und Ausgänge",
+      "ar": "التحليل الوظيفي والعضوي: تفكيك الوظائف، تحديد الواجهات، وجرد المدخلات والمخرجات",
+      "ru": "Функциональный и органический анализ: декомпозиция функций, определение интерфейсов, инвентаризация входов-выходов",
+      "it": "Analisi funzionale e organica: scomposizione delle funzioni, identificazione delle interfacce, inventario degli ingressi-uscite",
+      "zh": "功能与组织分析：功能分解，接口识别，输入输出清单"
+    },
+    "data.highlights[@Q0uYL2].text": {
+      "source": "Spécification matérielle multimarque : automates, IHM, serveurs SCADA, équipements réseau — sans lien commercial avec aucun fabricant",
+      "en": "Multi-brand hardware specification: PLCs, HMIs, SCADA servers, network equipment — with no commercial ties to any manufacturer",
+      "de": "Markenunabhängige Hardwarespezifikation: SPS, HMI, SCADA-Server, Netzwerkkomponenten – ohne kommerzielle Bindung an einen Hersteller",
+      "ar": "مواصفات الأجهزة متعددة العلامات التجارية: أجهزة التحكم المنطقية المبرمجة، واجهات HMI، خوادم SCADA، ومعدات الشبكة - دون أي ارتباط تجاري مع أي مصنع",
+      "ru": "Мультибрендовая аппаратная спецификация: контроллеры, HMI, SCADA-серверы, сетевое оборудование — без коммерческой привязки к конкретному производителю",
+      "it": "Specifica hardware multimarca: PLC, HMI, server SCADA, apparati di rete — senza legami commerciali con alcun produttore",
+      "zh": "多品牌硬件规格书：PLC，HMI，SCADA 服务器，网络设备 —— 无任何商业关联的制造商"
+    },
+    "data.highlights[@vfQQev].text": {
+      "source": "Cartographie réseau OT : Profinet, Ethernet/IP, OPC-UA, segmentation VLAN, séparation DMZ",
+      "en": "OT network mapping: Profinet, Ethernet/IP, OPC-UA, VLAN segmentation, DMZ separation",
+      "de": "OT-Netzwerkmapping: Profinet, Ethernet/IP, OPC-UA, VLAN-Segmentierung, DMZ-Trennung",
+      "ar": "رسم خرائط شبكة OT: بروتوكولات Profinet و Ethernet/IP و OPC-UA، تقسيم VLAN، وفصل DMZ",
+      "ru": "Картирование OT-сети: Profinet, Ethernet/IP, OPC-UA, сегментация VLAN, разделение DMZ",
+      "it": "Mappatura rete OT: Profinet, Ethernet/IP, OPC-UA, segmentazione VLAN, separazione DMZ",
+      "zh": "OT 网络映射：Profinet, Ethernet/IP, OPC-UA, VLAN 分段, DMZ 分离"
+    },
+    "data.highlights[@8x6WbJ].text": {
+      "source": "Intégration OT/IT : définition des flux de données entre automates, SCADA, MES et ERP",
+      "en": "OT/IT integration: definition of data flows between PLCs, SCADA, MES, and ERP",
+      "de": "OT/IT-Integration: Definition der Datenflüsse zwischen SPS, SCADA, MES und ERP",
+      "ar": "التكامل بين OT و IT: تحديد تدفقات البيانات بين أجهزة التحكم المنطقية المبرمجة، SCADA، MES و ERP",
+      "ru": "Интеграция OT/IT: определение потоков данных между контроллерами, SCADA, MES и ERP",
+      "it": "Integrazione OT/IT: definizione dei flussi di dati tra PLC, SCADA, MES ed ERP",
+      "zh": "OT/IT 集成：定义 PLC, SCADA, MES 和 ERP 之间的数据流"
+    },
+    "data.highlights[@YFajBi].text": {
+      "source": "Plan de redondance et de continuité : niveaux de redondance, stratégie de sauvegarde et reprise",
+      "en": "Redundancy and continuity plan: redundancy levels, backup and recovery strategy",
+      "de": "Redundanz- und Kontinuitätsplan: Redundanzebenen, Backup- und Recovery-Strategie",
+      "ar": "خطة التكرار والاستمرارية: مستويات التكرار، استراتيجية النسخ الاحتياطي والاستعادة",
+      "ru": "План резервирования и непрерывности: уровни резервирования, стратегия резервного копирования и восстановления",
+      "it": "Piano di ridondanza e continuità: livelli di ridondanza, strategia di backup e disaster recovery",
+      "zh": "冗余与连续性计划：冗余级别，备份与恢复策略"
+    },
+    "data.highlights[@gSP24S].text": {
+      "source": "Cahier des charges technique livrable : document de spécification utilisable directement pour un appel d'offres ou une consultation fournisseur",
+      "en": "Deliverable technical specifications: a specification document that can be used directly for a call for tenders or supplier consultation",
+      "de": "Auslieferbares technisches Lastenheft: Spezifikationsdokument, das direkt für eine Ausschreibung oder eine Lieferantenanfrage verwendet werden kann",
+      "ar": "دفتر شروط تقني قابل للتسليم: وثيقة مواصفات يمكن استخدامها مباشرة في مناقصة أو استشارة موردين",
+      "ru": "Готовое техническое задание: документ спецификации, который можно использовать непосредственно для тендера или запроса предложений от поставщиков",
+      "it": "Capitolato tecnico deliverable: documento di specifica utilizzabile direttamente per una gara d'appalto o una consultazione fornitori",
+      "zh": "可交付的技术规格书：可直接用于招标或供应商咨询的规格文档"
+    }
+  }
+}

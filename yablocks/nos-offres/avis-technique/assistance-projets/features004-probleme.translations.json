@@ -1,0 +1,65 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.headline": {
+      "source": "Un projet industriel mal piloté côté client, c'est un intégrateur qui prend toutes les décisions techniques à votre place.",
+      "de": "Ein industrielles Projekt, das kundenseitig schlecht gesteuert wird, führt dazu, dass der Systemintegrator alle technischen Entscheidungen an Ihrer Stelle trifft.",
+      "ar": "عندما يتم إدارة المشروع الصناعي بشكل سيئ من جانب العميل، فإن شركة التكامل هي التي تتخذ جميع القرارات الفنية بدلاً منك.",
+      "zh": "如果客户方的工业项目管理不善，集成商将代替您做出所有技术决策。",
+      "ru": "Если промышленный проект плохо управляется со стороны заказчика, интегратор принимает все технические решения за вас.",
+      "en": "An industrial project poorly managed on the client side means an integrator taking all the technical decisions for you.",
+      "it": "Un progetto industriale gestito male dal lato cliente, significa che l'integratore prenderà tutte le decisioni tecniche al vostro posto."
+    },
+    "data.closing": {
+      "source": "Votre intégrateur travaille mieux quand votre client sait ce qu'il veut — et peut le défendre techniquement.",
+      "de": "Ihr Systemintegrator arbeitet effizienter, wenn Ihr Kunde weiß, was er will – und dies technisch fundiert vertreten kann.",
+      "ar": "يعمل مكامل النظام (integrator) بشكل أفضل عندما يعرف العميل ما يريده — ويكون قادراً على الدفاع عن ذلك فنياً.",
+      "zh": "当您的客户明确知道自己的需求并能在技术上予以维护时，您的集成商的工作效率会更高。",
+      "ru": "Ваш интегратор работает эффективнее, когда заказчик точно знает, чего хочет, и может технически обосновать свои требования.",
+      "en": "Your integrator works better when your client knows what they want — and can defend it technically.",
+      "it": "Il vostro integratore lavora meglio quando il vostro cliente sa cosa vuole — e può sostenerlo tecnicamente."
+    },
+    "data.badges[@hqrxLR].alt": {
+      "source": "Thalys — AMOA vending machines, télémétrie IoT",
+      "de": "Thalys — AMOA Verkaufsautomaten, IoT-Telemetrie",
+      "ar": "Thalys — آلات البيع AMOA، القياس عن بعد IoT",
+      "zh": "Thalys — AMOA 自动售货机，IoT 遥测"
+    },
+    "data.badges[@R0n72e].alt": {
+      "source": "Amazon — WCS/WMS, automatisation entrepôt mécanisé",
+      "de": "Amazon — WCS/WMS, Automatisierung mechanisierter Lager",
+      "ar": "Amazon — WCS/WMS، أتمتة المستودعات الميكانيكية",
+      "zh": "Amazon — WCS/WMS，机械化仓库自动化"
+    },
+    "data.badges[@IezzpV].alt": {
+      "source": "SEE/SFTRF — Supervision réseau routier et ferroviaire",
+      "de": "SEE/SFTRF — Überwachung von Straßen- und Schienennetzen",
+      "ar": "SEE/SFTRF — الإشراف على الشبكات الطرقية والسككية",
+      "zh": "SEE/SFTRF — 道路和铁路网络监控"
+    },
+    "data.paragraphs[@z8DSZG].text": {
+      "source": "Dans beaucoup de projets d'automatisme ou de digitalisation, le donneur d'ordre n'a pas les ressources internes pour suivre techniquement l'intégrateur. Résultat : les spécifications restent floues, les dérives de périmètre ne sont pas détectées, et à la réception, le système livré ne correspond pas exactement aux besoins opérationnels — sans que personne ne soit formellement en tort.",
+      "de": "In vielen Automatisierungs- oder Digitalisierungsprojekten fehlen dem Auftraggeber die internen Ressourcen, um den Systemintegrator technisch zu begleiten. Das Ergebnis: Die Spezifikationen bleiben vage, Scope-Abweichungen werden nicht erkannt und bei der Abnahme entspricht das gelieferte System nicht exakt den betrieblichen Anforderungen — ohne dass formell jemand die Schuld trägt.",
+      "ar": "في العديد من مشاريع الأتمتة أو التحول الرقمي، لا يمتلك صاحب المشروع الموارد الداخلية اللازمة للمتابعة التقنية للمتكامل (integrator). والنتيجة هي: تظل المواصفات غامضة، ولا يتم اكتشاف الانحرافات في نطاق العمل، وعند التسليم، لا يتطابق النظام المسلم تماماً مع الاحتياجات التشغيلية — دون أن يكون هناك طرف مخطئ بشكل صريح.",
+      "zh": "在许多自动化或数字化项目中，委托方缺乏内部资源来对集成商进行技术跟踪。结果是：技术规范模糊不清，范围偏差未能被及时发现，而在验收时，交付的系统并不完全符合运营需求——且没有人能被正式判定为过错方。"
+    },
+    "data.paragraphs[@0nBBND].text": {
+      "source": "Les projets qui dérapent ont souvent en commun : un cahier des charges rédigé trop vite et sans expertise terrain, une phase de conception expédiée, des tests d'acceptation conduits sans méthode, et une formation bâclée à la mise en service — laissant des équipes démunies face à un système qu'elles n'ont pas contribué à définir.",
+      "de": "Projekte, die aus dem Ruder laufen, haben oft Gemeinsamkeiten: ein zu schnell und ohne Praxiserfahrung verfasstes Lastenheft, eine überstürzte Konzeptionsphase, Abnahmtests ohne methodische Grundlage und eine mangelhafte Schulung bei der Inbetriebnahme — was die Teams hilflos vor einem System lässt, an dessen Definition sie nicht mitgewirkt haben.",
+      "ar": "المشاريع التي تتعثر غالباً ما تشترك في: دفتر شروط كُتب بسرعة كبيرة وبدون خبرة ميدانية، مرحلة تصميم متسرعة، اختبارات قبول أُجريت دون منهجية، وتدريب ناقص عند التشغيل — مما يترك الفرق عاجزة أمام نظام لم يساهموا في تحديده.",
+      "zh": "失控的项目通常有以下共同点：需求规格书编写过快且缺乏现场专业知识，设计阶段过于仓促，验收测试缺乏方法论，以及在调试阶段培训敷衍——导致团队在面对一个他们未参与定义的系统时感到无助。"
+    },
+    "data.paragraphs[@eq1n5k].text": {
+      "source": "L'assistance à maîtrise d'ouvrage technique (AMOA) permet de rééquilibrer cette relation : avec un expert de votre côté, vous rédigez des spécifications précises, vous pilotez les jalons techniques avec méthode, et vous réceptionnez un système conforme à ce que vous vouliez — pas seulement à ce que vous avez écrit.",
+      "de": "Die technische Projektbegleitung (AMOA) hilft, dieses Verhältnis neu auszubalancieren: Mit einem Experten an Ihrer Seite erstellen Sie präzise Spezifikationen, steuern technische Meilensteine methodisch und nehmen ein System ab, das Ihren tatsächlichen Wünschen entspricht — und nicht nur dem, was schriftlich fixiert wurde.",
+      "ar": "تسمح المساعدة التقنية لصاحب المشروع (AMOA) بإعادة التوازن إلى هذه العلاقة: فبوجود خبير بجانبك، يمكنك صياغة مواصفات دقيقة، وإدارة المعالم التقنية بمنهجية، واستلام نظام يتوافق مع ما كنت تريده حقاً — وليس فقط مع ما كتبته.",
+      "zh": "技术业主辅助服务 (AMOA) 可以重新平衡这种关系：通过在您身边配备一名专家，您可以编写精确的规范，有方法地管理技术里程碑，并接收一个符合您真实意图（而不仅仅是书面文字）的系统。"
+    },
+    "data.paragraphs[@AKyBgJ].text": {
+      "source": "AUTEM assure cette mission de représentant technique du client auprès des intégrateurs, en apportant une connaissance métier de l'automatisme et de l'informatique industrielle que peu de maîtres d'ouvrage ont en interne.",
+      "de": "AUTEM übernimmt diese Rolle als technischer Vertreter des Kunden gegenüber den Integratoren und bringt Fachwissen in der Automatisierung und industriellen Informatik ein, über das nur wenige Auftraggeber intern verfügen.",
+      "ar": "تتولى AUTEM هذه المهمة كممثل تقني للعميل أمام المتكاملين، من خلال تقديم معرفة مهنية في مجال الأتمتة والمعلوماتية الصناعية التي يفتقر إليها معظم أصحاب المشاريع داخلياً.",
+      "zh": "AUTEM 承担起客户在集成商面前的技术代表职责，提供少有业主内部具备的自动化和工业信息化专业领域知识。"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "meta.title": {
+      "source": "404 (Copy)",
+      "de": "404 (Kopie)",
+      "de:manual": true
+    },
+    "meta.description": {
+      "source": "The page you are looking for doesn't exist or has been moved. Return to homepage to explore our services.",
+      "de": "Die Seite, die Sie suchen, existiert nicht oder wurde verschoben. Kehren Sie zur Startseite zurück, um unsere Dienstleistungen zu erkunden.",
+      "de:manual": true
+    },
+    "meta.keywords": {
+      "source": [
+        "404",
+        "page not found",
+        "error"
+      ],
+      "de": [
+        "404",
+        "Seite nicht gefunden",
+        "Fehler"
+      ],
+      "de:manual": true
+    },
+    "meta.og.imageAlt": {
+      "source": "YourBrand - Page Not Found",
+      "de": "YourBrand - Seite nicht gefunden",
+      "de:manual": true
+    }
+  }
+}

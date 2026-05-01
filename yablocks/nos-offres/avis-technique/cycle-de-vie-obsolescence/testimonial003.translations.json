@@ -1,0 +1,41 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Audit cycle de vie équipements industriels — AUTEM",
+      "de": "Lebenszyklus-Audit für Industrieanlagen — AUTEM",
+      "ar": "تدقيق دورة حياة المعدات الصناعية — AUTEM",
+      "zh": "工业设备生命周期审计 — AUTEM",
+      "ru": "Аудит жизненного цикла промышленного оборудования — AUTEM",
+      "en": "Industrial equipment life cycle audit — AUTEM",
+      "it": "Audit ciclo di vita apparecchiature industriali — AUTEM"
+    },
+    "data.quote": {
+      "source": "La programmation est rigoureuse, la documentation irréprochable et la mise en service s'est déroulée sans accroc.",
+      "de": "Die Programmierung ist präzise, die Dokumentation einwandfrei und die Inbetriebnahme verlief reibungslos.",
+      "ar": "البرمجة دقيقة، والتوثيق لا تشوبه شائبة، وعملية التشغيل تمت دون أي عوائق.",
+      "zh": "编程严谨，文档无可挑剔，且调试过程顺利无碍。",
+      "ru": "Программирование выполнено строго, документация безупречна, а ввод в эксплуатацию прошел без сучка и задоринки",
+      "en": "The programming is rigorous, the documentation is impeccable, and the commissioning went smoothly.",
+      "it": "La programmazione è rigorosa, la documentazione impeccabile e la messa in servizio si è svolta senza intoppi."
+    },
+    "data.author.name": {
+      "source": "Responsable Technique",
+      "de": "Technischer Leiter",
+      "ar": "المسؤول التقني",
+      "zh": "技术负责人",
+      "ru": "Технический руководитель",
+      "en": "Technical Manager",
+      "it": "Responsabile Tecnico"
+    },
+    "data.author.role": {
+      "source": "BEMA — Grenoble",
+      "de": "BEMA — Grenoble",
+      "ar": "BEMA — غرينوبل",
+      "zh": "BEMA — 格勒诺布尔",
+      "ru": "BEMA — Гренобль",
+      "en": "BEMA — Grenoble",
+      "it": "BEMA — Grenoble"
+    }
+  }
+}

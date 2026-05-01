@@ -1,0 +1,97 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "CYCLE DE VIE & OBSOLESCENCE",
+      "de": "LEBENSZYKLUS & OBSOLESZENZ",
+      "ar": "دورة الحياة والتقادم",
+      "zh": "生命周期与过时",
+      "ru": "ЖИЗНЕННЫЙ ЦИКЛ И УСТАРЕВАНИЕ",
+      "en": "LIFE CYCLE & OBSOLESCENCE",
+      "it": "CICLO DI VITA & OBSOLESCENZA"
+    },
+    "data.title": {
+      "source": "Audit d'obsolescence et plan de renouvellement : périmètre et livrables",
+      "de": "Obsoleszenz-Audit und Erneuerungsplan: Umfang und Ergebnisse",
+      "ar": "تدقيق التقادم وخطة التجديد: النطاق والمخرجات",
+      "zh": "过时审计与更新计划：范围与交付物",
+      "ru": "Аудит устаревания и план обновления: область применения и результаты",
+      "en": "Obsolescence Audit and Renewal Plan: Scope and Deliverables",
+      "it": "Audit di obsolescenza e piano di rinnovo: perimetro e deliverable"
+    },
+    "data.conclusion": {
+      "source": "Résultat : une vision claire du parc existant, un plan d'action défendable en réunion de budget, et un programme de maintenance évolutive sur 3 à 5 ans.",
+      "de": "Ergebnis: eine klare Sicht auf den bestehenden Anlagenpark, ein in Budgetbesprechungen vertretbarer Aktionsplan und ein Programm für die evolutionäre Wartung über 3 bis 5 Jahre.",
+      "ar": "النتيجة: رؤية واضحة للأجهزة الموجودة، وخطة عمل يمكن الدفاع عنها في اجتماعات الميزانية، وبرنامج صيانة تطويرية لمدة 3 إلى 5 سنوات.",
+      "zh": "结果：对现有设备资产有清晰的认识，在预算会议上拥有可论证的行动计划，以及一个 3 到 5 年的渐进式维护计划。",
+      "ru": "Результат: четкое представление о существующем парке оборудования, план действий, который можно обосновать на бюджетном совещании, и программа эволюционного обслуживания на 3–5 лет.",
+      "en": "Result: a clear vision of the existing fleet, an actionable plan for budget meetings, and an evolutionary maintenance program over 3 to 5 years.",
+      "it": "Risultato: una visione chiara del parco macchine esistente, un piano d'azione difendibile in riunione di budget e un programma di manutenzione evolutiva su 3-5 anni."
+    },
+    "data.image.alt": {
+      "source": "Audit obsolescence équipements industriels — cartographie cycle de vie AUTEM",
+      "de": "Obsoleszenz-Audit industrieller Anlagen – Lebenszyklus-Kartierung AUTEM",
+      "ar": "تدقيق تقادم المعدات الصناعية — رسم خرائط دورة الحياة من AUTEM",
+      "zh": "工业设备过时审计 — AUTEM 生命周期映射",
+      "ru": "Аудит устаревания промышленного оборудования — картирование жизненного цикла AUTEM",
+      "en": "Industrial equipment obsolescence audit — AUTEM life cycle mapping",
+      "it": "Audit obsolescenza apparecchiature industriali — mappatura ciclo di vita AUTEM"
+    },
+    "data.paragraphs[@m5hKtq].text": {
+      "source": "L'audit d'obsolescence consiste à photographier précisément l'état du parc de vos équipements industriels (automates, IPC, logiciels, cartes électroniques, variateurs) vis-à-vis de leur cycle de vie éditeur — et à en déduire un plan de renouvellement priorisé, budgété et échelonné dans le temps.",
+      "de": "Das Obsoleszenz-Audit besteht darin, den Zustand Ihres Industrieparks (SPS, IPC, Software, elektronische Baugruppen, Frequenzumrichter) im Hinblick auf den Lebenszyklus des Herstellers präzise zu erfassen — und daraus einen priorisierten, budgetierten und zeitlich gestaffelten Erneuerungsplan abzuleiten.",
+      "ar": "يتمثل تدقيق التقادم في أخذ لقطة دقيقة لحالة مجموعة معداتكم الصناعية (أجهزة التحكم المنطقية المبرمجة، أجهزة الكمبيوتر الصناعية IPC، البرمجيات، اللوحات الإلكترونية، ومغيرات السرعة) فيما يتعلق بدورة حياة الناشر — ومن ثم استنتاج خطة تجديد ذات أولويات، وميزانية محددة، ومجدولة زمنياً.",
+      "zh": "陈旧设备审计旨在精确记录您的工业设备（PLC、IPC、软件、电子卡、变频器）相对于厂商生命周期的状态 —— 并据此推导出优先排序、预算化且分阶段实施的更新计划。",
+      "en": "An obsolescence audit consists of taking a precise snapshot of the state of your industrial equipment fleet (PLCs, IPCs, software, electronic boards, drives) relative to their publisher's life cycle — and deriving a prioritized, budgeted and phased renewal plan.",
+      "ru": "Аудит устаревания оборудования заключается в точном фиксировании состояния вашего парка промышленного оборудования (ПЛК, IPC, ПО, электронные платы, преобразователи частоты) относительно их жизненного цикла по данным производителя — и выработке на основе этого приоритетного, бюджетированного и распределенного во времени плана обновления."
+    },
+    "data.highlights[@vAcYBn].text": {
+      "source": "Inventaire exhaustif du parc automates, IPC, SCADA et logiciels : versions, dates de mise en service, statut support éditeur",
+      "de": "Vollständige Inventarisierung des Parks aus SPS, IPC, SCADA und Software: Versionen, Inbetriebnahmedaten, Supportstatus des Herstellers",
+      "ar": "جرد شامل لمجموعة أجهزة التحكم المنطقية المبرمجة، وأجهزة IPC، وأنظمة SCADA والبرمجيات: الإصدارات، تواريخ التشغيل، وحالة دعم الناشر",
+      "zh": "PLC、IPC、SCADA及软件资产的全面盘点：版本、投入运行日期、厂商支持状态",
+      "en": "Comprehensive inventory of the PLC, IPC, SCADA and software fleet: versions, commissioning dates, publisher support status",
+      "ru": "Исчерпывающий инвентарь парка ПЛК, IPC, SCADA и программного обеспечения: версии, даты ввода в эксплуатацию, статус поддержки производителя"
+    },
+    "data.highlights[@ySbo4D].text": {
+      "source": "Cartographie de criticité : impact de chaque équipement sur la continuité de production en cas de défaillance",
+      "de": "Kritikalitäts-Kartierung: Auswirkungen jeder Anlage auf die Produktionskontinuität im Falle eines Ausfalls",
+      "ar": "رسم خرائط الأهمية: تأثير كل معدة على استمرارية الإنتاج في حالة حدوث عطل",
+      "zh": "关键性映射：每台设备在发生故障时对生产连续性的影响",
+      "en": "Criticality mapping: impact of each piece of equipment on production continuity in case of failure",
+      "ru": "Картирование критичности: влияние каждого устройства на непрерывность производства в случае сбоя"
+    },
+    "data.highlights[@8SyZ1x].text": {
+      "source": "Identification des équipements en fin de support, fin de vie ou sans pièce de rechange disponible",
+      "de": "Identifizierung von Anlagen mit Supportende, End-of-Life oder ohne verfügbare Ersatzteile",
+      "ar": "تحديد المعدات التي انتهى دعمها، أو انتهى عمرها الافتراضي، أو التي لا تتوفر لها قطع غيار",
+      "zh": "识别停止支持、生命周期结束或无可用备件的设备",
+      "en": "Identification of equipment at end of support, end of life, or with no replacement parts available",
+      "ru": "Идентификация оборудования с истекшим сроком поддержки, жизненного цикла или отсутствием доступных запасных частей"
+    },
+    "data.highlights[@igAwTb].text": {
+      "source": "Plan de renouvellement pluriannuel : priorisation, coût estimatif, fenêtres d'intervention recommandées",
+      "de": "Mehrjähriger Erneuerungsplan: Priorisierung, geschätzte Kosten, empfohlene Interventionsfenster",
+      "ar": "خطة تجديد متعددة السنوات: تحديد الأولويات، التكلفة التقديرية، ونوافذ التدخل الموصى بها",
+      "zh": "多年更新计划：优先级排序、预估成本、建议的干预窗口",
+      "en": "Multi-year renewal plan: prioritization, estimated cost, recommended intervention windows",
+      "ru": "Многолетний план обновления: приоритезация, оценочная стоимость, рекомендуемые окна технического обслуживания"
+    },
+    "data.highlights[@gzg9pF].text": {
+      "source": "Identification des opportunités de modernisation : équipements à remplacer qui peuvent intégrer connectivité OPC-UA, MES ou télémétrie",
+      "de": "Identifizierung von Modernisierungsmöglichkeiten: zu ersetzende Anlagen, die OPC-UA-Konnektivität, MES oder Telemetrie integrieren können",
+      "ar": "تحديد فرص التحديث: المعدات التي سيتم استبدالها والتي يمكن أن تدمج اتصال OPC-UA أو MES أو القياس عن بعد",
+      "zh": "识别现代化机会：可更换为集成 OPC-UA、MES 或远程测量的设备",
+      "en": "Identification of modernization opportunities: equipment to be replaced that can integrate OPC-UA, MES or telemetry connectivity",
+      "ru": "Определение возможностей модернизации: оборудование для замены, которое может интегрировать поддержку OPC-UA, MES или телеметрии"
+    },
+    "data.highlights[@1nnpMZ].text": {
+      "source": "Rapport livrable : document partageable avec la direction, le bureau d'études et les responsables maintenance",
+      "de": "Auswertungsbericht: teilbares Dokument für die Geschäftsführung, das Konstruktionsbüro und die Wartungsleiter",
+      "ar": "تقرير تسليم: وثيقة قابلة للمشاركة مع الإدارة، ومكتب الدراسات، ومسؤولي الصيانة",
+      "zh": "交付报告：可与管理层、设计办公室和维护负责人共享的文件",
+      "en": "Deliverable report: document shareable with management, the design office and maintenance managers",
+      "ru": "Итоговый отчет: документ, которым можно поделиться с руководством, проектным отделом и руководителями по техническому обслуживанию"
+    }
+  }
+}

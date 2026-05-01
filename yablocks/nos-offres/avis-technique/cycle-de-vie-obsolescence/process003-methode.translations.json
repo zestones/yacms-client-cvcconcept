@@ -1,0 +1,79 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.overtitle": {
+      "source": "NOTRE MÉTHODE",
+      "de": "UNSERE METHODE",
+      "ar": "منهجيتنا",
+      "zh": "我们的方法",
+      "ru": "НАШ МЕТОД",
+      "en": "OUR METHOD",
+      "it": "IL NOSTRO METODO"
+    },
+    "data.title": {
+      "source": "De l'inventaire du parc à la feuille de route pluriannuelle : 4 étapes",
+      "de": "Vom Anlageninventar zur mehrjährigen Roadmap: 4 Schritte",
+      "ar": "من جرد الأجهزة إلى خارطة طريق متعددة السنوات: 4 خطوات",
+      "zh": "从资产盘点到多年路线图：4 个步骤",
+      "ru": "От инвентаризации парка до многолетнего плана: 4 этапа",
+      "en": "From Fleet Inventory to Multi-Year Roadmap: 4 Steps",
+      "it": "Dall'inventario del parco macchine alla roadmap pluriennale: 4 fasi"
+    },
+    "data.steps[@Scp1d7].title": {
+      "source": "Inventaire du parc existant",
+      "de": "Inventarisierung des bestehenden Parks",
+      "ar": "جرد الأجهزة الحالية",
+      "zh": "现有设备资产盘点",
+      "en": "Existing fleet inventory"
+    },
+    "data.steps[@SMMcVs].title": {
+      "source": "Analyse du cycle de vie éditeurs",
+      "de": "Analyse des Hersteller-Lebenszyklus",
+      "ar": "تحليل دورة حياة الموردين",
+      "zh": "供应商生命周期分析",
+      "en": "Publisher life cycle analysis"
+    },
+    "data.steps[@0tETNS].title": {
+      "source": "Cartographie de criticité et de risque",
+      "de": "Kritikalitäts- und Risiko-Kartierung",
+      "ar": "رسم خرائط الحساسية والمخاطر",
+      "zh": "关键性与风险映射",
+      "en": "Criticality and risk mapping"
+    },
+    "data.steps[@BgzyDq].title": {
+      "source": "Plan de renouvellement pluriannuel",
+      "de": "Mehrjähriger Erneuerungsplan",
+      "ar": "خطة تجديد متعددة السنوات",
+      "zh": "多年期更新计划",
+      "en": "Multi-year renewal plan"
+    },
+    "data.steps[@Scp1d7].description": {
+      "source": "Collecte des données sur site ou sur documentation : références matérielles et logicielles, versions firmware, dates de mise en service, état des contrats de maintenance. Identification des lacunes documentaires et des équipements non référencés.",
+      "de": "Datenerfassung vor Ort oder anhand der Dokumentation: Hardware- und Softwarereferenzen, Firmware-Versionen, Inbetriebnahmedaten, Status der Wartungsverträge. Identifizierung von Dokumentationslücken und nicht erfassten Anlagen.",
+      "ar": "جمع البيانات في الموقع أو من خلال الوثائق: المراجع المادية والبرمجية، إصدارات البرامج الثابتة (firmware)، تواريخ التشغيل، وحالة عقود الصيانة. تحديد الثغرات التوثيقية والمعدات غير المسجلة.",
+      "zh": "通过现场采集或文档收集数据：硬件和软件参考、固件版本、投产日期、维护合同状态。识别文档缺失和未登记的设备。",
+      "en": "Collection of data on-site or from documentation: hardware and software references, firmware versions, commissioning dates, status of maintenance contracts. Identification of documentation gaps and unreferenced equipment."
+    },
+    "data.steps[@SMMcVs].description": {
+      "source": "Croisement de l'inventaire avec les informations officielles fabricants (Siemens, Rockwell, Schneider…) : dates de fin de support, disponibilité des pièces de rechange, accessibilité des firmwares et licences. Identification des équipements en zone de risque.",
+      "de": "Abgleich des Inventars mit offiziellen Herstellerinformationen (Siemens, Rockwell, Schneider…): Support-Enddaten, Verfügbarkeit von Ersatzteilen, Zugriff auf Firmware und Lizenzen. Identifizierung von Anlagen in der Risikozone.",
+      "ar": "مطابقة الجرد مع المعلومات الرسمية من الشركات المصنعة (Siemens, Rockwell, Schneider...) : تواريخ انتهاء الدعم، توفر قطع الغيار، وإمكانية الوصول إلى البرامج الثابتة والتراخيص. تحديد المعدات الموجودة في منطقة الخطر.",
+      "zh": "将盘点结果与制造商（西门子 Siemens、罗克韦尔 Rockwell、施耐德 Schneider 等）的官方信息进行比对：支持结束日期、备件可用性、固件和许可证的可获取性。识别处于风险区域的设备。",
+      "en": "Cross-referencing the inventory with official manufacturer information (Siemens, Rockwell, Schneider…) : end of support dates, availability of replacement parts, accessibility of firmwares and licenses. Identification of equipment in the risk zone."
+    },
+    "data.steps[@0tETNS].description": {
+      "source": "Évaluation de l'impact de chaque équipement sur la production : criticité, délai de remplacement estimé, stock de pièces disponible, compétences internes pour l'intervention. Score de risque par équipement.",
+      "de": "Bewertung der Auswirkungen jeder Anlage auf die Produktion: Kritikalität, geschätzte Austauschzeit, verfügbare Ersatzteilbestände, interne Kompetenzen für den Eingriff. Risikowert pro Anlage.",
+      "ar": "تقييم تأثير كل جهاز على الإنتاج: درجة الحساسية، الوقت المقدر للاستبدال، مخزون قطع الغيار المتاحة، والمهارات الداخلية للتدخل. تحديد درجة المخاطرة لكل جهاز.",
+      "zh": "评估每台设备对生产的影响：关键程度、预计更换时间、可用备件库存、内部干预能力。为每台设备进行风险评分。",
+      "en": "Evaluation of the impact of each piece of equipment on production: criticality, estimated replacement time, available parts stock, internal skills for intervention. Risk score per equipment."
+    },
+    "data.steps[@BgzyDq].description": {
+      "source": "Priorisation des actions selon le niveau de risque, le budget disponible et les fenêtres d'arrêt planifiées. Livraison d'un tableau de bord d'obsolescence actualisable et d'un plan de renouvellement sur 3 à 5 ans.",
+      "de": "Priorisierung der Maßnahmen je nach Risikostufe, verfügbarem Budget und geplanten Stillstandszeiten. Lieferung eines aktualisierbaren Obsoleszenz-Dashboards und eines Erneuerungsplans über 3 bis 5 Jahre.",
+      "ar": "تحديد أولويات الإجراءات بناءً على مستوى المخاطر، الميزانية المتاحة، وفترات التوقف المخطط لها. تقديم لوحة تحكم للتقادم قابلة للتحديث وخطة تجديد تمتد من 3 إلى 5 سنوات.",
+      "zh": "根据风险等级、可用预算和计划停机窗口确定行动优先级。交付可更新的陈旧化仪表板和 3 至 5 年的更新计划。",
+      "en": "Prioritization of actions according to the risk level, available budget and planned shutdown windows. Delivery of an updatable obsolescence dashboard and a renewal plan over 3 to 5 years."
+    }
+  }
+}

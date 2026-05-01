@@ -1,0 +1,68 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.title": {
+      "source": "Ils nous ont confié la conception ou la validation de leurs architectures",
+      "en": "They have trusted us with the design or validation of their architectures",
+      "de": "Sie haben uns die Planung oder Validierung ihrer Architekturen anvertraut",
+      "ar": "لقد وثقوا بنا لتصميم أو التحقق من بنياتهم التحتية",
+      "ru": "Нам доверили проектирование и валидацию их архитектур",
+      "it": "Ci hanno affidato la progettazione o la validazione delle loro architetture",
+      "zh": "他们委托我们进行架构设计或验证"
+    },
+    "data.subtitle": {
+      "source": "Expérience multi-secteurs, indépendance constructeur, rigueur documentaire",
+      "en": "Multi-sector experience, vendor independence, documentary rigor",
+      "de": "Multi-Sektoren-Erfahrung, Herstellerunabhängigkeit, dokumentarische Strenge",
+      "ar": "خبرة في قطاعات متعددة، استقلالية عن الموردين، ودقة في التوثيق",
+      "ru": "Многоотраслевой опыт, независимость от производителей, строгое документирование",
+      "it": "Esperienza multi-settore, indipendenza dal produttore, rigore documentale",
+      "zh": "跨行业经验，厂商独立性，严谨的文档记录"
+    },
+    "data.logos[@Ir0Ocm].alt": {
+      "source": "Hermès — Architecture systèmes de contrôle industriels, Paris",
+      "en": "Hermès — Industrial control systems architecture, Paris",
+      "de": "Hermès — Architektur für industrielle Steuerungssysteme, Paris",
+      "ar": "Hermès — بنية أنظمة التحكم الصناعية، باريس",
+      "ru": "Hermès — Архитектура промышленных систем управления, Париж",
+      "it": "Hermès — Architettura sistemi di controllo industriali, Parigi",
+      "zh": "Hermès — 工业控制系统架构，巴黎"
+    },
+    "data.logos[@daWgID].alt": {
+      "source": "Amazon — Automatisation entrepôt mécanisé, WCS/WMS",
+      "en": "Amazon — Mechanized warehouse automation, WCS/WMS",
+      "de": "Amazon — Automatisierung mechanisierter Lager, WCS/WMS",
+      "ar": "Amazon — أتمتة المستودعات الميكانيكية، WCS/WMS",
+      "ru": "Amazon — Автоматизация механизированного склада, WCS/WMS",
+      "it": "Amazon — Automazione magazzino meccanizzato, WCS/WMS",
+      "zh": "Amazon — 机械化仓库自动化，WCS/WMS"
+    },
+    "data.logos[@gdofc6].alt": {
+      "source": "Thalys — Supervision réseau, télémétrie, IoT",
+      "en": "Thalys — Network supervision, telemetry, IoT",
+      "de": "Thalys — Netzwerküberwachung, Telemetrie, IoT",
+      "ar": "Thalys — مراقبة الشبكة، القياس عن بعد، وإنترنت الأشياء",
+      "ru": "Thalys — Сетевой мониторинг, телеметрия, IoT",
+      "it": "Thalys — Supervisione di rete, telemetria, IoT",
+      "zh": "Thalys — 网络监控、遥测、IoT"
+    },
+    "data.logos[@mJMXXg].alt": {
+      "source": "SEE/SFTRF — Supervision réseau routier et ferroviaire",
+      "en": "SEE/SFTRF — Road and rail network supervision",
+      "de": "Supervision network routier et ferroviaire",
+      "ar": "Supervision réseau routier et ferroviaire — SEE/SFTRF",
+      "ru": "SEE/SFTRF — Мониторинг дорожной и железнодорожной сетей",
+      "it": "Supervisione della rete stradale e ferroviaria",
+      "zh": "SEE/SFTRF — 道路与铁路网络监控"
+    },
+    "data.logos[@MgkP32].alt": {
+      "source": "ArcelorMittal — Optimisation atelier d'usinage, Luxembourg",
+      "en": "ArcelorMittal — Machining shop optimization, Luxembourg",
+      "de": "ArcelorMittal — Optimierung der Zerspanungswerkstatt, Luxemburg",
+      "ar": "ArcelorMittal — تحسين ورشة التصنيع، لوكسمبورغ",
+      "ru": "ArcelorMittal — Оптимизация механического цеха, Люксембург",
+      "it": "ArcelorMittal — Ottimizzazione officina meccanica, Lussemburgo",
+      "zh": "ArcelorMittal — 机加工车间优化，卢森堡"
+    }
+  }
+}

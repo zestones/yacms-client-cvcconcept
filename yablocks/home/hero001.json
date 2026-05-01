@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "component": "blocks/hero/HeroSplitMockup",
+    "section": "landing-page/hero001"
+  },
+  "data": {
+    "badge": "Studio Web",
+    "title": "Yacms",
+    "titleHighlight": "Prêt en 2",
+    "subtitle": "Sites vitrine ",
+    "cta": {
+      "primary": {
+        "text": "Demandez un devis",
+        "link": ""
+      },
+      "secondary": {
+        "text": "Voir nos réalisations",
+        "link": ""
+      }
+    },
+    "trustBadges": [
+      {
+        "icon": "clock",
+        "text": "",
+        "_tid": "kW1XxM"
+      }
+    ],
+    "mockupImage": {
+      "src": "",
+      "alt": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "sourceHash": "",
+  "fields": {
+    "data.backgroundImage.alt": {
+      "source": "Références projets AUTEM — assistance technique industrielle",
+      "de": "AUTEM Projektreferenzen — industrielle technische Unterstützung",
+      "ar": "مراجع مشاريع AUTEM — الدعم الفني الصناعي",
+      "zh": "AUTEM 项目案例 — 工业技术支持",
+      "ru": "Проекты AUTEM — техническая поддержка в промышленности",
+      "en": "AUTEM project references — industrial technical assistance",
+      "it": "Referenze progetti AUTEM — assistenza tecnica industriale"
+    },
+    "data.quote": {
+      "source": "AUTEM a joué un rôle clé dans la structuration technique de notre projet. Leur capacité à traduire nos besoins opérationnels en exigences précises pour l'intégrateur nous a évité bien des incompréhensions en cours de chantier.",
+      "de": "AUTEM hat eine Schlüsselrolle bei der technischen Strukturierung unseres Projekts gespielt. Ihre Fähigkeit, unsere betrieblichen Anforderungen in präzise Vorgaben für den Integrator zu übersetzen, hat uns viele Missverständnisse während der Bauphase erspart.",
+      "ar": "لعبت AUTEM دوراً رئيسياً في الهيكلة الفنية لمشروعنا. إن قدرتهم على ترجمة احتياجاتنا التشغيلية إلى متطلبات دقيقة للمكامل (integrator) جنبتنا الكثير من سوء الفهم أثناء تنفيذ المشروع.",
+      "zh": "AUTEM 在我们项目的技术架构中发挥了关键作用。他们能够将我们的运营需求转化为给集成商的精准要求，使我们在施工过程中避免了许多误解。",
+      "ru": "AUTEM сыграла ключевую роль в технической структуризации нашего проекта. Их способность перевести наши операционные потребности в точные требования для интегратора позволила нам избежать множества недопониманий в ходе реализации.",
+      "en": "AUTEM played a key role in the technical structuring of our project. Their ability to translate our operational needs into precise requirements for the integrator saved us from many misunderstandings during the construction phase.",
+      "it": "AUTEM ha giocato un ruolo chiave nella strutturazione tecnica del nostro progetto. La loro capacità di tradurre le nostre esigenze operative in requisiti precisi per l'integratore ci ha evitato molti malintesi durante il cantiere."
+    },
+    "data.author.name": {
+      "source": "Responsable Infrastructure & Systèmes",
+      "de": "Leiter Infrastruktur & Systeme",
+      "ar": "مسؤول البنية التحتية والأنظمة",
+      "zh": "基础设施与系统负责人",
+      "ru": "Руководитель инфраструктуры и систем",
+      "en": "Infrastructure & Systems Manager",
+      "it": "Responsabile Infrastrutture & Sistemi"
+    },
+    "data.author.role": {
+      "source": "Thalys — Bruxelles",
+      "de": "Thalys — Brüssel",
+      "ar": "Thalys — بروكسل",
+      "zh": "Thalys — 布鲁塞尔",
+      "ru": "Thalys — Брюссель",
+      "en": "Thalys — Brussels",
+      "it": "Thalys — Bruxelles"
+    }
+  }
+}
