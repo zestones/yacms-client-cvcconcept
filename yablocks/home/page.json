@@ -4,7 +4,7 @@
     "description": "",
     "keywords": []
   },
-  "theme": "phantom-violet",
+  "theme": "cvcconcept-default",
   "blocks": [
     "./hero001.json",
     "./cta002.json"
