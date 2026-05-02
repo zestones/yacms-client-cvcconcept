@@ -8,7 +8,7 @@ export default defineConfig({
     },
     tawk: {
       widgetId: '69bc038b22e4791c3681a8c2/1jk36rmup',
-      source: 'yacms-template.fr',
+      source: 'cvcconcept.com',
     },
     klaro: {
       privacyPolicyPath: '/mentions-legales',
