@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "component": "blocks/hero/HeroArticleHeader",
+        "section": "realisations/signalisation-hassi-messaoud/hero011"
+    },
+    "data": {
+        "backLink": "/realisations",
+        "backLinkLabel": "Retour aux réalisations",
+        "clientLogo": {
+            "src": "/logos/rachi-yacine.png",
+            "alt": "Entreprise RACHI YACINE"
+        },
+        "title": "75 000 ml de signalisation horizontale livrés en 10 jours à Hassi Messaoud",
+        "tags": [
+            {
+                "label": "Travaux Publics",
+                "type": "secteur",
+                "_tid": "hmHr1Tp"
+            },
+            {
+                "label": "Signalisation Routière",
+                "type": "secteur",
+                "_tid": "hmHr2Sr"
+            },
+            {
+                "label": "Signalisation Horizontale",
+                "type": "categorie",
+                "_tid": "hmHr3Sh"
+            }
+        ]
+    }
+}

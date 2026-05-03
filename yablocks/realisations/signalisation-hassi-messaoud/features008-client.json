@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/features/FeatureRichContent",
+        "section": "realisations/signalisation-hassi-messaoud/features008-client"
+    },
+    "data": {
+        "title": "Le client",
+        "content": "<p><strong>Entreprise RACHI YACINE</strong> est un opérateur spécialisé dans la <strong>signalisation routière horizontale et verticale</strong>, basé à Bordj Bou Arréridj (Secteur BC, Ilot 229). Actif sur les chantiers d'infrastructure à travers tout le territoire national, notamment dans les zones pétrolières du sud algérien, RACHI YACINE intervient sur commande de donneurs d'ordre institutionnels et industriels pour la mise en conformité des voies de circulation.</p><p>Dans le cadre de ses missions à grande échelle, l'entreprise fait appel à des sous-traitants qualifiés capables de mobiliser des équipes et du matériel en environnement hostile, à plusieurs centaines de kilomètres de leur base. C'est dans ce contexte que <strong>SARL CVC CONCEPT</strong> a été retenue sous contrat N°001/2024 pour la réalisation des travaux de marquage routier à <strong>Hassi Messaoud, Wilaya de Ouargla (W.30)</strong>.</p>"
+    }
+}

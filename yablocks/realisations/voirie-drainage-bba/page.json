@@ -1,26 +1,24 @@
 {
     "meta": {
-        "title": "Nos Réalisations — SARL CVC CONCEPT, Travaux Publics & Génie Climatique",
-        "description": "Références et réalisations de SARL CVC CONCEPT : signalisation routière à Hassi Messaoud (75 000 ML), voirie et VRD à Bordj Bou Arréridj, drainage et canalisation. Chantiers livrés sans réserve.",
+        "title": "Cas Client — Voirie & Drainage BBA, EURL RAD GROUP | CVC CONCEPT",
+        "description": "CVC CONCEPT a réalisé des travaux de voirie (reprofilage, GNT, cut-back) et drainage PEHD (320 ml, 34 regards BA) pour EURL RAD GROUP à Bordj Bou Arréridj en 2023-2024.",
         "keywords": [
-            "réalisations CVC CONCEPT",
-            "chantiers travaux publics Algérie",
-            "signalisation routière Hassi Messaoud",
-            "voirie VRD BBA",
-            "drainage canalisation Algérie",
-            "référence génie climatique",
-            "attestation bonne exécution",
-            "chantiers livrés sans réserve",
-            "CVC CONCEPT Bordj Bou Arréridj"
+            "voirie VRD Bordj Bou Arréridj",
+            "drainage canalisation PEHD Algérie",
+            "travaux publics BBA",
+            "reprofilage GNT cut-back",
+            "regards béton armé Algérie",
+            "CVC CONCEPT réalisation",
+            "EURL RAD GROUP"
         ],
         "author": "CVC CONCEPT",
-        "canonical": "https://cvcconcept.com/realisations",
+        "canonical": "https://cvcconcept.com/realisations/voirie-drainage-bba",
         "locale": "fr_DZ",
         "robots": "index, follow",
         "og": {
             "type": "website",
             "image": "/og-home.png",
-            "imageAlt": "CVC CONCEPT — Réalisations travaux publics et génie climatique en Algérie"
+            "imageAlt": "CVC CONCEPT — Voirie et drainage BBA"
         },
         "structuredData": {
             "type": "LocalBusiness",
@@ -53,7 +51,12 @@
     "theme": "cvcconcept-default",
     "blocks": [
         "@shared/navigation.json",
-        "./features007.json",
+        "./hero011.json",
+        "./features008-client.json",
+        "./features008-challenge.json",
+        "./features008-strategie.json",
+        "./features008-resultats.json",
+        "./cta001.json",
         "@shared/footer.json"
     ]
 }

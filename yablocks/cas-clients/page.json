@@ -1,26 +1,25 @@
 {
     "meta": {
-        "title": "Nos Réalisations — SARL CVC CONCEPT, Travaux Publics & Génie Climatique",
-        "description": "Références et réalisations de SARL CVC CONCEPT : signalisation routière à Hassi Messaoud (75 000 ML), voirie et VRD à Bordj Bou Arréridj, drainage et canalisation. Chantiers livrés sans réserve.",
+        "title": "Cas Clients — Réalisations Terrain CVC CONCEPT, Algérie",
+        "description": "Découvrez les cas clients de SARL CVC CONCEPT : signalisation routière à Hassi Messaoud (75 000 ML en 10 jours), voirie et drainage à Bordj Bou Arréridj. Chantiers livrés sans réserve.",
         "keywords": [
-            "réalisations CVC CONCEPT",
-            "chantiers travaux publics Algérie",
-            "signalisation routière Hassi Messaoud",
-            "voirie VRD BBA",
+            "cas clients CVC CONCEPT",
+            "réalisations travaux publics Algérie",
+            "signalisation Hassi Messaoud",
+            "voirie BBA Algérie",
             "drainage canalisation Algérie",
             "référence génie climatique",
             "attestation bonne exécution",
-            "chantiers livrés sans réserve",
-            "CVC CONCEPT Bordj Bou Arréridj"
+            "CVC CONCEPT chantiers"
         ],
         "author": "CVC CONCEPT",
-        "canonical": "https://cvcconcept.com/realisations",
+        "canonical": "https://cvcconcept.com/cas-clients",
         "locale": "fr_DZ",
         "robots": "index, follow",
         "og": {
             "type": "website",
             "image": "/og-home.png",
-            "imageAlt": "CVC CONCEPT — Réalisations travaux publics et génie climatique en Algérie"
+            "imageAlt": "CVC CONCEPT — Cas clients et réalisations terrain"
         },
         "structuredData": {
             "type": "LocalBusiness",

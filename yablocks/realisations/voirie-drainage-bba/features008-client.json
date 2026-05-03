@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/features/FeatureRichContent",
+        "section": "realisations/voirie-drainage-bba/features008-client"
+    },
+    "data": {
+        "title": "Le client",
+        "content": "<p><strong>EURL RAD GROUP</strong> est une entreprise de construction et de travaux publics basée à Bordj Bou Arréridj (Cité 183/1008 Logts, W.34). Active dans le secteur du BTP local, RAD GROUP intervient sur des chantiers de voirie, réseaux divers et aménagements urbains pour le compte de collectivités et de donneurs d'ordre privés.</p><p>Confronté à des besoins récurrents de <strong>réhabilitation de voiries</strong> et de <strong>mise en place de réseaux de drainage</strong> sur plusieurs sites en Wilaya de Bordj Bou Arréridj, RAD GROUP a retenu <strong>SARL CVC CONCEPT</strong> comme prestataire privilégié pour l'exécution de plusieurs tranches de travaux entre 2023 et 2024 — valorisant la proximité géographique, la réactivité et les compétences multi-corps de CVC CONCEPT.</p>"
+    }
+}

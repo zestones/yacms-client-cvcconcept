@@ -1,26 +1,24 @@
 {
     "meta": {
-        "title": "Nos Réalisations — SARL CVC CONCEPT, Travaux Publics & Génie Climatique",
-        "description": "Références et réalisations de SARL CVC CONCEPT : signalisation routière à Hassi Messaoud (75 000 ML), voirie et VRD à Bordj Bou Arréridj, drainage et canalisation. Chantiers livrés sans réserve.",
+        "title": "Cas Client — Signalisation Hassi Messaoud, 75 000 ml en 10 jours | CVC CONCEPT",
+        "description": "SARL CVC CONCEPT a réalisé 75 000 ml de signalisation routière horizontale à Hassi Messaoud pour l'Entreprise RACHI YACINE en 10 jours. Attestation de bonne exécution sans réserve — Contrat N°001/2024.",
         "keywords": [
-            "réalisations CVC CONCEPT",
-            "chantiers travaux publics Algérie",
-            "signalisation routière Hassi Messaoud",
-            "voirie VRD BBA",
-            "drainage canalisation Algérie",
-            "référence génie climatique",
-            "attestation bonne exécution",
-            "chantiers livrés sans réserve",
-            "CVC CONCEPT Bordj Bou Arréridj"
+            "signalisation Hassi Messaoud",
+            "marquage routier horizontal Algérie",
+            "travaux publics Ouargla",
+            "CVC CONCEPT référence",
+            "attestation bonne exécution Algérie",
+            "sous-traitance signalisation",
+            "RACHI YACINE"
         ],
         "author": "CVC CONCEPT",
-        "canonical": "https://cvcconcept.com/realisations",
+        "canonical": "https://cvcconcept.com/realisations/signalisation-hassi-messaoud",
         "locale": "fr_DZ",
         "robots": "index, follow",
         "og": {
             "type": "website",
             "image": "/og-home.png",
-            "imageAlt": "CVC CONCEPT — Réalisations travaux publics et génie climatique en Algérie"
+            "imageAlt": "CVC CONCEPT — Signalisation horizontale Hassi Messaoud"
         },
         "structuredData": {
             "type": "LocalBusiness",
@@ -53,7 +51,13 @@
     "theme": "cvcconcept-default",
     "blocks": [
         "@shared/navigation.json",
-        "./features007.json",
+        "./hero011.json",
+        "./features008-client.json",
+        "./features008-challenge.json",
+        "./features008-strategie.json",
+        "./features008-resultats.json",
+        "./testimonial003.json",
+        "./cta001.json",
         "@shared/footer.json"
     ]
 }

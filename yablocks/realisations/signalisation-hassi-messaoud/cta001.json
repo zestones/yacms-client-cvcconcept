@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "component": "blocks/cta/CTABenefitsGrid",
+        "section": "realisations/signalisation-hassi-messaoud/cta001"
+    },
+    "data": {
+        "title": "Un chantier de voirie ou signalisation à confier ?",
+        "benefits": [
+            {
+                "icon": "map-pin",
+                "text": "Déploiement national — de BBA à Hassi Messaoud et au-delà",
+                "_tid": "hmCta1Mp"
+            },
+            {
+                "icon": "award",
+                "text": "Attestation de Bonne Exécution sur chaque marché terminé",
+                "_tid": "hmCta2Aw"
+            },
+            {
+                "icon": "shield-check",
+                "text": "Qualification Cat. IV Travaux Publics — ingénieurs diplômés sur site",
+                "_tid": "hmCta3Sh"
+            }
+        ],
+        "cta": {
+            "text": "Soumettre votre projet",
+            "link": "/contact"
+        }
+    }
+}

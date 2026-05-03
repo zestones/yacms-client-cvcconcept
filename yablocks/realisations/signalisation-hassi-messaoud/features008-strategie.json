@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/features/FeatureRichContent",
+        "section": "realisations/signalisation-hassi-messaoud/features008-strategie"
+    },
+    "data": {
+        "title": "Stratégie d'exécution",
+        "content": "<p>CVC CONCEPT a structuré l'exécution du chantier en trois phases distinctes pour respecter les contraintes de délai et de qualité.</p><ol><li><p><strong>Planification & mobilisation logistique</strong><br>Établissement d'un planning journalier de production (objectif : 7 500 ml/jour), identification et commande des volumes de peinture SIGNARYL BLANC nécessaires, mobilisation du matériel de marquage et déploiement des équipes sur site à Hassi Messaoud.</p></li><li><p><strong>Exécution terrain</strong><br>Application de la signalisation horizontale selon les tracés et normes définis dans le cahier des charges. Contrôle quotidien de l'avancement et de la conformité des bandes — épaisseur, largeur, alignement. Gestion des conditions climatiques extrêmes (chaleur, vent de sable) pour garantir l'adhérence et le séchage optimal de la peinture.</p></li><li><p><strong>Réception & traçabilité documentaire</strong><br>Contrôle final des linéaires réalisés, levée des éventuelles observations, remise du dossier de récolement au maître d'ouvrage et obtention de l'<strong>Attestation de Bonne Exécution</strong> en fin de chantier.</p></li></ol>"
+    }
+}

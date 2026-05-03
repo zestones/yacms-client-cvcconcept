@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "component": "blocks/hero/HeroArticleHeader",
+        "section": "realisations/voirie-drainage-bba/hero011"
+    },
+    "data": {
+        "backLink": "/realisations",
+        "backLinkLabel": "Retour aux réalisations",
+        "clientLogo": {
+            "src": "/logos/rad-group.png",
+            "alt": "EURL RAD GROUP"
+        },
+        "title": "Voirie, reprofilage GNT et drainage PEHD — Bordj Bou Arréridj",
+        "tags": [
+            {
+                "label": "Travaux Publics",
+                "type": "secteur",
+                "_tid": "vdHr1Tp"
+            },
+            {
+                "label": "Voirie & VRD",
+                "type": "categorie",
+                "_tid": "vdHr2Vrd"
+            },
+            {
+                "label": "Drainage & Canalisation",
+                "type": "categorie",
+                "_tid": "vdHr3Dr"
+            }
+        ]
+    }
+}

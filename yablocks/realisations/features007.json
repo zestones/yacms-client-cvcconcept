@@ -1,0 +1,92 @@
+{
+    "meta": {
+        "component": "blocks/features/FeatureFilterGallery",
+        "section": "realisations/features007"
+    },
+    "data": {
+        "backgroundImage": {
+            "src": "/images/realisations/chantier-hassi-messaoud.jpg",
+            "alt": "Chantier CVC CONCEPT — signalisation routière Hassi Messaoud"
+        },
+        "title": "Nos réalisations",
+        "filterGroups": [
+            {
+                "label": "Tous les secteurs",
+                "values": [
+                    {
+                        "value": "Travaux Publics"
+                    },
+                    {
+                        "value": "Génie Climatique"
+                    },
+                    {
+                        "value": "Signalisation Routière"
+                    }
+                ]
+            },
+            {
+                "label": "Toutes les prestations",
+                "values": [
+                    {
+                        "value": "Signalisation Horizontale"
+                    },
+                    {
+                        "value": "Voirie & VRD"
+                    },
+                    {
+                        "value": "Drainage & Canalisation"
+                    },
+                    {
+                        "value": "Climatisation"
+                    }
+                ]
+            }
+        ],
+        "cards": [
+            {
+                "logo": {
+                    "src": "/logos/rachi-yacine.png",
+                    "alt": "Entreprise RACHI YACINE"
+                },
+                "title": "75 000 ml de signalisation horizontale livrés en 10 jours à Hassi Messaoud",
+                "link": "/realisations/signalisation-hassi-messaoud",
+                "tags": [
+                    {
+                        "label": "Travaux Publics",
+                        "type": "secteur"
+                    },
+                    {
+                        "label": "Signalisation Routière",
+                        "type": "secteur"
+                    },
+                    {
+                        "label": "Signalisation Horizontale",
+                        "type": "categorie"
+                    }
+                ]
+            },
+            {
+                "logo": {
+                    "src": "/logos/rad-group.png",
+                    "alt": "EURL RAD GROUP"
+                },
+                "title": "Voirie, reprofilage GNT et drainage PEHD — Bordj Bou Arréridj",
+                "link": "/realisations/voirie-drainage-bba",
+                "tags": [
+                    {
+                        "label": "Travaux Publics",
+                        "type": "secteur"
+                    },
+                    {
+                        "label": "Voirie & VRD",
+                        "type": "categorie"
+                    },
+                    {
+                        "label": "Drainage & Canalisation",
+                        "type": "categorie"
+                    }
+                ]
+            }
+        ]
+    }
+}

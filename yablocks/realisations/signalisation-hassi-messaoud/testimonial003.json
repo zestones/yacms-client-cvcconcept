@@ -1,0 +1,17 @@
+{
+    "meta": {
+        "component": "blocks/testimonials/TestimonialDarkCard",
+        "section": "realisations/signalisation-hassi-messaoud/testimonial003"
+    },
+    "data": {
+        "backgroundImage": {
+            "src": "/images/realisations/chantier-overview.jpg",
+            "alt": "Chantier signalisation Hassi Messaoud"
+        },
+        "quote": "Les travaux de signalisation horizontale ont été exécutés dans les délais contractuels et conformément aux exigences du cahier des charges. Qualité respectée — sans réserve.",
+        "author": {
+            "name": "RACHI YACINE",
+            "role": "Entreprise de Signalisation Routière — W. Bordj Bou Arréridj (Attestation N°001/2024)"
+        }
+    }
+}

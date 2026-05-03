@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "component": "blocks/cta/CTABenefitsGrid",
+        "section": "realisations/voirie-drainage-bba/cta001"
+    },
+    "data": {
+        "title": "Un chantier VRD ou drainage à réaliser ?",
+        "benefits": [
+            {
+                "icon": "layers",
+                "text": "Compétences multi-corps : voirie, drainage, réseaux — un seul interlocuteur",
+                "_tid": "vdCta1Ly"
+            },
+            {
+                "icon": "award",
+                "text": "Qualification Cat. IV Travaux Publics — niveau technique certifié",
+                "_tid": "vdCta2Aw"
+            },
+            {
+                "icon": "shield-check",
+                "text": "Présence locale BBA — réactivité et suivi terrain garantis",
+                "_tid": "vdCta3Sh"
+            }
+        ],
+        "cta": {
+            "text": "Soumettre votre projet",
+            "link": "/contact"
+        }
+    }
+}

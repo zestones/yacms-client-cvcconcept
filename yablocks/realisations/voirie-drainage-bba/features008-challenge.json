@@ -1,0 +1,10 @@
+{
+    "meta": {
+        "component": "blocks/features/FeatureRichContent",
+        "section": "realisations/voirie-drainage-bba/features008-challenge"
+    },
+    "data": {
+        "title": "Challenge & Objectif",
+        "content": "<p>La mission couvrait deux axes complémentaires de travaux sur plusieurs sites en Wilaya de BBA : la <strong>réhabilitation de voiries dégradées</strong> et la <strong>création d'un réseau de drainage</strong> avec regards en béton armé.</p><p>Principaux défis techniques :</p><ul><li><strong>Voirie multi-tranches</strong> : interventions successives sur plusieurs axes dégradés — chaque tranche nécessitant reprofilage, rechargement et traitement de surface ;</li><li><strong>Coordination des approvisionnements</strong> : gestion des livraisons de GNT (grave non traitée) et de cut-back 0/1 en flux tendu pour respecter les plannings contractuels ;</li><li><strong>Drainage enterré</strong> : conception et pose d'un réseau PEHD sur 320 ml avec 34 regards en béton armé à profondeurs variables (< 2 m et > 2 m), en intégrant les contraintes géotechniques locales ;</li><li><strong>Démolition sélective</strong> : décaissement de chaussée goudronnée existante et démolition de regards hors service sans impact sur les réseaux contigus ;</li><li><strong>Continuité de service</strong> : maintien de l'accessibilité des voiries pendant les travaux, conformément aux exigences du maître d'ouvrage.</li></ul>"
+    }
+}
