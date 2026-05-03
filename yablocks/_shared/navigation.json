@@ -1,61 +1,116 @@
 {
   "meta": {
-    "component": "blocks/navigation/NavGlassmorphic",
-    "section": "home/navigation"
+    "component": "blocks/navigation/NavMegaMenu",
+    "section": "shared/navigation"
   },
   "data": {
     "logo": {
-      "text": "YourBrand",
+      "text": "CVC CONCEPT",
       "href": "/",
-      "image": "/logos/logo.png"
+      "image": "/logos/logo.png",
+      "size": "lg"
     },
     "links": [
       {
-        "label": "Home",
-        "href": "/",
-        "_tid": "2jEoj7"
-      },
-      {
         "label": "Services",
-        "href": "#services",
-        "dropdown": [
+        "groups": [
           {
-            "label": "Service One",
-            "href": "/service/service-one",
-            "_tid": "PvmXXc"
+            "label": "Génie Climatique",
+            "description": "Climatisation, Ventilation, Chauffage",
+            "items": [
+              {
+                "label": "Climatisation & Ventilation",
+                "href": "/services/genie-climatique/climatisation-ventilation",
+                "_tid": "cvc1aClm"
+              },
+              {
+                "label": "Chauffage & Plomberie",
+                "href": "/services/genie-climatique/chauffage-plomberie",
+                "_tid": "cvc2bChf"
+              },
+              {
+                "label": "Maintenance & Dépannage",
+                "href": "/services/genie-climatique/maintenance-depannage",
+                "_tid": "cvc3cMnt"
+              }
+            ],
+            "_tid": "grp1Cvc"
           },
           {
-            "label": "Service Two",
-            "href": "/service/service-two",
-            "_tid": "L4hFql"
+            "label": "Travaux Publics",
+            "description": "VRD, Voirie, Signalisation",
+            "items": [
+              {
+                "label": "Voirie & VRD",
+                "href": "/services/travaux-publics/voirie-vrd",
+                "_tid": "cvc4dVrd"
+              },
+              {
+                "label": "Signalisation Routière",
+                "href": "/services/travaux-publics/signalisation-routiere",
+                "_tid": "cvc5eSig"
+              },
+              {
+                "label": "Drainage & Canalisation",
+                "href": "/services/travaux-publics/drainage-canalisation",
+                "_tid": "cvc6fDrn"
+              }
+            ],
+            "_tid": "grp2Tp"
           },
           {
-            "label": "Service Three",
-            "href": "/service/service-three",
-            "_tid": "gBY3WC"
+            "label": "Bâtiment",
+            "description": "Construction, Rénovation, TCE",
+            "items": [
+              {
+                "label": "Bâtiment Tous Corps d'État",
+                "href": "/services/batiment/tous-corps-detat",
+                "_tid": "cvc7gBat"
+              }
+            ],
+            "_tid": "grp3Bat"
           }
         ],
-        "_tid": "YTDCLe"
+        "_tid": "lnk1Srv"
       },
       {
-        "label": "About",
-        "href": "/about",
-        "_tid": "ORjBjf"
+        "label": "À propos",
+        "groups": [
+          {
+            "label": "Découvrir CVC CONCEPT",
+            "description": "Génie climatique & travaux publics",
+            "items": [
+              {
+                "label": "Notre Entreprise",
+                "href": "/a-propos",
+                "_tid": "cvcAp1En"
+              },
+              {
+                "label": "Nos Équipements",
+                "href": "/equipements",
+                "_tid": "cvcAp3Eq"
+              }
+            ],
+            "_tid": "grp4Abt"
+          }
+        ],
+        "_tid": "lnk2Abt"
       },
       {
-        "label": "Portfolio",
-        "href": "/portfolio",
-        "_tid": "ht4GrW"
+        "label": "Réalisations",
+        "href": "/realisations",
+        "_tid": "lnk3Rel"
       },
       {
         "label": "Contact",
-        "href": "#contact",
-        "_tid": "cf8tIX"
+        "href": "/contact",
+        "_tid": "lnk4Con"
       }
     ],
     "cta": {
-      "text": "Get Started",
-      "href": "#contact"
+      "text": "Demander un devis",
+      "href": "/contact",
+      "mobilePosition": "inline"
     }
   }
 }

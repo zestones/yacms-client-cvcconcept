@@ -1,0 +1,87 @@
+{
+    "meta": {
+        "component": "blocks/features/FeatureAlternateRows",
+        "section": "home/features001"
+    },
+    "data": {
+        "items": [
+            {
+                "overtitle": "Génie Climatique CVC",
+                "title": "Des installations CVC dimensionnées pour vos chantiers",
+                "description": "Spécialistes en Climatisation, Ventilation et Chauffage, nos ingénieurs conçoivent et installent des systèmes performants pour des projets d'envergure. Bâtiments tertiaires, sites industriels, complexes institutionnels, résidences collectives — CVC CONCEPT assure l'étude thermique, l'installation et la mise en service dans le respect des normes algériennes.",
+                "image": {
+                    "src": "/equipements/06-manometre-refrigeration.jpg",
+                    "alt": "Manomètre réfrigération — équipement CVC CONCEPT"
+                },
+                "checklist": [
+                    {
+                        "text": "Climatisation tertiaire & industrielle",
+                        "href": "/services",
+                        "_tid": "cK1aCvc"
+                    },
+                    {
+                        "text": "Ventilation & traitement d'air",
+                        "href": "/services",
+                        "_tid": "cK2bVnt"
+                    },
+                    {
+                        "text": "Chauffage central & plancher chauffant",
+                        "href": "/services",
+                        "_tid": "cK3cChf"
+                    },
+                    {
+                        "text": "Maintenance & dépannage CVC",
+                        "href": "/services",
+                        "_tid": "cK4dMnt"
+                    }
+                ],
+                "cta": {
+                    "text": "Découvrir nos prestations",
+                    "link": "/services/genie-climatique/climatisation-ventilation"
+                },
+                "_tid": "itm1CvC"
+            },
+            {
+                "overtitle": "Travaux Publics & VRD",
+                "title": "Des chantiers livrés dans les délais",
+                "description": "De la voirie à la canalisation, en passant par le drainage et la signalisation routière, CVC CONCEPT intervient sur des chantiers d'envergure à l'échelle nationale. Notre attestation de bonne exécution pour 75 000 mètres linéaires de signalisation à Hassi Messaoud en témoigne : qualité respectée, délai tenu, zéro réserve.",
+                "image": {
+                    "src": "/equipements/11-testeur-fuite.jpg",
+                    "alt": "Équipement de contrôle étanchéité — CVC CONCEPT"
+                },
+                "checklist": [
+                    {
+                        "text": "Signalisation routière horizontale & verticale",
+                        "href": "/realisations",
+                        "_tid": "cK5eSig"
+                    },
+                    {
+                        "text": "Drainage & pose de canalisations PEHD",
+                        "href": "/realisations",
+                        "_tid": "cK6fDrn"
+                    },
+                    {
+                        "text": "Reprofilage & rechargement de chaussée",
+                        "href": "/realisations",
+                        "_tid": "cK7gRch"
+                    },
+                    {
+                        "text": "VRD — Voirie et Réseaux Divers",
+                        "href": "/realisations",
+                        "_tid": "cK8hVrd"
+                    }
+                ],
+                "cta": {
+                    "text": "Voir nos réalisations",
+                    "link": "/realisations"
+                },
+                "testimonial": {
+                    "quote": "Fourniture et Pose des Signalisations Horizontales — 75 000 ML à Hassi Messaoud. Qualité respectée. Délai respecté. Sans réserve.",
+                    "authorName": "RACHI YACINE",
+                    "authorRole": "Entreprise de Signalisation Routière, Bordj Bou Arréridj"
+                },
+                "_tid": "itm2TpV"
+            }
+        ]
+    }
+}

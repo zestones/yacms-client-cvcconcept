@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "component": "blocks/hero/HeroFullscreenInset",
+        "section": "home/hero001"
+    },
+    "data": {
+        "badge": "Génie Climatique & Travaux Publics — Algérie",
+        "title": "Bâtir avec précision, climatiser avec expertise.",
+        "subtitle": "Climatisation, Ventilation, Chauffage, VRD et Signalisation Routière — SARL CVC CONCEPT livre vos chantiers dans les délais, sans réserve, partout en Algérie.",
+        "backgroundImage": {
+            "src": "/images/hero-background.jpg",
+            "alt": "Chantier CVC CONCEPT — Génie climatique et travaux publics en Algérie"
+        },
+        "cta": {
+            "primary": {
+                "text": "Demander un devis",
+                "link": "/contact"
+            },
+            "secondary": {
+                "text": "Voir nos réalisations",
+                "link": "/realisations"
+            }
+        }
+    }
+}

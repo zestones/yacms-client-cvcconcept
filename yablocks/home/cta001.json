@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "component": "blocks/cta/CTABenefitsGrid",
+        "section": "home/cta001"
+    },
+    "data": {
+        "title": "Confiez vos projets à des experts qualifiés",
+        "benefits": [
+            {
+                "icon": "award",
+                "text": "Qualifiée Cat. IV Travaux Publics",
+                "_tid": "bn1AwaRd"
+            },
+            {
+                "icon": "shield-check",
+                "text": "100% des chantiers livrés sans réserve",
+                "_tid": "bn2ShLd"
+            },
+            {
+                "icon": "users",
+                "text": "Équipe pluridisciplinaire diplômée",
+                "_tid": "bn3UsRs"
+            }
+        ],
+        "cta": {
+            "text": "Demander un devis gratuit",
+            "link": "/contact"
+        }
+    }
+}

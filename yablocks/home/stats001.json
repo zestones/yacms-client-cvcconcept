@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "component": "blocks/stats/StatsPrimaryRow",
+        "section": "home/stats001"
+    },
+    "data": {
+        "stats": [
+            {
+                "value": "5",
+                "label": "Experts qualifiés",
+                "suffix": "+"
+            },
+            {
+                "value": "75 000",
+                "label": "Mètres linéaires de signalisation posés",
+                "suffix": " ML"
+            },
+            {
+                "value": "4",
+                "label": "Projets référencés livrés sans réserve",
+                "suffix": "+"
+            },
+            {
+                "value": "100",
+                "label": "Respect des délais sur tous les chantiers",
+                "suffix": "%"
+            }
+        ]
+    }
+}

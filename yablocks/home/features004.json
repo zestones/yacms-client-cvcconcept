@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "component": "blocks/features/FeatureBadgeContent",
+    "section": "home/features004"
+  },
+  "data": {
+    "badges": [
+      {
+        "src": "/logos/logo.png",
+        "alt": "SARL CVC CONCEPT — Qualifiée Cat. IV TP",
+        "_tid": "bdg1Cvc"
+      }
+    ],
+    "headline": "Construire vite ou construire bien : le faux dilemme.",
+    "paragraphs": [
+      {
+        "text": "Pression sur les délais, budgets contraints, exigences croissantes des maîtres d'ouvrage : dans le secteur du bâtiment et des travaux publics en Algérie, chaque chantier est un test de rigueur.",
+        "_tid": "pg1Cvc"
+      },
+      {
+        "text": "Trop d'entreprises sacrifient la qualité d'exécution pour tenir les délais. Résultat : des reprises coûteuses, des réserves à la réception, une réputation écornée. D'autres, au contraire, s'enferment dans des processus lourds qui font exploser les coûts. Comment sortir de cette impasse ?",
+        "_tid": "pg2Cvc"
+      },
+      {
+        "text": "Chez CVC CONCEPT, nous avons fait le choix de la rigueur sans compromis. Nos ingénieurs en génie climatique et génie civil dimensionnent chaque installation avec précision. Nos techniciens interviennent avec du matériel certifié. Et nos chantiers sont réceptionnés sans réserve — comme en témoigne notre attestation de bonne exécution pour 75 000 ml de signalisation à Hassi Messaoud, livrée en 10 jours.",
+        "_tid": "pg3Cvc"
+      },
+      {
+        "text": "En Algérie, deux types d'entreprises coexisteront : celles qui bâtissent leur réputation sur la qualité d'exécution, et celles qui la perdent sur un chantier mal maîtrisé.",
+        "_tid": "pg4Cvc"
+      }
+    ],
+    "closing": "CVC CONCEPT a choisi son camp."
+  }
+}
