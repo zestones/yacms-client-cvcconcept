@@ -1,0 +1,15 @@
+{
+    "meta": {
+        "component": "blocks/features/FeatureRichContent",
+        "section": "a-propos/richcontent001-histoire"
+    },
+    "data": {
+        "title": "Qui est CVC CONCEPT ?",
+        "content": "<p>Fondée à <strong>Bordj Bou Arréridj</strong> par des ingénieurs et techniciens algériens, SARL CVC CONCEPT s'est imposée comme un acteur de référence dans deux secteurs exigeants : le <strong>génie climatique</strong> et les <strong>travaux publics</strong>.</p>\n\n<p>Notre entreprise est née d'un constat simple : les donneurs d'ordres algériens méritent des prestataires techniques capables de tenir leurs engagements — <strong>délais, qualité et conformité réglementaire, sans compromis</strong>. Trop souvent, les chantiers sont confiés à des entreprises qui sous-traitent les études, improvisent l'exécution et livrent avec réserves. Nous avons choisi la voie inverse.</p>\n\n<p>CVC CONCEPT, c'est d'abord une équipe pluridisciplinaire constituée d'un <strong>ingénieur en génie civil</strong>, d'un <strong>master en génie climatique</strong> et de techniciens certifiés en maintenance frigorifique. Chaque chantier est supervisé par un diplômé de la discipline concernée, présent sur site. Ce n'est pas un argument commercial — c'est notre règle de fonctionnement non négociable.</p>\n\n<p>Qualifiée <strong>Catégorie IV pour les Travaux Publics</strong>, notre entreprise intervient sur des marchés d'envergure pour des maîtres d'ouvrage institutionnels, des opérateurs pétroliers et des promoteurs privés à l'échelle nationale. Notre référence la plus emblématique reste les <strong>75 000 mètres linéaires de signalisation horizontale réalisés à Hassi Messaoud (Ouargla) en 10 jours</strong>, livrés sans réserve et attestés par notre commanditaire RACHI YACINE.</p>\n\n<p>Aujourd'hui, CVC CONCEPT continue de croître en restant fidèle à ses fondamentaux : <strong>pas de chantier sans étude préalable, pas de livraison sans PV de réception, pas de réserve acceptée</strong>.</p>",
+        "image": {
+            "src": "/equipements/03-coffret-cle-dynamometrique.jpg",
+            "alt": "Outillage certifié CVC CONCEPT — rigueur technique sur chaque chantier"
+        },
+        "caption": "Chaque intervention est réalisée avec des équipements certifiés et homologués."
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "meta": {
+        "component": "blocks/features/FeatureSplitHighlight",
+        "section": "a-propos/features009-valeurs"
+    },
+    "data": {
+        "overtitle": "NOS VALEURS",
+        "title": "Ce qui nous distingue n'est pas ce que nous disons — c'est ce que nous faisons.",
+        "paragraphs": [
+            {
+                "text": "Dans un marché où la sous-traitance et les promesses non tenues sont monnaie courante, CVC CONCEPT a fait le choix de la rigueur comme avantage concurrentiel. Chaque engagement pris est inscrit au contrat. Chaque livraison est documentée."
+            }
+        ],
+        "highlights": [
+            {
+                "text": "Ingénieur diplômé présent sur chaque chantier — sans exception"
+            },
+            {
+                "text": "Délais contractuels engagés par écrit, tenus sur le terrain"
+            },
+            {
+                "text": "Tests instrumentés systématiques avant toute livraison"
+            },
+            {
+                "text": "Qualification Cat. IV Travaux Publics — niveau d'exigence officiel"
+            },
+            {
+                "text": "DOE complet remis à chaque réception — aucun oubli toléré"
+            },
+            {
+                "text": "Réunions d'avancement régulières et transparence totale sur l'état du chantier"
+            }
+        ],
+        "conclusion": "Ces règles ne sont pas des promesses de vente. Elles sont vérifiables sur chacun de nos chantiers passés et présents.",
+        "image": {
+            "src": "/team/rouabah-rabah-2.jpg",
+            "alt": "ROUABAH Rabah — Ingénieur Génie Civil, CVC CONCEPT"
+        },
+        "reverse": false
+    }
+}

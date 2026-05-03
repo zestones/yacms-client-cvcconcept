@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "component": "blocks/stats/StatsPrimaryRow",
+        "section": "a-propos/stats001"
+    },
+    "data": {
+        "stats": [
+            {
+                "value": "5",
+                "label": "Années d'expérience en génie climatique et travaux publics",
+                "suffix": "+",
+                "_tid": "apSt1Yr"
+            },
+            {
+                "value": "75 000",
+                "label": "Mètres linéaires de signalisation posés à Hassi Messaoud — sans réserve",
+                "suffix": " ML",
+                "_tid": "apSt2Ml"
+            },
+            {
+                "value": "Cat.",
+                "label": "Qualification Travaux Publics — reconnaissance officielle du niveau technique",
+                "suffix": " IV",
+                "_tid": "apSt3Ct"
+            },
+            {
+                "value": "3",
+                "label": "Experts diplômés — ingénieur génie civil, master génie climatique, BTS maintenance",
+                "suffix": "",
+                "_tid": "apSt4Ex"
+            }
+        ]
+    }
+}

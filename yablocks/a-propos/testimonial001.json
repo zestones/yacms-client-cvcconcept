@@ -1,0 +1,17 @@
+{
+    "meta": {
+        "component": "blocks/testimonials/TestimonialDarkCard",
+        "section": "a-propos/testimonial001"
+    },
+    "data": {
+        "backgroundImage": {
+            "src": "/images/hero-background.jpg",
+            "alt": "Chantier CVC CONCEPT — référence Hassi Messaoud"
+        },
+        "quote": "Fourniture et Pose des Signalisations Horizontales — 75 000 ML à Hassi Messaoud. Qualité respectée. Délai respecté. Sans réserve.",
+        "author": {
+            "name": "RACHI YACINE",
+            "role": "Maître d'ouvrage — Hassi Messaoud, Ouargla"
+        }
+    }
+}

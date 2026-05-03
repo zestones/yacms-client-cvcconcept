@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "component": "blocks/process/ProcessCarousel",
+        "section": "a-propos/process001-methode"
+    },
+    "data": {
+        "overtitle": "NOTRE MÉTHODE",
+        "title": "De la première visite à la livraison sans réserve.",
+        "steps": [
+            {
+                "title": "Consultation & cadrage",
+                "description": "Analyse des besoins du maître d'ouvrage, visite de site et étude de faisabilité. Nous ne répondons à un appel d'offres qu'après avoir compris le projet dans sa globalité.",
+                "icon": "search",
+                "_tid": "apPr1Cs"
+            },
+            {
+                "title": "Étude & conception",
+                "description": "Plans d'exécution, notes de calcul thermique ou géotechnique, sélection des équipements et validation du planning. Chaque étude est signée par un ingénieur de la discipline.",
+                "icon": "file-text",
+                "_tid": "apPr2Et"
+            },
+            {
+                "title": "Exécution & installation",
+                "description": "Mise en œuvre par l'équipe diplômée de CVC CONCEPT, sans sous-traitance non contrôlée. Respect strict du planning contractuel et réunions d'avancement régulières.",
+                "icon": "tool",
+                "_tid": "apPr3Ex"
+            },
+            {
+                "title": "Contrôle & tests instrumentés",
+                "description": "Essais de pression, tests d'étanchéité, essais de compactage — réalisés avec nos équipements certifiés, en présence du maître d'œuvre, avant tout remblai ou fermeture.",
+                "icon": "shield-check",
+                "_tid": "apPr4Ct"
+            },
+            {
+                "title": "Réception & remise du DOE",
+                "description": "Livraison sans réserve, procès-verbal de réception et remise du dossier des ouvrages exécutés complet. Le chantier n'est pas terminé tant que le DOE n'est pas remis.",
+                "icon": "award",
+                "_tid": "apPr5Rc"
+            }
+        ]
+    }
+}

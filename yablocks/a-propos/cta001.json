@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "component": "blocks/cta/CTABenefitsGrid",
+        "section": "a-propos/cta001"
+    },
+    "data": {
+        "title": "Un projet ? Parlons-en avec l'ingénieur responsable.",
+        "benefits": [
+            {
+                "icon": "award",
+                "text": "Qualification Cat. IV Travaux Publics — niveau technique certifié",
+                "_tid": "apBn1Aw"
+            },
+            {
+                "icon": "users",
+                "text": "Ingénieurs diplômés sur chaque chantier — pas de sous-traitance",
+                "_tid": "apBn2Us"
+            },
+            {
+                "icon": "shield-check",
+                "text": "100% des marchés livrés sans réserve",
+                "_tid": "apBn3Sh"
+            }
+        ],
+        "cta": {
+            "text": "Contacter notre équipe",
+            "link": "/contact"
+        }
+    }
+}

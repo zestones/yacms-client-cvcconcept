@@ -1,0 +1,15 @@
+{
+    "meta": {
+        "component": "blocks/hero/HeroCenteredMinimal",
+        "section": "a-propos/hero001"
+    },
+    "data": {
+        "overtitle": "NOTRE ENTREPRISE",
+        "title": "Construire juste. Climatiser vrai. Livrer sans réserve.",
+        "subtitle": "SARL CVC CONCEPT réunit des ingénieurs et techniciens algériens qualifiés autour d'une conviction : la rigueur technique n'est pas une option sur un chantier.",
+        "backgroundImage": {
+            "src": "/images/hero-background.jpg",
+            "alt": "CVC CONCEPT — Équipe terrain à Bordj Bou Arréridj"
+        }
+    }
+}
