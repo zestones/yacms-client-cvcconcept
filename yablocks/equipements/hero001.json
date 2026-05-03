@@ -1,0 +1,15 @@
+{
+    "meta": {
+        "component": "blocks/hero/HeroCenteredMinimal",
+        "section": "equipements/hero001"
+    },
+    "data": {
+        "overtitle": "NOS ÉQUIPEMENTS",
+        "title": "Un parc outillage professionnel, pas une liste d'achats.",
+        "subtitle": "Chaque équipement de CVC CONCEPT est homologué, calibré et valorisé par un expert agréé auprès des tribunaux algériens. Nos instruments font partie intégrante de notre engagement de qualité.",
+        "backgroundImage": {
+            "src": "/equipements/06-manometre-refrigeration.jpg",
+            "alt": "Manifold numérique réfrigération — CVC CONCEPT équipements professionnels"
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "title": "Nos Équipements — Outillage Certifié CVC CONCEPT, Génie Climatique & Travaux Publics",
+        "description": "Parc outillage professionnel de SARL CVC CONCEPT : instrumentation frigorifique, outillage de soudage, contrôle d'étanchéité. Valorisé par expert agréé UAR. Bordj Bou Arréridj, Algérie.",
+        "keywords": [
+            "outillage CVC Algérie",
+            "équipements génie climatique",
+            "instrumentation frigorifique",
+            "station récupération fluide",
+            "manifold réfrigération",
+            "testeur de fuite",
+            "outillage certifié Algérie",
+            "CVC CONCEPT équipements",
+            "BBA travaux publics matériel"
+        ],
+        "author": "CVC CONCEPT",
+        "canonical": "https://cvcconcept.com/equipements",
+        "locale": "fr_DZ",
+        "robots": "index, follow",
+        "og": {
+            "type": "website",
+            "image": "/og-home.png",
+            "imageAlt": "CVC CONCEPT — Équipements professionnels certifiés génie climatique et travaux publics"
+        },
+        "structuredData": {
+            "type": "LocalBusiness",
+            "name": "SARL CVC CONCEPT",
+            "logo": "/logos/logo.png",
+            "address": {
+                "street": "Cité 40 Logts RDC Bloc 02, Route de Medjana",
+                "city": "Bordj Bou Arréridj",
+                "postalCode": "34000",
+                "region": "Bordj Bou Arréridj",
+                "country": "DZ"
+            },
+            "phone": "+213665551893",
+            "email": "sarlcvcconcept@gmail.com"
+        }
+    },
+    "theme": "cvcconcept-default",
+    "blocks": [
+        "@shared/navigation.json",
+        "./hero001.json",
+        "./features009-intro.json",
+        "./features010-instrumentation.json",
+        "./features010-outillage.json",
+        "./cta001.json",
+        "@shared/footer.json"
+    ]
+}

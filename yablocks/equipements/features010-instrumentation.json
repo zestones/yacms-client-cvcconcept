@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "component": "blocks/features/FeatureIconChecklist",
+    "section": "equipements/features010-instrumentation"
+  },
+  "data": {
+    "overtitle": "INSTRUMENTATION FRIGORIFIQUE",
+    "title": "Les instruments qui garantissent la précision de chaque installation CVC.",
+    "cards": [
+      {
+        "image": {
+          "src": "/equipements/02-station-recuperation-fluide.jpg",
+          "alt": "Station de récupération de fluide frigorigène — CVC CONCEPT"
+        },
+        "title": "Récupération & charge de fluide frigorigène",
+        "bullets": [
+          { "text": "Station de récupération de fluide frigorigène (INPUT/OUTPUT) — norme HFC/HFO", "_tid": "eqB1Sr" },
+          { "text": "Balance électronique de charge WIGAM — précision ±1g, plage 0–75 kg", "_tid": "eqB2Be" },
+          { "text": "Bouteille de récupération R410 (9,5 kg) homologuée — transport et stockage sécurisés", "_tid": "eqB3Br" },
+          { "text": "Fluides R410a et R134a en stock — approvisionnement rapide pour vos chantiers", "_tid": "eqB4Fl" }
+        ],
+        "_tid": "eqC1Rc"
+      },
+      {
+        "image": {
+          "src": "/equipements/06-manometre-refrigeration.jpg",
+          "alt": "Manifold numérique réfrigération — CVC CONCEPT diagnostic CVC"
+        },
+        "title": "Diagnostic & contrôle d'étanchéité",
+        "bullets": [
+          { "text": "Manifold numérique (manomètre réfrigération) avec flexibles de charge — lecture HP/BP précise", "_tid": "eqB5Mn" },
+          { "text": "Testeur de fuite électronique (détecteur) — sensibilité 3 g/an, détection HFC/HCFC", "_tid": "eqB6Tf" },
+          { "text": "Bouteille azote haute pression — épreuves de pression et chasse des circuits", "_tid": "eqB7Ba" },
+          { "text": "Pompe à vide — mise sous vide systématique avant toute charge de fluide", "_tid": "eqB8Pv" }
+        ],
+        "_tid": "eqC2Dc"
+      }
+    ]
+  }
+}

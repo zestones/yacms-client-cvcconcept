@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "component": "blocks/cta/CTABenefitsGrid",
+        "section": "equipements/cta001"
+    },
+    "data": {
+        "title": "Un chantier bien outillé, c'est un chantier livré sans reprise.",
+        "benefits": [
+            {
+                "icon": "shield-check",
+                "text": "Instruments calibrés et valorisés par expert judiciaire agréé",
+                "_tid": "eqBn1Sh"
+            },
+            {
+                "icon": "tool",
+                "text": "Outillage adapté à chaque nature de travaux — CVC ou TP",
+                "_tid": "eqBn2Tl"
+            },
+            {
+                "icon": "award",
+                "text": "Qualification Cat. IV — niveau technique certifié officiellement",
+                "_tid": "eqBn3Aw"
+            }
+        ],
+        "cta": {
+            "text": "Discuter de votre projet",
+            "link": "/contact"
+        }
+    }
+}

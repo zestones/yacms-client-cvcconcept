@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "component": "blocks/features/FeatureSplitHighlight",
+    "section": "equipements/features009-intro"
+  },
+  "data": {
+    "overtitle": "PARC OUTILLAGE",
+    "title": "Des outils certifiés. Pas des équipements d'occasion non tracés.",
+    "paragraphs": [
+      {
+        "text": "Dans le génie climatique, l'outillage n'est pas accessoire — il est déterminant. Un manifold non calibré fausse le diagnostic. Une balance électronique imprécise conduit à une surcharge de fluide. Un testeur de fuite insuffisant laisse passer des fuites que votre chantier paiera plus tard."
+      },
+      {
+        "text": "Le parc outillage de CVC CONCEPT a été constitué avec des équipements de marques reconnues : Würth, WIGAM, Castolin. Il a fait l'objet d'une valorisation officielle par M. KHABABA DJAMEL, expert agréé U.A.R (Union Algérienne des Assurances et de Réassurance) et expert judiciaire auprès des tribunaux — dans le cadre de notre dossier de qualification Cat. IV Travaux Publics."
+      }
+    ],
+    "highlights": [
+      { "text": "Instruments frigorifiques homologués : manifold numérique, balance WIGAM, station de récupération" },
+      { "text": "Outillage de soudage certifié : poste oxyacétylénique Castolin, chalumeau, baguettes de brasage" },
+      { "text": "Contrôle étanchéité : testeur de fuite électronique, bouteilles azote haute pression" },
+      { "text": "Outillage mécanique : perforateur SDS MAX Würth, cintreuse arbalète, coffret clé dynamométrique" },
+      { "text": "Valorisation officielle par expert agréé U.A.R — rapport 2024/47, daté octobre 2025" },
+      { "text": "Équipements présentés et vérifiés dans le cadre du dossier qualification Cat. IV Travaux Publics" }
+    ],
+    "image": {
+      "src": "/equipements/05-balance-electronique.jpg",
+      "alt": "Balance électronique de charge WIGAM — CVC CONCEPT instrumentation frigorifique"
+    },
+    "reverse": true
+  }
+}

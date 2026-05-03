@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "component": "blocks/features/FeatureIconChecklist",
+    "section": "equipements/features010-outillage"
+  },
+  "data": {
+    "overtitle": "OUTILLAGE TECHNIQUE",
+    "title": "De la tuyauterie au béton : l'outillage adapté à chaque nature de chantier.",
+    "cards": [
+      {
+        "image": {
+          "src": "/equipements/04-poste-soudage.jpg",
+          "alt": "Poste de soudage oxyacétylénique Castolin — CVC CONCEPT tuyauterie cuivre"
+        },
+        "title": "Soudage & tuyauterie cuivre",
+        "bullets": [
+          { "text": "Poste de soudage oxyacétylénique Castolin — brasage fort sur cuivre et inox", "_tid": "eqB9Ps" },
+          { "text": "Cintreuse arbalète — cintrage à froid des tubes cuivre sans écrasement ni fissure", "_tid": "eqB10Ca" },
+          { "text": "Coupe-tube et évase-tube (dudgeonnière) — raccordements parfaitement étanches", "_tid": "eqB11Ct" },
+          { "text": "Baguettes de brasage et fondants certifiés — conformité aux normes EN 1044", "_tid": "eqB12Bb" }
+        ],
+        "_tid": "eqC3Sd"
+      },
+      {
+        "image": {
+          "src": "/equipements/03-coffret-cle-dynamometrique.jpg",
+          "alt": "Coffret clé dynamométrique — CVC CONCEPT outillage certifié"
+        },
+        "title": "Outillage mécanique & perçage",
+        "bullets": [
+          { "text": "Coffret clé dynamométrique (jeu complet clés à crows-foot) — serrage au couple, zéro fuite sur raccords", "_tid": "eqB13Cd" },
+          { "text": "Perforateur SDS MAX Würth — carottage et perçage en béton armé, béton ordinaire et parpaing", "_tid": "eqB14Pw" },
+          { "text": "Jeu complet de forets SDS et couronnes diamant — diamètres 20 à 100 mm", "_tid": "eqB15Jf" },
+          { "text": "Niveau laser, mètre, traçage — implantation précise des équipements et gaines", "_tid": "eqB16Nl" }
+        ],
+        "_tid": "eqC4Om"
+      }
+    ]
+  }
+}
