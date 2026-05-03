@@ -1,0 +1,33 @@
+{
+    "meta": {
+        "component": "blocks/hero/HeroArticleHeader",
+        "section": "realisations/hero011"
+    },
+    "data": {
+        "backLink": "/",
+        "backLinkLabel": "Retour à l'accueil",
+        "title": "Références & Réalisations",
+        "tags": [
+            {
+                "label": "Travaux Publics",
+                "type": "secteur",
+                "_tid": "rlTg1Tp"
+            },
+            {
+                "label": "Génie Climatique",
+                "type": "secteur",
+                "_tid": "rlTg2Cl"
+            },
+            {
+                "label": "Signalisation Routière",
+                "type": "secteur",
+                "_tid": "rlTg3Sr"
+            }
+        ],
+        "articleMeta": {
+            "readTime": "3 projets référencés",
+            "publishDate": "31/12/2024",
+            "updatedDate": "03/05/2026"
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "meta": {
+        "title": "Nos Réalisations — SARL CVC CONCEPT, Travaux Publics & Génie Climatique",
+        "description": "Références et réalisations de SARL CVC CONCEPT : signalisation routière à Hassi Messaoud (75 000 ML), voirie et VRD à Bordj Bou Arréridj, drainage et canalisation. Chantiers livrés sans réserve.",
+        "keywords": [
+            "réalisations CVC CONCEPT",
+            "chantiers travaux publics Algérie",
+            "signalisation routière Hassi Messaoud",
+            "voirie VRD BBA",
+            "drainage canalisation Algérie",
+            "référence génie climatique",
+            "attestation bonne exécution",
+            "chantiers livrés sans réserve",
+            "CVC CONCEPT Bordj Bou Arréridj"
+        ],
+        "author": "CVC CONCEPT",
+        "canonical": "https://cvcconcept.com/realisations",
+        "locale": "fr_DZ",
+        "robots": "index, follow",
+        "og": {
+            "type": "website",
+            "image": "/og-home.png",
+            "imageAlt": "CVC CONCEPT — Réalisations travaux publics et génie climatique en Algérie"
+        },
+        "structuredData": {
+            "type": "LocalBusiness",
+            "name": "SARL CVC CONCEPT",
+            "logo": "/logos/logo.png",
+            "address": {
+                "street": "Cité 40 Logts RDC Bloc 02, Route de Medjana",
+                "city": "Bordj Bou Arréridj",
+                "postalCode": "34000",
+                "region": "Bordj Bou Arréridj",
+                "country": "DZ"
+            },
+            "phone": "+213665551893",
+            "email": "sarlcvcconcept@gmail.com",
+            "openingHours": [
+                {
+                    "days": [
+                        "Sunday",
+                        "Monday",
+                        "Tuesday",
+                        "Wednesday",
+                        "Thursday"
+                    ],
+                    "opens": "08:00",
+                    "closes": "17:00"
+                }
+            ]
+        }
+    },
+    "theme": "cvcconcept-default",
+    "blocks": [
+        "@shared/navigation.json",
+        "./hero011.json",
+        "./article001.json",
+        "./cta001.json",
+        "@shared/footer.json"
+    ]
+}

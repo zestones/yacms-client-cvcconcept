@@ -1,0 +1,221 @@
+{
+    "meta": {
+        "component": "blocks/article/ArticleTocLayout",
+        "section": "realisations/article001"
+    },
+    "data": {
+        "tocTitle": "Sommaire",
+        "sections": [
+            {
+                "heading": "",
+                "paragraphs": [
+                    {
+                        "text": "",
+                        "_tid": "rlAr1P1"
+                    }
+                ],
+                "subsections": [
+                    {
+                        "heading": "",
+                        "paragraphs": [
+                            {
+                                "text": "Nos réalisations : le bilan terrain de SARL CVC CONCEPT",
+                                "_tid": "rlAr1S1"
+                            }
+                        ],
+                        "_tid": "rlAr1Ss"
+                    }
+                ],
+                "_tid": "rlAr1Sc",
+                "image": {
+                    "src": "/images/realisations/chantier-overview.jpg",
+                    "alt": "Chantier CVC CONCEPT — travaux publics Algérie"
+                }
+            },
+            {
+                "heading": "Signalisation Horizontale — Hassi Messaoud (2024)",
+                "paragraphs": [
+                    {
+                        "text": "Notre référence phare : 75 000 ml de marquage routier horizontal réalisés en 10 jours dans les champs pétroliers de Hassi Messaoud pour le compte de l'Entreprise RACHI YACINE. Attestation de bonne exécution délivrée sans réserve.",
+                        "_tid": "rlAr2P1"
+                    }
+                ],
+                "subsections": [],
+                "_tid": "rlAr2Sc",
+                "list": {
+                    "style": "unordered",
+                    "items": [
+                        {
+                            "text": "✅ Maître d'ouvrage : Entreprise RACHI YACINE (Signalisation Routière, W. BBA)",
+                            "_tid": "rlAr2Li1"
+                        },
+                        {
+                            "text": "✅ Contrat N°001/2024 — Sous-traitance",
+                            "_tid": "rlAr2Li2"
+                        },
+                        {
+                            "text": "✅ Périmètre : Fourniture et pose de 75 000 ml de signalisation horizontale",
+                            "_tid": "rlAr2Li3"
+                        },
+                        {
+                            "text": "✅ Délai contractuel : 10 jours — respecté",
+                            "_tid": "rlAr2Li4"
+                        },
+                        {
+                            "text": "✅ Montant TTC : 5 355 000 DA",
+                            "_tid": "rlAr2Li5"
+                        },
+                        {
+                            "text": "✅ Localisation : Hassi Messaoud, Wilaya de Ouargla (W.30)",
+                            "_tid": "rlAr2Li6"
+                        },
+                        {
+                            "text": "✅ Évaluation : Qualité respectée — Sans réserve (Attestation de Bonne Exécution N°001/2024)",
+                            "_tid": "rlAr2Li7"
+                        }
+                    ]
+                }
+            },
+            {
+                "heading": "Voirie & VRD — Bordj Bou Arréridj (2023–2024)",
+                "paragraphs": [
+                    {
+                        "text": "Travaux de voirie et réseaux divers pour EURL RAD GROUP à Bordj Bou Arréridj : reprofilage de plateforme, rechargement GNT, mise en œuvre cut-back 0/1. Plusieurs marchés successifs conduits selon les délais contractuels.",
+                        "_tid": "rlAr3P1"
+                    }
+                ],
+                "subsections": [],
+                "_tid": "rlAr3Sc",
+                "list": {
+                    "style": "unordered",
+                    "items": [
+                        {
+                            "text": "✅ Client : EURL RAD GROUP — W. Bordj Bou Arréridj",
+                            "_tid": "rlAr3Li1"
+                        },
+                        {
+                            "text": "✅ Reprofilage et réglage de plateforme (y/c cylindrage)",
+                            "_tid": "rlAr3Li2"
+                        },
+                        {
+                            "text": "✅ Fourniture et mise en œuvre en cut-back 0/1 sur toute la surface",
+                            "_tid": "rlAr3Li3"
+                        },
+                        {
+                            "text": "✅ Décaissement et rechargement en GNT",
+                            "_tid": "rlAr3Li4"
+                        },
+                        {
+                            "text": "✅ Volume : plusieurs tranches — ~10 à 14 M DA TTC (2023–2024)",
+                            "_tid": "rlAr3Li5"
+                        }
+                    ]
+                }
+            },
+            {
+                "heading": "Drainage & Canalisation — BBA (2023)",
+                "paragraphs": [
+                    {
+                        "text": "Travaux de drainage et pose de canalisations pour EURL RAD GROUP : terrassement, pose PEHD, construction de regards en béton armé, raccordements. Chantier livré dans les délais.",
+                        "_tid": "rlAr4P1"
+                    }
+                ],
+                "subsections": [],
+                "_tid": "rlAr4Sc",
+                "list": {
+                    "style": "unordered",
+                    "items": [
+                        {
+                            "text": "✅ Client : EURL RAD GROUP — W. Bordj Bou Arréridj",
+                            "_tid": "rlAr4Li1"
+                        },
+                        {
+                            "text": "✅ Démolition chaussée et regards existants",
+                            "_tid": "rlAr4Li2"
+                        },
+                        {
+                            "text": "✅ Réglage tranchée et pose conduite PEHD (320 ml)",
+                            "_tid": "rlAr4Li3"
+                        },
+                        {
+                            "text": "✅ Construction de 34 regards en béton armé (profondeur < 2 m et > 2 m)",
+                            "_tid": "rlAr4Li4"
+                        },
+                        {
+                            "text": "✅ Pose boîtes de branchement BA avec raccordements",
+                            "_tid": "rlAr4Li5"
+                        },
+                        {
+                            "text": "✅ Montant TTC : 2 391 900 DA — Facture N°04/2023",
+                            "_tid": "rlAr4Li6"
+                        }
+                    ]
+                }
+            },
+            {
+                "heading": "Génie Climatique & Automatisme Industriel",
+                "paragraphs": [
+                    {
+                        "text": "CVC CONCEPT intervient également sur des installations de climatisation, ventilation, chauffage et plomberie industrielle, ainsi que dans la fourniture et mise en service d'équipements d'automatisme industriel (SCADA, IHM Siemens).",
+                        "_tid": "rlAr5P1"
+                    }
+                ],
+                "subsections": [],
+                "_tid": "rlAr5Sc",
+                "list": {
+                    "style": "unordered",
+                    "items": [
+                        {
+                            "text": "✅ Installations de climatisation et ventilation industrielle (bâtiments tertiaires et industriels)",
+                            "_tid": "rlAr5Li1"
+                        },
+                        {
+                            "text": "✅ Plomberie industrielle et réseaux de chauffage",
+                            "_tid": "rlAr5Li2"
+                        },
+                        {
+                            "text": "✅ Fourniture équipement automatisme : Écran Siemens SIMATIC HMI MTP1500 (2025)",
+                            "_tid": "rlAr5Li3"
+                        },
+                        {
+                            "text": "✅ Maintenance et dépannage sur site — contrats multi-sites",
+                            "_tid": "rlAr5Li4"
+                        }
+                    ]
+                }
+            },
+            {
+                "heading": "Notre engagement : livraison sans réserve",
+                "paragraphs": [
+                    {
+                        "text": "Chaque chantier de SARL CVC CONCEPT est dirigé par un ingénieur diplômé présent sur site. Notre méthode : planification rigoureuse, traçabilité complète des matériaux et reporting client à chaque étape. Résultat : 100% de nos marchés livrés dans les délais, sans observation.",
+                        "_tid": "rlAr6P1"
+                    }
+                ],
+                "subsections": [],
+                "_tid": "rlAr6Sc",
+                "list": {
+                    "style": "unordered",
+                    "items": [
+                        {
+                            "text": "✅ Qualification Cat. IV Travaux Publics — agrément technique national",
+                            "_tid": "rlAr6Li1"
+                        },
+                        {
+                            "text": "✅ Parc matériel propre valorisé par expert agréé U.A.R. (rapport N°2024/47)",
+                            "_tid": "rlAr6Li2"
+                        },
+                        {
+                            "text": "✅ Capacité de déploiement national (BBA → Hassi Messaoud en 10 jours)",
+                            "_tid": "rlAr6Li3"
+                        },
+                        {
+                            "text": "✅ Attestation de Bonne Exécution délivrée sur chaque marché terminé",
+                            "_tid": "rlAr6Li4"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
