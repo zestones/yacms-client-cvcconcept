@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "title": "Maintenance & Dépannage CVC — CVC CONCEPT Algérie",
+    "description": "Contrats de maintenance préventive et curative, dépannage climatisation, chauffage et ventilation en Algérie. Intervention rapide. SARL CVC CONCEPT.",
+    "keywords": ["maintenance climatisation Algérie", "dépannage CVC", "entretien chaudière Algérie", "maintenance préventive", "panne climatisation", "CVC CONCEPT"],
+    "author": "CVC CONCEPT",
+    "canonical": "https://cvcconcept.com/nos-offres/genie-climatique/maintenance-depannage",
+    "locale": "fr_DZ",
+    "robots": "index, follow",
+    "og": { "type": "website", "image": "/og-home.png", "imageAlt": "Maintenance & Dépannage CVC — CVC CONCEPT" }
+  },
+  "theme": "cvcconcept-default",
+  "blocks": [
+    "@shared/navigation.json",
+    "./hero001.json",
+    "./features004-probleme.json",
+    "./features009-definition.json",
+    "./process001-methode.json",
+    "./trust-logos002.json",
+    "./stats001.json",
+    "./features009-pourquoi-cvc.json",
+    "./testimonial001.json",
+    "./faq001.json",
+    "./cta001.json",
+    "@shared/footer.json"
+  ]
+}

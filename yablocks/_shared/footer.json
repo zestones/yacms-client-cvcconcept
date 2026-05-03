@@ -17,36 +17,36 @@
     },
     "linkGroups": [
       {
-        "title": "Services",
+        "title": "Nos offres",
         "links": [
           {
             "text": "Climatisation & Ventilation",
-            "href": "/services/genie-climatique/climatisation-ventilation",
+            "href": "/nos-offres/genie-climatique/climatisation-ventilation",
             "_tid": "fL1aKp"
           },
           {
             "text": "Chauffage & Plomberie",
-            "href": "/services/genie-climatique/chauffage-plomberie",
+            "href": "/nos-offres/genie-climatique/chauffage-plomberie",
             "_tid": "fL2bLq"
           },
           {
             "text": "Travaux Publics & VRD",
-            "href": "/services/travaux-publics/voirie-vrd",
+            "href": "/nos-offres/travaux-publics/voirie-vrd",
             "_tid": "fL3cMr"
           },
           {
             "text": "Bâtiment Tous Corps d'État",
-            "href": "/services/batiment/tous-corps-detat",
+            "href": "/nos-offres/batiment/tous-corps-detat",
             "_tid": "fL4dNs"
           },
           {
             "text": "Signalisation Routière",
-            "href": "/services/travaux-publics/signalisation-routiere",
+            "href": "/nos-offres/travaux-publics/signalisation-routiere",
             "_tid": "fL10Sig"
           },
           {
             "text": "Maintenance & Dépannage",
-            "href": "/services/genie-climatique/maintenance-depannage",
+            "href": "/nos-offres/genie-climatique/maintenance-depannage",
             "_tid": "fL11Mnt"
           }
         ],

@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "component": "blocks/process/ProcessCarousel",
+    "section": "nos-offres/batiment/tous-corps-detat/process001-methode"
+  },
+  "data": {
+    "overtitle": "NOTRE MÉTHODE",
+    "title": "Du permis de construire à la livraison des clés",
+    "steps": [
+      { "title": "Étude & Planification", "description": "Analyse des plans, élaboration du planning de chantier par corps d'état, chiffrage détaillé. Coordination avec le bureau de contrôle si requis.", "icon": "clipboard" },
+      { "title": "Gros Œuvre", "description": "Fondations, soubassements, élévation des murs, dalles, charpente. Travaux structurels réalisés dans les règles de l'art conformément aux DTR algériens.", "icon": "home" },
+      { "title": "Lots Techniques", "description": "Électricité, plomberie, CVC — nos techniciens interviennent pendant le gros œuvre pour les réservations et saignées, puis pour les installations définitives.", "icon": "zap" },
+      { "title": "Second Œuvre", "description": "Doublage, isolation, carrelage, plâtrerie, peinture. Aménagements intérieurs selon les finitions choisies par le maître d'ouvrage.", "icon": "layers" },
+      { "title": "Livraison", "description": "Nettoyage de chantier, levée des réserves, remise des clés et du dossier de fin de travaux. Chantier livré propre, dans les délais convenus.", "icon": "key" }
+    ]
+  }
+}

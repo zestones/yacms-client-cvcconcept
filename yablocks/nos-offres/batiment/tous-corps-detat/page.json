@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "title": "Bâtiment Tous Corps d'État — Construction & Rénovation | CVC CONCEPT Algérie",
+    "description": "Construction, rénovation et gros œuvre tous corps d'état en Algérie. Maçonnerie, revêtements, second œuvre. SARL CVC CONCEPT — pluridisciplinaire et qualifié.",
+    "keywords": ["tous corps d'état Algérie", "construction bâtiment Algérie", "rénovation bâtiment", "gros oeuvre Algérie", "second oeuvre", "CVC CONCEPT bâtiment"],
+    "author": "CVC CONCEPT",
+    "canonical": "https://cvcconcept.com/nos-offres/batiment/tous-corps-detat",
+    "locale": "fr_DZ",
+    "robots": "index, follow",
+    "og": { "type": "website", "image": "/og-home.png", "imageAlt": "Bâtiment TCE — CVC CONCEPT" }
+  },
+  "theme": "cvcconcept-default",
+  "blocks": [
+    "@shared/navigation.json",
+    "./hero001.json",
+    "./features004-probleme.json",
+    "./features009-definition.json",
+    "./process001-methode.json",
+    "./trust-logos002.json",
+    "./stats001.json",
+    "./features009-pourquoi-cvc.json",
+    "./testimonial001.json",
+    "./faq001.json",
+    "./cta001.json",
+    "@shared/footer.json"
+  ]
+}

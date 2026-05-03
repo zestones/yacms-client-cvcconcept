@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "title": "Drainage & Canalisation — Travaux Publics | CVC CONCEPT Algérie",
+    "description": "Pose de canalisations PEHD, réseaux d'assainissement, drainage agricole et industriel en Algérie. SARL CVC CONCEPT — experts travaux publics.",
+    "keywords": ["drainage Algérie", "canalisation PEHD Algérie", "assainissement travaux publics", "pose canalisation", "réseaux enterrés Algérie", "CVC CONCEPT"],
+    "author": "CVC CONCEPT",
+    "canonical": "https://cvcconcept.com/nos-offres/travaux-publics/drainage-canalisation",
+    "locale": "fr_DZ",
+    "robots": "index, follow",
+    "og": { "type": "website", "image": "/og-home.png", "imageAlt": "Drainage & Canalisation — CVC CONCEPT" }
+  },
+  "theme": "cvcconcept-default",
+  "blocks": [
+    "@shared/navigation.json",
+    "./hero001.json",
+    "./features004-probleme.json",
+    "./features009-definition.json",
+    "./process001-methode.json",
+    "./trust-logos002.json",
+    "./stats001.json",
+    "./features009-pourquoi-cvc.json",
+    "./testimonial001.json",
+    "./faq001.json",
+    "./cta001.json",
+    "@shared/footer.json"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "component": "blocks/trust/TrustLogoGrid",
+    "section": "nos-offres/travaux-publics/signalisation-routiere/trust-logos002"
+  },
+  "data": {
+    "title": "Matériaux et équipements conformes aux standards algériens",
+    "subtitle": "Peinture routière et thermoplastique certifiés, panneaux homologués selon l'instruction sur la signalisation routière algérienne",
+    "logos": [
+      { "src": "/equipements/04-poste-soudage.jpg", "alt": "Équipement de pose — ancrage de mâts" },
+      { "src": "/equipements/03-coffret-cle-dynamometrique.jpg", "alt": "Outillage calibré — serrage de boulonnerie" },
+      { "src": "/equipements/01-perfo-sds-max.jpg", "alt": "Perforateur — scellements et chevilles" },
+      { "src": "/equipements/05-balance-electronique.jpg", "alt": "Pesée matériaux — dosage produits thermoplastiques" },
+      { "src": "/logos/logo.png", "alt": "SARL CVC CONCEPT — Signalisation Routière Algérie" },
+      { "src": "/equipements/11-testeur-fuite.jpg", "alt": "Contrôle qualité sur chantier" }
+    ]
+  }
+}

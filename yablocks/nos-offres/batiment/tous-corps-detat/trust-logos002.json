@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "component": "blocks/trust/TrustLogoGrid",
+    "section": "nos-offres/batiment/tous-corps-detat/trust-logos002"
+  },
+  "data": {
+    "title": "Une équipe pluridisciplinaire avec le matériel adapté",
+    "subtitle": "De l'outillage de précision pour le gros oeuvre jusqu'aux instruments de mesure pour les lots techniques — chaque corps de métier est équipé correctement",
+    "logos": [
+      { "src": "/equipements/03-coffret-cle-dynamometrique.jpg", "alt": "Outillage certifié — précision tous corps" },
+      { "src": "/equipements/04-poste-soudage.jpg", "alt": "Poste à souder — assemblages acier et cuivre" },
+      { "src": "/equipements/07-cintreuse-arbalete.jpg", "alt": "Cintreuse arbalète — réseaux plomberie" },
+      { "src": "/equipements/01-perfo-sds-max.jpg", "alt": "Perforateur SDS Max — travaux de démolition" },
+      { "src": "/equipements/06-manometre-refrigeration.jpg", "alt": "Instruments de mesure — lots CVC" },
+      { "src": "/logos/logo.png", "alt": "CVC CONCEPT — Bâtiment Tous Corps d'État" }
+    ]
+  }
+}

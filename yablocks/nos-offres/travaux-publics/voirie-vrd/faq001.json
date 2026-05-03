@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "component": "blocks/faq/FaqSplitAccordion",
+    "section": "nos-offres/travaux-publics/voirie-vrd/faq001"
+  },
+  "data": {
+    "sectionLabel": "FAQ",
+    "title": "Questions fréquentes sur les travaux de voirie et VRD",
+    "items": [
+      { "question": "Pouvez-vous répondre à des appels d'offres publics ?", "answer": "Oui. Notre qualification Cat. IV Travaux Publics nous habilite à soumissionner aux marchés publics de voirie et VRD. Nous disposons du dossier de qualification à jour et de toutes les pièces administratives requises pour les appels d'offres publics et privés.", "_tid": "fq1Vrd" },
+      { "question": "Quels équipements mobilisez-vous pour les chantiers VRD ?", "answer": "Nous disposons de niveleuse, compacteur vibrant, engins de terrassement et de matériel de mesure (niveau de chantier, GPS topographique). Pour les grands chantiers, nous mobilisons des ressources supplémentaires en location.", "_tid": "fq2Vrd" },
+      { "question": "Réalisez-vous les études topographiques ?", "answer": "Nous pouvons réaliser les relevés de base nécessaires au chiffrage et à l'exécution. Pour les études topographiques complètes requises par certains maîtres d'ouvrages, nous travaillons en collaboration avec des géomètres agréés.", "_tid": "fq3Vrd" },
+      { "question": "Intervenez-vous hors de la wilaya de Bordj Bou Arréridj ?", "answer": "Oui. Nous intervenons sur l'ensemble du territoire national. Notre référence la plus notable est un chantier à Hassi Messaoud (Ouargla) — 75 000 ML de signalisation routière réalisés dans les délais et livrés sans réserve.", "_tid": "fq4Vrd" }
+    ]
+  }
+}

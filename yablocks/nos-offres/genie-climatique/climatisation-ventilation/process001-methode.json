@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "component": "blocks/process/ProcessCarousel",
+    "section": "nos-offres/genie-climatique/climatisation-ventilation/process001-methode"
+  },
+  "data": {
+    "overtitle": "NOTRE MÉTHODE",
+    "title": "De l'étude au démarrage : 5 étapes pour une installation réussie",
+    "steps": [
+      { "title": "Visite & Bilan Thermique", "description": "Analyse des locaux, calcul des déperditions, exposition solaire, charges internes. Dimensionnement précis de la puissance requise.", "icon": "search" },
+      { "title": "Sélection du Matériel", "description": "Choix des équipements adaptés à votre usage, votre budget et vos contraintes techniques. Marques certifiées et homologuées.", "icon": "package" },
+      { "title": "Installation & Câblage", "description": "Pose des unités intérieures et extérieures, raccordements frigorifiques et électriques selon les règles de l'art. Étanchéité vérifiée.", "icon": "wrench" },
+      { "title": "Mise en Service", "description": "Chargement en fluide frigorigène certifié, tests de fonctionnement, réglages et paramétrage des modes de régulation.", "icon": "zap" },
+      { "title": "Formation & Suivi", "description": "Prise en main du système, consignes d'entretien, plan de maintenance préventive. Nous restons disponibles après la mise en service.", "icon": "book-open" }
+    ]
+  }
+}

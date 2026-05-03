@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "component": "blocks/testimonials/TestimonialDarkCard",
+    "section": "nos-offres/travaux-publics/signalisation-routiere/testimonial001"
+  },
+  "data": {
+    "backgroundImage": {
+      "src": "/images/hero-background.jpg",
+      "alt": "Chantier de signalisation routière — Hassi Messaoud, Ouargla"
+    },
+    "quote": "75 000 ML à Hassi Messaoud. Qualité respectée. Délai respecté. Sans réserve.",
+    "author": {
+      "name": "RACHI YACINE",
+      "role": "Maître d'ouvrage — Chantier Hassi Messaoud, Ouargla"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "component": "blocks/features/FeatureSplitHighlight",
+    "section": "nos-offres/genie-climatique/chauffage-plomberie/features009-pourquoi-cvc"
+  },
+  "data": {
+    "overtitle": "POURQUOI CVC CONCEPT",
+    "title": "Un réseau calculé, pas estimé.",
+    "paragraphs": [
+      {
+        "text": "La plupart des installateurs posent des réseaux au feeling — sans calcul de déperdition, sans dimensionnement des émetteurs, sans équilibrage. Chez CVC CONCEPT, chaque réseau est calculé, tracé sur plan, puis réalisé selon ce plan. La différence se voit à la consommation et au confort."
+      }
+    ],
+    "highlights": [
+      { "text": "Étude thermique avant chaque projet — puissance calculée, pas estimée" },
+      { "text": "Plans de réseaux fournis avant démarrage du chantier" },
+      { "text": "Brasage capillaire des raccords cuivre — étanchéité permanente" },
+      { "text": "Essais sous pression systématiques avant remblai ou doublage" },
+      { "text": "Équilibrage du réseau chauffage : chaque zone reçoit exactement sa puissance" },
+      { "text": "Dossier de travaux remis à la livraison : plans as-built, fiches équipements" }
+    ],
+    "conclusion": "Un réseau de chauffage mal équilibré peut coûter 25% de gaz en plus chaque hiver. Notre méthode de calcul et d'équilibrage vous évite cette dépense inutile dès la première année.",
+    "image": {
+      "src": "/team/rouabah-rabah.jpg",
+      "alt": "ROUABAH Rabah — Ingénieur Génie Civil CVC CONCEPT"
+    },
+    "reverse": true
+  }
+}

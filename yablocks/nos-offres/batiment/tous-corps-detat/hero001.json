@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "component": "blocks/hero/HeroCenteredMinimal",
+    "section": "nos-offres/batiment/tous-corps-detat/hero001"
+  },
+  "data": {
+    "overtitle": "BÂTIMENT",
+    "title": "Tous Corps d'État.",
+    "subtitle": "Gros œuvre, maçonnerie, revêtements, second œuvre et aménagements intérieurs — CVC CONCEPT pilote vos chantiers de construction et de rénovation avec une équipe pluridisciplinaire diplômée, sans faire appel à une multitude de sous-traitants.",
+    "cta": {
+      "primary": { "text": "Demander un devis", "link": "/contact" },
+      "secondary": { "text": "Voir nos réalisations", "link": "/realisations" }
+    },
+    "backgroundImage": {
+      "src": "/equipements/03-niveau-laser.jpg",
+      "alt": "Niveau laser de chantier — CVC CONCEPT Bâtiment"
+    }
+  }
+}

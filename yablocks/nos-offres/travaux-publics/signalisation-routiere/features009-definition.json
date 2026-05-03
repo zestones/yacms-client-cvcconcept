@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "component": "blocks/features/FeatureSplitHighlight",
+    "section": "nos-offres/travaux-publics/signalisation-routiere/features009-definition"
+  },
+  "data": {
+    "overtitle": "SIGNALISATION ROUTIÈRE",
+    "title": "Marquage, panneaux et balisage : notre périmètre d'intervention",
+    "paragraphs": [
+      {
+        "text": "La signalisation routière couvre tout ce qui guide, informe et protège les usagers de la route. CVC CONCEPT intervient sur l'ensemble des catégories — du simple marquage de parking au balisage complet d'un axe à grande vitesse."
+      }
+    ],
+    "highlights": [
+      { "text": "Marquage horizontal : lignes de rive, lignes axiales, zébras et passages piétons" },
+      { "text": "Marquage thermoplastique à chaud — durabilité 3 à 5 ans en zone sahélienne" },
+      { "text": "Panneaux de danger, d'obligation et d'interdiction sur mâts béton" },
+      { "text": "Signalisation d'indication : noms de rues, numéros d'axes, directions" },
+      { "text": "Balisage de chantier et signalisation temporaire de déviation" },
+      { "text": "Délimitation de parkings, zones industrielles, aéroports et sites pétroliers" }
+    ],
+    "conclusion": "Notre capacité de production nous permet d'absorber des chantiers de grande envergure avec des délais serrés. La référence Hassi Messaoud — 75 000 ML en 10 jours — illustre concrètement ce que nous sommes capables d'exécuter.",
+    "image": {
+      "src": "/equipements/04-poste-soudage.jpg",
+      "alt": "Outillage de signalisation — pose de mâts et ancrages CVC CONCEPT"
+    },
+    "reverse": false
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "component": "blocks/cta/CTABenefitsGrid",
+    "section": "nos-offres/genie-climatique/climatisation-ventilation/cta001"
+  },
+  "data": {
+    "title": "Confiez votre installation CVC à des spécialistes",
+    "benefits": [
+      {
+        "icon": "thermometer",
+        "text": "Bilan thermique inclus sur chaque projet",
+        "_tid": "bn1Clm"
+      },
+      {
+        "icon": "shield-check",
+        "text": "Matériel certifié, fluides homologués",
+        "_tid": "bn2Clm"
+      },
+      {
+        "icon": "award",
+        "text": "Ingénieurs diplômés en génie climatique",
+        "_tid": "bn4Clm"
+      }
+    ],
+    "cta": {
+      "text": "Demander un devis gratuit",
+      "link": "/contact"
+    }
+  }
+}

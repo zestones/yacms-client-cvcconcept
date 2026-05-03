@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "component": "blocks/features/FeatureSplitHighlight",
+    "section": "nos-offres/batiment/tous-corps-detat/features009-definition"
+  },
+  "data": {
+    "overtitle": "BÂTIMENT TCE",
+    "title": "Du gros oeuvre aux finitions : notre périmètre TCE",
+    "paragraphs": [
+      {
+        "text": "Tous Corps d'État signifie un seul contrat pour l'ensemble du bâtiment. CVC CONCEPT pilote l'intégralité du chantier — de la fondation aux peintures — avec une équipe pluridisciplinaire interne, sans multiplier les sous-traitants et les interfaces."
+      }
+    ],
+    "highlights": [
+      { "text": "Gros oeuvre : fondations, soubassements, maçonnerie porteuse, dalles et planchers" },
+      { "text": "Charpente et couverture : terrasses accessibles et inaccessibles, toitures en pente" },
+      { "text": "Lots techniques intégrés : électricité basse tension, plomberie, climatisation" },
+      { "text": "Second oeuvre : cloisons, doublage, isolation thermique et acoustique" },
+      { "text": "Revêtements : carrelage, faïence, parquet, enduits façade" },
+      { "text": "Peinture intérieure et extérieure, menuiseries aluminium et PVC" }
+    ],
+    "conclusion": "La pluridisciplinarité de notre équipe est un atout concret : les lots techniques (CVC, plomberie) sont coordonnés avec le gros oeuvre dès le début, pas en rattrapage à la fin. Résultat : moins de saignées, moins de dommages aux finitions, moins de déchets.",
+    "image": {
+      "src": "/equipements/03-coffret-cle-dynamometrique.jpg",
+      "alt": "Outillage professionnel — précision sur tous les corps d'état"
+    },
+    "reverse": false
+  }
+}

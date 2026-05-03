@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "component": "blocks/features/FeatureSplitHighlight",
+    "section": "nos-offres/genie-climatique/climatisation-ventilation/features009-definition"
+  },
+  "data": {
+    "overtitle": "CLIMATISATION & VENTILATION",
+    "title": "Ce que nous installons, ce que nous maintenons",
+    "paragraphs": [
+      {
+        "text": "Des systèmes split-system pour bureaux et commerces aux centrales de traitement d'air industrielles, en passant par les systèmes VRF/VRV pour immeubles tertiaires et complexes hôteliers — CVC CONCEPT couvre l'ensemble du spectre du génie climatique."
+      }
+    ],
+    "highlights": [
+      {
+        "text": "Climatiseurs split-system pour bureaux, commerces et locaux techniques (1 à 5 modules)"
+      },
+      {
+        "text": "Systèmes VRF/VRV multi-splits pour bureaux et commerces"
+      },
+      {
+        "text": "Centrales de traitement d'air (CTA) pour locaux techniques et industriels"
+      },
+      {
+        "text": "Ventilation mécanique contrôlée (VMC) simple et double flux"
+      },
+      {
+        "text": "Déshumidification et traitement de l'air humide"
+      },
+      {
+        "text": "Contrôle et régulation : thermostats, programmateurs, GTB"
+      }
+    ],
+    "conclusion": "Quel que soit votre projet — bureau, entrepôt, local industriel, bâtiment tertiaire ou collectif — nous dimensionnons la solution exacte à vos besoins, sans surdimensionner ni sous-dimensionner.",
+    "image": {
+      "src": "/equipements/02-station-recuperation-fluide.jpg",
+      "alt": "Station de récupération de fluide frigorigène — CVC CONCEPT Génie Climatique"
+    },
+    "reverse": false
+  }
+}

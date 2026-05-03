@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "component": "blocks/stats/StatsPrimaryRow",
+    "section": "nos-offres/travaux-publics/voirie-vrd/stats001"
+  },
+  "data": {
+    "stats": [
+      { "value": "IV", "label": "Qualification Travaux Publics Cat.", "suffix": "" },
+      { "value": "100", "label": "Chantiers livrés sans réserve", "suffix": "%" },
+      { "value": "4", "label": "Projets VRD réalisés en Algérie", "suffix": "+" },
+      { "value": "1", "label": "Ingénieur Génie Civil sur chaque chantier", "suffix": "" }
+    ]
+  }
+}

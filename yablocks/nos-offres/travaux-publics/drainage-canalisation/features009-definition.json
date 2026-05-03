@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "component": "blocks/features/FeatureSplitHighlight",
+    "section": "nos-offres/travaux-publics/drainage-canalisation/features009-definition"
+  },
+  "data": {
+    "overtitle": "DRAINAGE & CANALISATION",
+    "title": "Réseaux enterrés : tout ce que nous posons",
+    "paragraphs": [
+      {
+        "text": "Un réseau de drainage ou d'assainissement performant reste invisible — parce qu'il fonctionne. CVC CONCEPT intervient sur tous les types de réseaux enterrés : pluviaux, eaux usées, drainage agricole et industriel, réseaux d'adduction d'eau potable en PEHD."
+      }
+    ],
+    "highlights": [
+      { "text": "Réseaux d'assainissement eaux usées : canalisations PVC, PEHD, béton" },
+      { "text": "Réseaux pluviaux et drainage de surface : fossés, cunettes, bassins de rétention" },
+      { "text": "Adduction d'eau potable et réseaux d'irrigation en PEHD soudé bout-à-bout" },
+      { "text": "Drainage agricole : tuyaux drainants, collecteurs, puits perdants" },
+      { "text": "Réseaux industriels : effluents, eaux de process, réseau incendie" },
+      { "text": "Regards de visite, déversoirs, collecteurs de grille et équipements de réseau" }
+    ],
+    "conclusion": "Nous réalisons de petits réseaux de quelques dizaines de mètres jusqu'aux grands linéaires de plusieurs kilomètres. Nos équipements de terrassement et notre soudeuse PEHD nous permettent de traiter tous les diamètres.",
+    "image": {
+      "src": "/equipements/11-testeur-fuite.jpg",
+      "alt": "Testeur d'étanchéité — contrôle des réseaux avant remblaiement"
+    },
+    "reverse": false
+  }
+}

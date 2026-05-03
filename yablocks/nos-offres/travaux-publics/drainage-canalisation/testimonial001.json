@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "component": "blocks/testimonials/TestimonialDarkCard",
+    "section": "nos-offres/travaux-publics/drainage-canalisation/testimonial001"
+  },
+  "data": {
+    "backgroundImage": {
+      "src": "/equipements/10-bouteille-azot.jpg",
+      "alt": "Test d'étanchéité réseau — CVC CONCEPT Travaux Publics"
+    },
+    "quote": "Les tests d'étanchéité ont été réalisés en présence du maître d'œuvre avant remblai. Tout était documenté. C'est le genre de rigueur qui évite les mauvaises surprises deux ans après la réception.",
+    "author": {
+      "name": "Maître d'œuvre",
+      "role": "Projet assainissement — région de Bordj Bou Arréridj"
+    }
+  }
+}

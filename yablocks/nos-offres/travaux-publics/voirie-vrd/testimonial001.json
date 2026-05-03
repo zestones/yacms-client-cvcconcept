@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "component": "blocks/testimonials/TestimonialDarkCard",
+    "section": "nos-offres/travaux-publics/voirie-vrd/testimonial001"
+  },
+  "data": {
+    "backgroundImage": {
+      "src": "/equipements/01-perfo-sds-max.jpg",
+      "alt": "Chantier VRD CVC CONCEPT Algérie"
+    },
+    "quote": "Chantier de voirie réalisé dans les délais contractuels. L'ingénieur était présent en permanence, les essais de compactage ont été réalisés et le dossier de réception était complet. C'est le niveau de professionnalisme qu'on attend d'une entreprise qualifiée.",
+    "author": {
+      "name": "Maître d'ouvrage",
+      "role": "Marché de voirie — Wilaya de Bordj Bou Arréridj"
+    }
+  }
+}

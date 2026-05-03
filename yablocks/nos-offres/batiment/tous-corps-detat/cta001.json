@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "component": "blocks/cta/CTABenefitsGrid",
+    "section": "nos-offres/batiment/tous-corps-detat/cta001"
+  },
+  "data": {
+    "title": "Confiez votre projet de construction à une équipe pluridisciplinaire",
+    "benefits": [
+      {
+        "icon": "home",
+        "text": "Tous corps d'état : un seul interlocuteur",
+        "_tid": "bn1Bat"
+      },
+      {
+        "icon": "shield-check",
+        "text": "100% des chantiers livrés sans réserve",
+        "_tid": "bn3Bat"
+      },
+      {
+        "icon": "calendar",
+        "text": "Planning respecté — engagement contractuel",
+        "_tid": "bn4Bat"
+      }
+    ],
+    "cta": {
+      "text": "Soumettre votre projet de construction",
+      "link": "/contact"
+    }
+  }
+}

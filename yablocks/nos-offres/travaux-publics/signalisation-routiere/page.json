@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "title": "Signalisation Routière — Travaux Publics | CVC CONCEPT Algérie",
+    "description": "Signalisation routière horizontale et verticale en Algérie. Marquage au sol, panneaux, signalisation de chantier. Référence : 75 000 ML à Hassi Messaoud. SARL CVC CONCEPT.",
+    "keywords": ["signalisation routière Algérie", "marquage au sol Algérie", "panneaux signalisation", "signalisation chantier", "Hassi Messaoud", "CVC CONCEPT travaux publics"],
+    "author": "CVC CONCEPT",
+    "canonical": "https://cvcconcept.com/nos-offres/travaux-publics/signalisation-routiere",
+    "locale": "fr_DZ",
+    "robots": "index, follow",
+    "og": { "type": "website", "image": "/og-home.png", "imageAlt": "Signalisation Routière — CVC CONCEPT" }
+  },
+  "theme": "cvcconcept-default",
+  "blocks": [
+    "@shared/navigation.json",
+    "./hero001.json",
+    "./features004-probleme.json",
+    "./features009-definition.json",
+    "./process001-methode.json",
+    "./trust-logos002.json",
+    "./stats001.json",
+    "./features009-pourquoi-cvc.json",
+    "./testimonial001.json",
+    "./faq001.json",
+    "./cta001.json",
+    "@shared/footer.json"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "component": "blocks/hero/HeroCenteredMinimal",
+    "section": "nos-offres/travaux-publics/voirie-vrd/hero001"
+  },
+  "data": {
+    "overtitle": "TRAVAUX PUBLICS",
+    "title": "Voirie & Réseaux Divers.",
+    "subtitle": "Terrassement, plateformes, rechargement et reprofilage de chaussée — CVC CONCEPT exécute vos travaux de VRD dans les délais, avec les moyens techniques et les qualifications requises pour les marchés publics et privés en Algérie.",
+    "cta": {
+      "primary": { "text": "Demander un devis", "link": "/contact" },
+      "secondary": { "text": "Voir nos réalisations", "link": "/realisations" }
+    },
+    "backgroundImage": {
+      "src": "/equipements/01-perfo-sds-max.jpg",
+      "alt": "Travaux de voirie — CVC CONCEPT Algérie"
+    }
+  }
+}

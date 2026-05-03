@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "component": "blocks/features/FeatureBadgeContent",
+    "section": "nos-offres/batiment/tous-corps-detat/features004-probleme"
+  },
+  "data": {
+    "badges": [
+      { "src": "/logos/logo.png", "alt": "CVC CONCEPT — Bâtiment Tous Corps d'État", "_tid": "bdg1Bat" }
+    ],
+    "headline": "Un chantier TCE avec un seul interlocuteur : moins de coordination, plus de cohérence.",
+    "paragraphs": [
+      { "text": "Coordonner gros œuvre, second œuvre, plomberie, électricité, peinture et revêtements avec autant d'entreprises différentes est un exercice épuisant pour le maître d'ouvrage. Les interfaces entre corps de métier sont sources d'erreurs, de retards et de litiges sur les responsabilités.", "_tid": "pg1Bat" },
+      { "text": "La solution est d'avoir un entrepreneur TCE qui pilote l'ensemble. Un seul contrat, une seule feuille de route, un seul interlocuteur responsable du résultat final. CVC CONCEPT dispose des compétences en interne pour couvrir les principaux corps d'état d'un chantier de bâtiment.", "_tid": "pg2Bat" },
+      { "text": "Notre équipe intègre des profils complémentaires : ingénieur génie civil pour la structure, techniciens CVC pour les lots techniques, maçons qualifiés pour le gros et second œuvre. Cette pluridisciplinarité garantit la cohérence des travaux du soubassement aux finitions.", "_tid": "pg3Bat" }
+    ],
+    "closing": "Un chantier, un responsable, une livraison sans réserve."
+  }
+}

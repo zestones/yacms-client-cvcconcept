@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "component": "blocks/trust/TrustLogoGrid",
+    "section": "nos-offres/travaux-publics/drainage-canalisation/trust-logos002"
+  },
+  "data": {
+    "title": "Équipements pour des réseaux durables et étanches",
+    "subtitle": "Soudeuse bout-à-bout PEHD, testeur d'étanchéité, matériel de terrassement — les outils qui garantissent des réseaux posés dans les règles de l'art",
+    "logos": [
+      { "src": "/equipements/11-testeur-fuite.jpg", "alt": "Testeur d'étanchéité — essais à l'air et à l'eau" },
+      { "src": "/equipements/10-bouteille-azot.jpg", "alt": "Azote — pressurisation des réseaux pour test" },
+      { "src": "/equipements/01-perfo-sds-max.jpg", "alt": "Équipement de terrassement — ouverture de tranchées" },
+      { "src": "/equipements/04-poste-soudage.jpg", "alt": "Équipement de soudage PEHD — joints monolithiques" },
+      { "src": "/equipements/03-coffret-cle-dynamometrique.jpg", "alt": "Outillage certifié — assemblages conformes" },
+      { "src": "/logos/logo.png", "alt": "SARL CVC CONCEPT — Qualifiée Cat. IV Travaux Publics" }
+    ]
+  }
+}

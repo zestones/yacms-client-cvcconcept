@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "component": "blocks/process/ProcessCarousel",
+    "section": "nos-offres/travaux-publics/drainage-canalisation/process001-methode"
+  },
+  "data": {
+    "overtitle": "NOTRE MÉTHODE",
+    "title": "De l'étude hydraulique à la réception : notre process canalisation",
+    "steps": [
+      { "title": "Étude Hydraulique", "description": "Calcul des débits à évacuer, dimensionnement des diamètres, calcul des pentes et positionnement des regards de visite selon les plans topographiques.", "icon": "droplets" },
+      { "title": "Terrassement de Tranchées", "description": "Ouverture des tranchées avec engins adaptés, profil en V ou berceau selon le diamètre. Lit de pose en sable ou grave stabilisée.", "icon": "layers" },
+      { "title": "Pose & Assemblage", "description": "Pose des canalisations PEHD ou en béton selon les spécifications. Soudage bout-à-bout pour le PEHD. Positionnement des regards et branchements.", "icon": "tool" },
+      { "title": "Tests d'Étanchéité", "description": "Essai à l'air ou à l'eau avant remblaiement. Rapport de tests fourni au maître d'ouvrage. Aucun remblai sans validation.", "icon": "check-circle" },
+      { "title": "Remblai & Compactage", "description": "Remblaiement par couches avec matériaux appropriés, compactage contrôlé, réfection de la surface si nécessaire.", "icon": "layers" }
+    ]
+  }
+}

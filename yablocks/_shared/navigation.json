@@ -12,7 +12,7 @@
     },
     "links": [
       {
-        "label": "Services",
+        "label": "Nos Offres",
         "groups": [
           {
             "label": "Génie Climatique",
@@ -20,17 +20,17 @@
             "items": [
               {
                 "label": "Climatisation & Ventilation",
-                "href": "/services/genie-climatique/climatisation-ventilation",
+                "href": "/nos-offres/genie-climatique/climatisation-ventilation",
                 "_tid": "cvc1aClm"
               },
               {
                 "label": "Chauffage & Plomberie",
-                "href": "/services/genie-climatique/chauffage-plomberie",
+                "href": "/nos-offres/genie-climatique/chauffage-plomberie",
                 "_tid": "cvc2bChf"
               },
               {
                 "label": "Maintenance & Dépannage",
-                "href": "/services/genie-climatique/maintenance-depannage",
+                "href": "/nos-offres/genie-climatique/maintenance-depannage",
                 "_tid": "cvc3cMnt"
               }
             ],
@@ -42,17 +42,17 @@
             "items": [
               {
                 "label": "Voirie & VRD",
-                "href": "/services/travaux-publics/voirie-vrd",
+                "href": "/nos-offres/travaux-publics/voirie-vrd",
                 "_tid": "cvc4dVrd"
               },
               {
                 "label": "Signalisation Routière",
-                "href": "/services/travaux-publics/signalisation-routiere",
+                "href": "/nos-offres/travaux-publics/signalisation-routiere",
                 "_tid": "cvc5eSig"
               },
               {
                 "label": "Drainage & Canalisation",
-                "href": "/services/travaux-publics/drainage-canalisation",
+                "href": "/nos-offres/travaux-publics/drainage-canalisation",
                 "_tid": "cvc6fDrn"
               }
             ],
@@ -64,7 +64,7 @@
             "items": [
               {
                 "label": "Bâtiment Tous Corps d'État",
-                "href": "/services/batiment/tous-corps-detat",
+                "href": "/nos-offres/batiment/tous-corps-detat",
                 "_tid": "cvc7gBat"
               }
             ],

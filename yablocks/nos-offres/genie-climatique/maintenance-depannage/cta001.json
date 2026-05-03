@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "component": "blocks/cta/CTABenefitsGrid",
+    "section": "nos-offres/genie-climatique/maintenance-depannage/cta001"
+  },
+  "data": {
+    "title": "Protégez vos installations CVC avec un contrat de maintenance",
+    "benefits": [
+      {
+        "icon": "clock",
+        "text": "Intervention sous 48h garantie",
+        "_tid": "bn1Mnt"
+      },
+      {
+        "icon": "shield-check",
+        "text": "Priorité d'intervention clients contrat",
+        "_tid": "bn2Mnt"
+      },
+      {
+        "icon": "bar-chart-2",
+        "text": "Rapport d'état à chaque visite préventive",
+        "_tid": "bn3Mnt"
+      }
+    ],
+    "cta": {
+      "text": "Souscrire un contrat de maintenance",
+      "link": "/contact"
+    }
+  }
+}

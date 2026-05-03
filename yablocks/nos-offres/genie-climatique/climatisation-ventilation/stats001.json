@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "component": "blocks/stats/StatsPrimaryRow",
+    "section": "nos-offres/genie-climatique/climatisation-ventilation/stats001"
+  },
+  "data": {
+    "stats": [
+      { "value": "100", "label": "Installations livrées sans réserve", "suffix": "%" },
+      { "value": "2", "label": "Ingénieurs génie climatique diplômés", "suffix": "+" },
+      { "value": "30", "label": "D'économie d'énergie vs. installation mal dimensionnée", "suffix": "%" },
+      { "value": "48", "label": "Délai d'intervention en dépannage", "suffix": "h" }
+    ]
+  }
+}

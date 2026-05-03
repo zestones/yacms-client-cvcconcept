@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "component": "blocks/hero/HeroCenteredMinimal",
+    "section": "nos-offres/genie-climatique/chauffage-plomberie/hero001"
+  },
+  "data": {
+    "overtitle": "GÉNIE CLIMATIQUE",
+    "title": "Chauffage & Plomberie.",
+    "subtitle": "Chaudières, planchers chauffants, réseaux de distribution et plomberie sanitaire — CVC CONCEPT conçoit des installations durables, conformes et économes en énergie pour les bâtiments tertiaires, sites industriels et complexes institutionnels.",
+    "cta": {
+      "primary": {
+        "text": "Demander un devis",
+        "link": "/contact"
+      },
+      "secondary": {
+        "text": "Nos réalisations",
+        "link": "/realisations"
+      }
+    },
+    "backgroundImage": {
+      "src": "/equipements/07-pompe-circulation.jpg",
+      "alt": "Pompe de circulation — système de chauffage central CVC CONCEPT"
+    }
+  }
+}

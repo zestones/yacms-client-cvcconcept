@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "component": "blocks/testimonials/TestimonialDarkCard",
+    "section": "nos-offres/batiment/tous-corps-detat/testimonial001"
+  },
+  "data": {
+    "backgroundImage": {
+      "src": "/equipements/03-coffret-cle-dynamometrique.jpg",
+      "alt": "Chantier bâtiment tous corps d'état — CVC CONCEPT"
+    },
+    "quote": "Le fait d'avoir un seul entrepreneur pour l'ensemble du chantier a vraiment changé les choses. Pas de conflits entre corps de métier, un planning tenu et un résultat soigné. CVC CONCEPT a livré ce qu'ils avaient promis.",
+    "author": {
+      "name": "Maître d'ouvrage privé",
+      "role": "Construction tertiaire — Bordj Bou Arréridj"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "component": "blocks/testimonials/TestimonialDarkCard",
+    "section": "nos-offres/genie-climatique/maintenance-depannage/testimonial001"
+  },
+  "data": {
+    "backgroundImage": {
+      "src": "/equipements/11-testeur-fuite.jpg",
+      "alt": "Diagnostic CVC — dépannage climatisation"
+    },
+    "quote": "Le diagnostic a été fait sérieusement, avec les instruments. La panne était identifiée avant le devis. La réparation a été propre et le système repart depuis sans problème. C'est la première fois qu'un dépanneur ne me vend pas de pièce inutile.",
+    "author": {
+      "name": "Client tertiaire",
+      "role": "Local commercial — Bordj Bou Arréridj"
+    }
+  }
+}

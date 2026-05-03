@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "component": "blocks/faq/FaqSplitAccordion",
+    "section": "nos-offres/travaux-publics/drainage-canalisation/faq001"
+  },
+  "data": {
+    "sectionLabel": "FAQ",
+    "title": "Questions fréquentes sur le drainage et les canalisations",
+    "items": [
+      { "question": "Quelle est la différence entre réseau pluvial et réseau d'assainissement ?", "answer": "Le réseau pluvial collecte les eaux de pluie (toitures, voiries) pour les évacuer vers le milieu naturel ou un bassin de rétention. Le réseau d'assainissement collecte les eaux usées (sanitaires, process industriel) pour les acheminer vers une station d'épuration. Les deux réseaux sont séparés sur les chantiers modernes.", "_tid": "fq1Drn" },
+      { "question": "Pourquoi utiliser le PEHD plutôt que le PVC ou le béton ?", "answer": "Le PEHD (polyéthylène haute densité) est plus flexible, résistant aux chocs et aux mouvements de sol. Le soudage bout-à-bout crée des joints monolithiques sans fuites. Sa durée de vie dépasse 50 ans. Pour les grandes pressions ou les terrains difficiles (Sahara, zones de tassement), le PEHD est notre matériau de référence.", "_tid": "fq2Drn" },
+      { "question": "Réalisez-vous les études hydrauliques ?", "answer": "Oui. Nos ingénieurs réalisent les calculs de dimensionnement hydraulique (débits, pentes, diamètres). Pour les projets complexes nécessitant une modélisation hydrologique poussée, nous collaborons avec des bureaux d'études spécialisés.", "_tid": "fq3Drn" },
+      { "question": "Les tests d'étanchéité sont-ils obligatoires ?", "answer": "Ils sont exigés par les cahiers des charges des marchés publics et fortement recommandés pour tout réseau. Nous réalisons systématiquement des tests à l'air ou à l'eau avant tout remblaiement. Les résultats sont consignés dans un PV signé, inclus dans le DOE.", "_tid": "fq4Drn" }
+    ]
+  }
+}

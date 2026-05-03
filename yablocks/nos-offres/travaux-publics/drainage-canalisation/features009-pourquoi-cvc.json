@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "component": "blocks/features/FeatureSplitHighlight",
+    "section": "nos-offres/travaux-publics/drainage-canalisation/features009-pourquoi-cvc"
+  },
+  "data": {
+    "overtitle": "POURQUOI CVC CONCEPT",
+    "title": "Aucun remblai avant le PV de test d'étanchéité.",
+    "paragraphs": [
+      {
+        "text": "C'est notre règle non négociable : sur chaque réseau, les tests d'étanchéité sont réalisés et consignés dans un PV avant de refermer les tranchées. Ce qui est recouvert ne peut plus être contrôlé — alors on contrôle avant. Peu d'entreprises appliquent cette discipline. Toutes devraient."
+      }
+    ],
+    "highlights": [
+      { "text": "Tests d'étanchéité systématiques — à l'air ou à l'eau selon le réseau" },
+      { "text": "PV de test signé fourni avant remblaiement : preuve tangible de qualité" },
+      { "text": "Soudage PEHD bout-à-bout : joints monolithiques, aucune infiltration possible" },
+      { "text": "Pentes hydrauliques vérifiées au laser avant pose des canalisations" },
+      { "text": "Remblai par couches avec matériaux sélectionnés — pas de cailloux sur les tuyaux" },
+      { "text": "DOE complet à la livraison : plans as-built, PV de tests, fiches matériaux" }
+    ],
+    "conclusion": "Un réseau qu'on ne voit pas doit être le réseau qu'on ne remarque pas — parce qu'il n'a jamais causé de problème. C'est l'objectif de notre méthode.",
+    "image": {
+      "src": "/team/rouabah-rabah.jpg",
+      "alt": "ROUABAH Rabah — Ingénieur Génie Civil, responsable réseaux CVC CONCEPT"
+    },
+    "reverse": true
+  }
+}

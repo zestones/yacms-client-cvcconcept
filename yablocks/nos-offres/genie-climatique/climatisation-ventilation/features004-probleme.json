@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "component": "blocks/features/FeatureBadgeContent",
+    "section": "nos-offres/genie-climatique/climatisation-ventilation/features004-probleme"
+  },
+  "data": {
+    "badges": [
+      { "src": "/logos/logo.png", "alt": "CVC CONCEPT — Spécialiste Froid & Climatisation", "_tid": "bdg1Clm" }
+    ],
+    "headline": "Une mauvaise installation coûte plus cher à long terme qu'une bonne dès le départ.",
+    "paragraphs": [
+      { "text": "Un climatiseur mal dimensionné consomme 30 à 50% d'énergie de plus que nécessaire. Une installation bâclée génère des pannes récurrentes, des nuisances sonores et une durée de vie réduite de moitié. En Algérie, le marché regorge d'installateurs low-cost qui disparaissent après la pose.", "_tid": "pg1Clm" },
+      { "text": "Le problème ne vient pas du matériel — il vient du dimensionnement et de la mise en œuvre. Un système CVC doit être calculé en fonction des volumes, de l'isolation, de l'exposition et de l'usage. C'est ce calcul que la plupart des installateurs sautent pour aller vite.", "_tid": "pg2Clm" },
+      { "text": "Chez CVC CONCEPT, chaque projet commence par un bilan thermique. Nos ingénieurs en génie climatique dimensionnent la puissance exacte requise, sélectionnent les équipements adaptés et supervisent l'installation de A à Z. Le résultat : un confort optimal, une facture énergétique maîtrisée et une installation qui dure.", "_tid": "pg3Clm" }
+    ],
+    "closing": "Le bon équipement, bien installé, par des gens qui savent ce qu'ils font."
+  }
+}

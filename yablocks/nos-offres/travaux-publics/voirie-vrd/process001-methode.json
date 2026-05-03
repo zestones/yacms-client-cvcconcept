@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "component": "blocks/process/ProcessCarousel",
+    "section": "nos-offres/travaux-publics/voirie-vrd/process001-methode"
+  },
+  "data": {
+    "overtitle": "NOTRE MÉTHODE",
+    "title": "De l'étude au récolement : notre process VRD",
+    "steps": [
+      { "title": "Étude & Chiffrage", "description": "Analyse des plans et relevés topographiques, calcul des volumes de terrassement, chiffrage détaillé des fournitures et de la main d'œuvre.", "icon": "file-text" },
+      { "title": "Terrassement & Préparation", "description": "Décapage de la couche végétale, terrassement en déblai/remblai, compactage de la plate-forme support. Essais de densité in situ.", "icon": "layers" },
+      { "title": "Corps de Chaussée", "description": "Mise en œuvre de la grave non traitée ou traitée selon le cahier des charges, réglage à la niveleuse, compactage et essais de portance.", "icon": "truck" },
+      { "title": "Couche de Surface", "description": "Reprofilage et rechargement en enrobé bitumineux, surfaçage ou enduit superficiel selon l'usage et le niveau de trafic.", "icon": "zap" },
+      { "title": "Réception", "description": "Levée des points de contrôle, rapport de réception, DOE (Dossier des Ouvrages Exécutés). Chantier livré propre et sans réserve.", "icon": "check-circle" }
+    ]
+  }
+}

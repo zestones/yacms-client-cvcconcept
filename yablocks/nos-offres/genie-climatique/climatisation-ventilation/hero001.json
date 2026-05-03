@@ -1,0 +1,25 @@
+{
+  "meta": {
+    "component": "blocks/hero/HeroCenteredMinimal",
+    "section": "nos-offres/genie-climatique/climatisation-ventilation/hero001"
+  },
+  "data": {
+    "overtitle": "GÉNIE CLIMATIQUE",
+    "title": "Climatisation & Ventilation.",
+    "subtitle": "Vos installations CVC sous-dimensionnées ou vétustes pèsent sur votre exploitation ? CVC CONCEPT conçoit et installe des solutions performantes pour les bâtiments tertiaires, sites industriels et complexes institutionnels — partout en Algérie.",
+    "cta": {
+      "primary": {
+        "text": "Demander un devis",
+        "link": "/contact"
+      },
+      "secondary": {
+        "text": "Voir nos équipements",
+        "link": "/equipements"
+      }
+    },
+    "backgroundImage": {
+      "src": "/equipements/02-station-recuperation-fluide.jpg",
+      "alt": "Station de récupération de fluide frigorigène — CVC CONCEPT"
+    }
+  }
+}

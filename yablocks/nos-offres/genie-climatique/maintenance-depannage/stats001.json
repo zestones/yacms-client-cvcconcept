@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "component": "blocks/stats/StatsPrimaryRow",
+    "section": "nos-offres/genie-climatique/maintenance-depannage/stats001"
+  },
+  "data": {
+    "stats": [
+      { "value": "48", "label": "Délai maximum d'intervention", "suffix": "h" },
+      { "value": "40", "label": "De pannes évitées avec maintenance préventive", "suffix": "%" },
+      { "value": "95", "label": "Pannes résolues à la première intervention", "suffix": "%" },
+      { "value": "3", "label": "Fois moins cher que de réparer sans entretien", "suffix": "x" }
+    ]
+  }
+}

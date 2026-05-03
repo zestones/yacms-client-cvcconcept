@@ -16,28 +16,28 @@
                 "checklist": [
                     {
                         "text": "Climatisation tertiaire & industrielle",
-                        "href": "/services",
+                        "href": "/nos-offres/genie-climatique/climatisation-ventilation",
                         "_tid": "cK1aCvc"
                     },
                     {
                         "text": "Ventilation & traitement d'air",
-                        "href": "/services",
+                        "href": "/nos-offres/genie-climatique/climatisation-ventilation",
                         "_tid": "cK2bVnt"
                     },
                     {
                         "text": "Chauffage central & plancher chauffant",
-                        "href": "/services",
+                        "href": "/nos-offres/genie-climatique/chauffage-plomberie",
                         "_tid": "cK3cChf"
                     },
                     {
                         "text": "Maintenance & dépannage CVC",
-                        "href": "/services",
+                        "href": "/nos-offres/genie-climatique/maintenance-depannage",
                         "_tid": "cK4dMnt"
                     }
                 ],
                 "cta": {
                     "text": "Découvrir nos prestations",
-                    "link": "/services/genie-climatique/climatisation-ventilation"
+                    "link": "/nos-offres/genie-climatique/climatisation-ventilation"
                 },
                 "_tid": "itm1CvC"
             },
@@ -52,22 +52,22 @@
                 "checklist": [
                     {
                         "text": "Signalisation routière horizontale & verticale",
-                        "href": "/realisations",
+                        "href": "/nos-offres/travaux-publics/signalisation-routiere",
                         "_tid": "cK5eSig"
                     },
                     {
                         "text": "Drainage & pose de canalisations PEHD",
-                        "href": "/realisations",
+                        "href": "/nos-offres/travaux-publics/drainage-canalisation",
                         "_tid": "cK6fDrn"
                     },
                     {
                         "text": "Reprofilage & rechargement de chaussée",
-                        "href": "/realisations",
+                        "href": "/nos-offres/travaux-publics/voirie-vrd",
                         "_tid": "cK7gRch"
                     },
                     {
                         "text": "VRD — Voirie et Réseaux Divers",
-                        "href": "/realisations",
+                        "href": "/nos-offres/travaux-publics/voirie-vrd",
                         "_tid": "cK8hVrd"
                     }
                 ],

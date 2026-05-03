@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "component": "blocks/features/FeatureBadgeContent",
+    "section": "nos-offres/travaux-publics/drainage-canalisation/features004-probleme"
+  },
+  "data": {
+    "badges": [
+      { "src": "/logos/logo.png", "alt": "CVC CONCEPT — Travaux Publics Algérie", "_tid": "bdg1Drn" }
+    ],
+    "headline": "Un réseau de drainage mal posé inonde tout — souvent longtemps après la réception du chantier.",
+    "paragraphs": [
+      { "text": "En Algérie, les réseaux d'assainissement et de drainage sont souvent un des parents pauvres des chantiers : posés en fin de projet, sous-estimés dans les budgets, confiés à des intervenants sans qualification spécifique. Les conséquences apparaissent plus tard : remontées d'eau, inondations de plateformes, érosion, pollution de nappes phréatiques.", "_tid": "pg1Drn" },
+      { "text": "Un réseau bien conçu et bien posé, c'est la pente hydraulique calculée, les regards positionnés correctement, les canalisations en PEHD soudées bout-à-bout, les tranchées remblayées avec les matériaux appropriés. C'est aussi les tests d'étanchéité réalisés avant remblai — pas après.", "_tid": "pg2Drn" },
+      { "text": "CVC CONCEPT dispose du matériel de terrassement, du soudeuse bout-à-bout PEHD et du testeur d'étanchéité pour réaliser vos réseaux enterrés dans les règles de l'art. De l'eaux pluviale à l'assainissement industriel, nous adaptons les diamètres, les pentes et les matériaux à chaque contexte.", "_tid": "pg3Drn" }
+    ],
+    "closing": "Un réseau invisible — parce qu'il fonctionne."
+  }
+}

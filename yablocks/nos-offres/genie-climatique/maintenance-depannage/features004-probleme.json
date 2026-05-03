@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "component": "blocks/features/FeatureBadgeContent",
+    "section": "nos-offres/genie-climatique/maintenance-depannage/features004-probleme"
+  },
+  "data": {
+    "badges": [
+      { "src": "/logos/logo.png", "alt": "CVC CONCEPT — Maintenance & Dépannage", "_tid": "bdg1Mnt" }
+    ],
+    "headline": "Une panne CVC sans contrat de maintenance, c'est une urgence qui devient catastrophe.",
+    "paragraphs": [
+      { "text": "40% des pannes de climatisation surviennent sur des systèmes qui n'ont pas été entretenus depuis plus d'un an. Un filtre encrassé, un manque de fluide frigorigène ou une connexion électrique défaillante peuvent être détectés lors d'une visite préventive — et ne jamais devenir des pannes.", "_tid": "pg1Mnt" },
+      { "text": "Sans contrat, le dépannage prend plus de temps : le technicien découvre la machine pour la première fois, n'a pas les pièces en stock et doit commander. Résultat : plusieurs jours d'immobilisation, en pleine période de pointe. C'est précisément ce scénario qu'un contrat de maintenance permet d'éviter.", "_tid": "pg2Mnt" },
+      { "text": "Nos contrats de maintenance préventive incluent une visite annuelle ou biannuelle avec rapport d'état complet. En cas de panne, nos clients sous contrat bénéficient d'une priorité d'intervention. Nous connaissons déjà leur installation — l'intervention est plus rapide, plus précise, et moins coûteuse.", "_tid": "pg3Mnt" }
+    ],
+    "closing": "Prévenir coûte 3 fois moins cher que guérir — et l'inconfort en moins."
+  }
+}

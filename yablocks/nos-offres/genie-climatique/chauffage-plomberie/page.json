@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "title": "Chauffage & Plomberie — CVC CONCEPT Algérie",
+    "description": "Installation de chauffage central, chaudières, planchers chauffants et réseaux plomberie en Algérie. SARL CVC CONCEPT — experts en génie climatique.",
+    "keywords": ["chauffage central Algérie", "chaudière gaz Algérie", "plancher chauffant", "plomberie industrielle", "installation chauffage", "CVC CONCEPT"],
+    "author": "CVC CONCEPT",
+    "canonical": "https://cvcconcept.com/nos-offres/genie-climatique/chauffage-plomberie",
+    "locale": "fr_DZ",
+    "robots": "index, follow",
+    "og": { "type": "website", "image": "/og-home.png", "imageAlt": "Chauffage & Plomberie — CVC CONCEPT" }
+  },
+  "theme": "cvcconcept-default",
+  "blocks": [
+    "@shared/navigation.json",
+    "./hero001.json",
+    "./features004-probleme.json",
+    "./features009-definition.json",
+    "./process001-methode.json",
+    "./trust-logos002.json",
+    "./stats001.json",
+    "./features009-pourquoi-cvc.json",
+    "./testimonial001.json",
+    "./faq001.json",
+    "./cta001.json",
+    "@shared/footer.json"
+  ]
+}

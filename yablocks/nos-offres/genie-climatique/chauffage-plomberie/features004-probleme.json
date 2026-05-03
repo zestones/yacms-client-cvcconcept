@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "component": "blocks/features/FeatureBadgeContent",
+    "section": "nos-offres/genie-climatique/chauffage-plomberie/features004-probleme"
+  },
+  "data": {
+    "badges": [
+      { "src": "/logos/logo.png", "alt": "CVC CONCEPT — Génie Climatique", "_tid": "bdg1Chf" }
+    ],
+    "headline": "Un réseau de chauffage mal conçu chauffe les murs, pas les gens.",
+    "paragraphs": [
+      { "text": "En Algérie, les hivers en zone nord et sur les Hauts Plateaux peuvent être rigoureux. Un chauffage sous-dimensionné ou mal régulé entraîne une surconsommation de gaz, des zones froides et un inconfort permanent. Les pannes surviennent toujours à la mauvaise période.", "_tid": "pg1Chf" },
+      { "text": "La plomberie est souvent traitée comme une prestation secondaire — pourtant, un réseau mal conçu génère des pertes de charge, des risques de gel, des fuites silencieuses et des problèmes de qualité d'eau. Ces défauts sont invisibles jusqu'au jour où ils causent des dégâts coûteux.", "_tid": "pg2Chf" },
+      { "text": "CVC CONCEPT intervient sur l'ensemble des corps d'état thermiques et sanitaires : installation de chaudières gaz et fuel, planchers chauffants, radiateurs, distribution en cuivre et multicouche, réseaux eau chaude sanitaire et eau froide. Chaque réseau est calculé, tracé et réceptionné avec mesure.", "_tid": "pg3Chf" }
+    ],
+    "closing": "Un réseau bien conçu se voit rarement — il fonctionne silencieusement pendant 20 ans."
+  }
+}

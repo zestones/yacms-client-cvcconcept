@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "component": "blocks/stats/StatsPrimaryRow",
+    "section": "nos-offres/genie-climatique/chauffage-plomberie/stats001"
+  },
+  "data": {
+    "stats": [
+      { "value": "20", "label": "Durée de vie d'un réseau bien conçu", "suffix": "ans" },
+      { "value": "25", "label": "D'économie de gaz vs. installation non équilibrée", "suffix": "%" },
+      { "value": "100", "label": "Tests sous pression avant livraison", "suffix": "%" },
+      { "value": "48", "label": "Délai d'intervention sur panne", "suffix": "h" }
+    ]
+  }
+}

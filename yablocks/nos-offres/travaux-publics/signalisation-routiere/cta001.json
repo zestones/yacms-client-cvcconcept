@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "component": "blocks/cta/CTABenefitsGrid",
+    "section": "nos-offres/travaux-publics/signalisation-routiere/cta001"
+  },
+  "data": {
+    "title": "Signalisation routière : confiez vos chantiers à CVC CONCEPT",
+    "benefits": [
+      {
+        "icon": "award",
+        "text": "75 000 ML livrés à Hassi Messaoud — référence nationale",
+        "_tid": "bn1Sig"
+      },
+      {
+        "icon": "clock",
+        "text": "Capacité de production importante pour délais serrés",
+        "_tid": "bn2Sig"
+      },
+      {
+        "icon": "shield-check",
+        "text": "Normes algériennes et conformité CCAG-T",
+        "_tid": "bn3Sig"
+      }
+    ],
+    "cta": {
+      "text": "Soumettre un chantier de signalisation",
+      "link": "/contact"
+    }
+  }
+}

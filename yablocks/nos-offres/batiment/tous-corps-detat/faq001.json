@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "component": "blocks/faq/FaqSplitAccordion",
+    "section": "nos-offres/batiment/tous-corps-detat/faq001"
+  },
+  "data": {
+    "sectionLabel": "FAQ",
+    "title": "Questions fréquentes sur la construction TCE",
+    "items": [
+      { "question": "Qu'est-ce que le TCE (Tous Corps d'État) ?", "answer": "Le TCE désigne la prise en charge complète d'un chantier de construction ou de rénovation, incluant l'ensemble des corps de métier : gros œuvre, maçonnerie, électricité, plomberie, CVC, revêtements, peinture. Un entrepreneur TCE est le seul interlocuteur du maître d'ouvrage et coordonne tous les travaux.", "_tid": "fq1Bat" },
+      { "question": "Intervenez-vous en rénovation ou uniquement en construction neuve ?", "answer": "Nous intervenons aussi bien en construction neuve qu'en rénovation. La rénovation représente souvent des chantiers plus complexes (détection des réseaux existants, renforcement structural, contraintes d'habitabilité) — notre expérience multi-corps d'état est particulièrement utile dans ces contextes.", "_tid": "fq2Bat" },
+      { "question": "Faites-vous appel à des sous-traitants ?", "answer": "Pour les travaux spécialisés ou les surcharges de planning, nous pouvons faire appel à des sous-traitants qualifiés que nous connaissons. Mais dans tous les cas, CVC CONCEPT reste l'unique responsable vis-à-vis du maître d'ouvrage — la coordination et la garantie de résultat restent en interne.", "_tid": "fq3Bat" },
+      { "question": "Pouvez-vous répondre aux marchés publics de construction ?", "answer": "Oui. Notre qualification nous habilite à répondre aux appels d'offres publics de bâtiment. Nous disposons de toutes les pièces administratives requises et d'un dossier de références à jour.", "_tid": "fq4Bat" }
+    ]
+  }
+}

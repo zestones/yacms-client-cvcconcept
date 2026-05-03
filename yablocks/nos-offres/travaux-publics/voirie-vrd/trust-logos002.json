@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "component": "blocks/trust/TrustLogoGrid",
+    "section": "nos-offres/travaux-publics/voirie-vrd/trust-logos002"
+  },
+  "data": {
+    "title": "Qualifiés, équipés, réactifs",
+    "subtitle": "Notre qualification Cat. IV Travaux Publics et nos équipements de chantier nous permettent de répondre aux exigences des maîtres d'ouvrages publics et privés sur tout le territoire",
+    "logos": [
+      { "src": "/equipements/01-perfo-sds-max.jpg", "alt": "Perforateur SDS Max — démolition et carottage" },
+      { "src": "/equipements/03-coffret-cle-dynamometrique.jpg", "alt": "Outillage calibré — précision sur chantier" },
+      { "src": "/equipements/04-poste-soudage.jpg", "alt": "Équipements de soudage — assemblages métalliques" },
+      { "src": "/equipements/05-balance-electronique.jpg", "alt": "Instruments de mesure — contrôle qualité" },
+      { "src": "/logos/logo.png", "alt": "SARL CVC CONCEPT — Qualifiée Cat. IV Travaux Publics" },
+      { "src": "/equipements/11-testeur-fuite.jpg", "alt": "Contrôle d'étanchéité des réseaux" }
+    ]
+  }
+}

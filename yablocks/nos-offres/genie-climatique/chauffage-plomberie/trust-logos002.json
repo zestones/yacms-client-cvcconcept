@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "component": "blocks/trust/TrustLogoGrid",
+    "section": "nos-offres/genie-climatique/chauffage-plomberie/trust-logos002"
+  },
+  "data": {
+    "title": "Nos outils pour des réseaux impeccables",
+    "subtitle": "Outillage professionnel pour garantir des assemblages étanches, des pressions vérifiées et des réseaux équilibrés",
+    "logos": [
+      { "src": "/equipements/07-cintreuse-arbalete.jpg", "alt": "Cintreuse à arbalète — cintrage des tubes sans écrasement" },
+      { "src": "/equipements/04-poste-soudage.jpg", "alt": "Poste à souder — brasage capillaire des raccords cuivre" },
+      { "src": "/equipements/03-coffret-cle-dynamometrique.jpg", "alt": "Clés dynamométriques — serrage calibré des raccords multicouche" },
+      { "src": "/equipements/11-testeur-fuite.jpg", "alt": "Testeur d'étanchéité — essai sous pression avant livraison" },
+      { "src": "/equipements/05-balance-electronique.jpg", "alt": "Instruments de mesure calibrés" },
+      { "src": "/equipements/10-bouteille-azot.jpg", "alt": "Azote — tests de pression sur réseaux fermés" }
+    ]
+  }
+}

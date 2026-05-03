@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "component": "blocks/faq/FaqSplitAccordion",
+    "section": "nos-offres/genie-climatique/climatisation-ventilation/faq001"
+  },
+  "data": {
+    "sectionLabel": "FAQ",
+    "title": "Questions fréquentes sur la climatisation",
+    "items": [
+      { "question": "Quelle puissance de climatiseur pour mon local ?", "answer": "La puissance dépend du volume, de l'isolation, de l'exposition au soleil et du nombre d'occupants. En règle générale, comptez 100W par m² pour un local standard en Algérie. Nos ingénieurs réalisent un bilan thermique précis avant chaque installation pour éviter tout surdimensionnement ou sous-dimensionnement.", "_tid": "fq1Clm" },
+      { "question": "Quels fluides frigorigènes utilisez-vous ?", "answer": "Nous travaillons uniquement avec des fluides certifiés et conformes aux réglementations en vigueur : R32, R410A, R290. Tous nos techniciens sont formés à la manipulation des fluides frigorigènes et disposent du matériel de récupération adéquat.", "_tid": "fq2Clm" },
+      { "question": "Quelle est la durée de vie d'un climatiseur bien installé ?", "answer": "Un système correctement dimensionné, installé dans les règles de l'art et entretenu régulièrement a une durée de vie de 10 à 15 ans. Un entretien annuel (nettoyage des filtres, vérification des pressions, contrôle des connexions) suffit à maintenir les performances optimales.", "_tid": "fq3Clm" },
+      { "question": "Intervenez-vous sur toute l'Algérie ?", "answer": "Oui. Notre base est à Bordj Bou Arréridj mais nous intervenons sur l'ensemble du territoire national. Des frais de déplacement peuvent s'appliquer selon l'éloignement du chantier.", "_tid": "fq4Clm" },
+      { "question": "Proposez-vous des contrats de maintenance ?", "answer": "Oui. Nous proposons des contrats de maintenance préventive annuels ou biannuels incluant nettoyage, vérification des pressions et fluides, contrôle électrique et rapport d'état. Un entretien régulier réduit de 40% les pannes et prolonge la durée de vie des équipements.", "_tid": "fq5Clm" }
+    ]
+  }
+}

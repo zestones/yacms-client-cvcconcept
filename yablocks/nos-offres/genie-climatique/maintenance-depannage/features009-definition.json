@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "component": "blocks/features/FeatureSplitHighlight",
+    "section": "nos-offres/genie-climatique/maintenance-depannage/features009-definition"
+  },
+  "data": {
+    "overtitle": "MAINTENANCE & DÉPANNAGE",
+    "title": "Ce que couvre notre service maintenance CVC",
+    "paragraphs": [
+      {
+        "text": "Climatisation, ventilation, chauffage, chauffe-eau — CVC CONCEPT intervient sur l'ensemble des installations thermiques et sanitaires pour la maintenance préventive et le dépannage curatif, qu'il s'agisse de nos propres installations ou d'équipements posés par d'autres entreprises."
+      }
+    ],
+    "highlights": [
+      { "text": "Maintenance préventive annuelle ou biannuelle : nettoyage, contrôle pressions, vérification électrique" },
+      { "text": "Dépannage climatisation : panne compresseur, fuite frigorigène, défaillance cartes électroniques" },
+      { "text": "Dépannage chauffage : panne brûleur, problème de vase d'expansion, dysfonctionnement régulation" },
+      { "text": "Recharge en fluide frigorigène avec traçabilité réglementaire" },
+      { "text": "Remplacement de composants : compresseurs, condensateurs, moteurs, ventilos" },
+      { "text": "Rapport d'état détaillé remis après chaque intervention — historique de l'installation" }
+    ],
+    "conclusion": "Nous intervenons aussi bien sur nos propres installations que sur celles d'autres entreprises. Si votre équipement est en panne et que l'installateur d'origine est injoignable — appelez-nous.",
+    "image": {
+      "src": "/equipements/06-manometre-refrigeration.jpg",
+      "alt": "Manifold électronique — diagnostic et contrôle des pressions frigorigènes"
+    },
+    "reverse": false
+  }
+}

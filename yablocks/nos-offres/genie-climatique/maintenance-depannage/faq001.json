@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "component": "blocks/faq/FaqSplitAccordion",
+    "section": "nos-offres/genie-climatique/maintenance-depannage/faq001"
+  },
+  "data": {
+    "sectionLabel": "FAQ",
+    "title": "Questions fréquentes sur la maintenance CVC",
+    "items": [
+      { "question": "Quelle est la fréquence recommandée d'entretien d'un climatiseur ?", "answer": "Nous recommandons une visite préventive par an minimum pour les usages résidentiels, et deux visites par an pour les installations tertiaires ou industrielles à fort fonctionnement. Le nettoyage des filtres doit être réalisé tous les 3 à 6 mois selon l'environnement.", "_tid": "fq1Mnt" },
+      { "question": "Intervenez-vous en urgence le week-end ?", "answer": "Oui, pour les clients sous contrat de maintenance, nous assurons les interventions urgentes en dehors des heures ouvrables. Pour les nouveaux clients sans contrat, nous intervenons selon nos disponibilités et avec majoration d'urgence.", "_tid": "fq2Mnt" },
+      { "question": "Mon climatiseur chauffe mal — est-ce forcément une panne ?", "answer": "Pas nécessairement. Un climatiseur qui perd en efficacité peut simplement avoir les filtres encrassés, manquer de fluide frigorigène (fuite légère) ou avoir des échangeurs sales. Un diagnostic est nécessaire pour identifier précisément la cause. Ne tardez pas : un problème mineur devient majeur si ignoré.", "_tid": "fq3Mnt" },
+      { "question": "Que comprend un contrat de maintenance annuel ?", "answer": "Notre contrat standard inclut : une visite préventive annuelle (nettoyage, contrôle des pressions, vérification électrique, rapport d'état), la priorité d'intervention en cas de panne et un tarif préférentiel sur les pièces et mains d'œuvre. Nous personnalisons les contrats selon le type d'installation.", "_tid": "fq4Mnt" }
+    ]
+  }
+}

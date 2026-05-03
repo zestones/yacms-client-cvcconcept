@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "component": "blocks/trust/TrustLogoGrid",
+    "section": "nos-offres/genie-climatique/climatisation-ventilation/trust-logos002"
+  },
+  "data": {
+    "title": "Des équipements professionnels certifiés",
+    "subtitle": "Nos instruments de mesure et de charge garantissent une installation précise et conforme aux normes en vigueur",
+    "logos": [
+      { "src": "/equipements/06-manometre-refrigeration.jpg", "alt": "Manifold électronique — contrôle des pressions frigorigènes" },
+      { "src": "/equipements/05-balance-electronique.jpg", "alt": "Balance électronique — pesée précise du fluide frigorigène" },
+      { "src": "/equipements/09-bouteille-recuperation.jpg", "alt": "Bouteille de récupération — fluides certifiés" },
+      { "src": "/equipements/10-bouteille-azot.jpg", "alt": "Bouteille d'azote — test d'étanchéité sous pression" },
+      { "src": "/equipements/11-testeur-fuite.jpg", "alt": "Détecteur de fuite électronique — contrôle de l'étanchéité" },
+      { "src": "/equipements/02-station-recuperation-fluide.jpg", "alt": "Station de récupération de fluide — conformité environnementale" }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "component": "blocks/stats/StatsPrimaryRow",
+    "section": "nos-offres/batiment/tous-corps-detat/stats001"
+  },
+  "data": {
+    "stats": [
+      { "value": "1", "label": "Interlocuteur unique pour tout le chantier", "suffix": "" },
+      { "value": "100", "label": "Chantiers livrés sans réserve", "suffix": "%" },
+      { "value": "5", "label": "Corps de métier intégrés en interne", "suffix": "+" },
+      { "value": "10", "label": "Expérience dans le secteur de la construction", "suffix": "ans" }
+    ]
+  }
+}

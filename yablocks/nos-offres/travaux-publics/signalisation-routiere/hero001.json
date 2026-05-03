@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "component": "blocks/hero/HeroCenteredMinimal",
+    "section": "nos-offres/travaux-publics/signalisation-routiere/hero001"
+  },
+  "data": {
+    "overtitle": "TRAVAUX PUBLICS",
+    "title": "Signalisation Routière.",
+    "subtitle": "Marquage au sol, panneaux de signalisation verticale et signalisation de chantier — CVC CONCEPT réalise vos travaux de signalisation avec les normes algériennes et un soin particulier à la sécurité des usagers.",
+    "cta": {
+      "primary": { "text": "Demander un devis", "link": "/contact" },
+      "secondary": { "text": "Notre réalisation Hassi Messaoud", "link": "/realisations" }
+    },
+    "backgroundImage": {
+      "src": "/equipements/04-traceur-ligne.jpg",
+      "alt": "Traceur de ligne — signalisation routière CVC CONCEPT"
+    }
+  }
+}

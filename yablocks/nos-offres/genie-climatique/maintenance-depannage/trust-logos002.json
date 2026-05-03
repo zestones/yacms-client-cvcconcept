@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "component": "blocks/trust/TrustLogoGrid",
+    "section": "nos-offres/genie-climatique/maintenance-depannage/trust-logos002"
+  },
+  "data": {
+    "title": "Instruments de diagnostic professionnels",
+    "subtitle": "Un diagnostic précis repose sur du matériel précis — nous investissons dans les outils qui font la différence entre une réparation durable et un pansement temporaire",
+    "logos": [
+      { "src": "/equipements/06-manometre-refrigeration.jpg", "alt": "Manifold électronique — mesure précise des pressions haute/basse" },
+      { "src": "/equipements/11-testeur-fuite.jpg", "alt": "Détecteur de fuite électronique — localisation des fuites frigorigènes" },
+      { "src": "/equipements/09-bouteille-recuperation.jpg", "alt": "Station de récupération — récupération conforme des fluides" },
+      { "src": "/equipements/05-balance-electronique.jpg", "alt": "Balance de charge électronique — pesée précise du fluide" },
+      { "src": "/equipements/10-bouteille-azot.jpg", "alt": "Azote — test d'étanchéité après réparation" },
+      { "src": "/equipements/02-station-recuperation-fluide.jpg", "alt": "Équipement de récupération professionnel — conformité réglementaire" }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "component": "blocks/stats/StatsPrimaryRow",
+    "section": "nos-offres/travaux-publics/drainage-canalisation/stats001"
+  },
+  "data": {
+    "stats": [
+      { "value": "100", "label": "Tests d'étanchéité réalisés avant remblai", "suffix": "%" },
+      { "value": "IV", "label": "Qualification Travaux Publics Cat.", "suffix": "" },
+      { "value": "PEHD", "label": "Matériau de prédilection — résistant, durable", "suffix": "" },
+      { "value": "50", "label": "Durée de vie d'un réseau PEHD bien posé", "suffix": "ans" }
+    ]
+  }
+}

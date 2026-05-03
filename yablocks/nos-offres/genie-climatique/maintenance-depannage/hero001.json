@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "component": "blocks/hero/HeroCenteredMinimal",
+    "section": "nos-offres/genie-climatique/maintenance-depannage/hero001"
+  },
+  "data": {
+    "overtitle": "GÉNIE CLIMATIQUE",
+    "title": "Maintenance & Dépannage CVC.",
+    "subtitle": "Un climatiseur en panne en plein été ou une chaudière muette en hiver ne peut pas attendre. CVC CONCEPT intervient rapidement, diagnostique avec précision et remet vos systèmes en marche — avec ou sans contrat de maintenance.",
+    "cta": {
+      "primary": { "text": "Signaler une panne", "link": "/contact" },
+      "secondary": { "text": "Contrat de maintenance", "link": "/contact" }
+    },
+    "backgroundImage": {
+      "src": "/equipements/09-thermometre-laser.jpg",
+      "alt": "Diagnostic thermique CVC — CVC CONCEPT"
+    }
+  }
+}

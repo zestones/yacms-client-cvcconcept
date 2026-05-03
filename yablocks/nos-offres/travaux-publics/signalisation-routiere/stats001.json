@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "component": "blocks/stats/StatsPrimaryRow",
+    "section": "nos-offres/travaux-publics/signalisation-routiere/stats001"
+  },
+  "data": {
+    "stats": [
+      { "value": "75 000", "label": "ML posés à Hassi Messaoud", "suffix": "" },
+      { "value": "10", "label": "Jours pour le chantier Hassi Messaoud", "suffix": " j" },
+      { "value": "100", "label": "Livré sans réserve", "suffix": "%" },
+      { "value": "5", "label": "Durée de vie marquage thermoplastique", "suffix": "ans" }
+    ]
+  }
+}

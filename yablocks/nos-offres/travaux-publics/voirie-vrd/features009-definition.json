@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "component": "blocks/features/FeatureSplitHighlight",
+    "section": "nos-offres/travaux-publics/voirie-vrd/features009-definition"
+  },
+  "data": {
+    "overtitle": "VOIRIE & VRD",
+    "title": "Nos interventions VRD : du terrassement à la réception",
+    "paragraphs": [
+      {
+        "text": "Voirie et Réseaux Divers englobe tous les travaux d'infrastructure hors bâtiment : la plateforme, la chaussée, les réseaux enterrés, les équipements de surface. CVC CONCEPT intervient sur l'ensemble de cette chaîne, avec les équipements et la qualification pour les marchés publics et privés."
+      }
+    ],
+    "highlights": [
+      { "text": "Terrassement général : décapage, déblais/remblais, nivellement de plateforme" },
+      { "text": "Corps de chaussée : grave non traitée, grave traitée au liant hydraulique" },
+      { "text": "Couche de surface : enrobé bitumineux, enduit superficiel, béton désactivé" },
+      { "text": "Reprofilage et rechargement de chaussées dégradées" },
+      { "text": "Bordures, cunettes, caniveaux et équipements de surface" },
+      { "text": "Pistes industrielles et chemins d'accès pour zones pétrolières et agricoles" }
+    ],
+    "conclusion": "Du simple reprofilage d'une piste d'accès au terrassement complet d'une zone d'activité, CVC CONCEPT adapte ses moyens au volume du chantier — et garantit une réception sans réserve dans les délais convenus.",
+    "image": {
+      "src": "/equipements/01-perfo-sds-max.jpg",
+      "alt": "Outillage de chantier CVC CONCEPT — Travaux publics Algérie"
+    },
+    "reverse": false
+  }
+}

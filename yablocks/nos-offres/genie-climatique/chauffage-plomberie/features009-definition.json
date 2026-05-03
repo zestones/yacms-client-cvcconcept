@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "component": "blocks/features/FeatureSplitHighlight",
+    "section": "nos-offres/genie-climatique/chauffage-plomberie/features009-definition"
+  },
+  "data": {
+    "overtitle": "CHAUFFAGE & PLOMBERIE",
+    "title": "Nos interventions : du soubassement aux robinets",
+    "paragraphs": [
+      {
+        "text": "Chauffage central, planchers chauffants, réseaux eau chaude sanitaire, plomberie sanitaire complète — CVC CONCEPT prend en charge l'ensemble de vos réseaux thermiques et sanitaires, de la conception à la réception des travaux."
+      }
+    ],
+    "highlights": [
+      { "text": "Chaudières gaz et fuel : sélection, installation, raccordement et mise en service" },
+      { "text": "Planchers chauffants hydrauliques : calcul, tirage des circuits, collecteurs" },
+      { "text": "Radiateurs : dimensionnement, pose, équilibrage thermique du réseau" },
+      { "text": "Réseaux eau chaude sanitaire (ECS) et eau froide en cuivre et multicouche" },
+      { "text": "Appareils sanitaires : lavabos, douches, WC, baignoires, éviers" },
+      { "text": "Traitement d'eau : adoucisseurs, filtres, anti-tartre pour réseaux" }
+    ],
+    "conclusion": "Un réseau chauffage ou plomberie bien conçu et bien exécuté se fait oublier — il fonctionne silencieusement pendant 20 ans sans problème majeur. C'est l'objectif de chaque intervention CVC CONCEPT.",
+    "image": {
+      "src": "/equipements/07-cintreuse-arbalete.jpg",
+      "alt": "Cintreuse à arbalète — façonnage des tubes cuivre pour réseaux chauffage"
+    },
+    "reverse": false
+  }
+}

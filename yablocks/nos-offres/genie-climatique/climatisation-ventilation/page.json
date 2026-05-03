@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "title": "Climatisation & Ventilation — CVC CONCEPT Algérie",
+    "description": "Installation et maintenance de systèmes de climatisation et ventilation pour bâtiments tertiaires, sites industriels et complexes institutionnels en Algérie. SARL CVC CONCEPT — 0665 55 18 93.",
+    "keywords": [
+      "climatisation Algérie",
+      "ventilation industrielle",
+      "installation climatiseur",
+      "VMC Algérie",
+      "maintenance climatisation",
+      "CVC CONCEPT"
+    ],
+    "author": "CVC CONCEPT",
+    "canonical": "https://cvcconcept.com/nos-offres/genie-climatique/climatisation-ventilation",
+    "locale": "fr_DZ",
+    "robots": "index, follow",
+    "og": {
+      "type": "website",
+      "image": "/og-home.png",
+      "imageAlt": "Climatisation & Ventilation — CVC CONCEPT"
+    }
+  },
+  "theme": "cvcconcept-default",
+  "blocks": [
+    "@shared/navigation.json",
+    "./hero001.json",
+    "./features004-probleme.json",
+    "./features009-definition.json",
+    "./process001-methode.json",
+    "./trust-logos002.json",
+    "./stats001.json",
+    "./features009-pourquoi-cvc.json",
+    "./testimonial001.json",
+    "./faq001.json",
+    "./cta001.json",
+    "@shared/footer.json"
+  ]
+}

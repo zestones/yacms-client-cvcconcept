@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "component": "blocks/cta/CTABenefitsGrid",
+    "section": "nos-offres/travaux-publics/drainage-canalisation/cta001"
+  },
+  "data": {
+    "title": "Des réseaux enterrés posés pour durer",
+    "benefits": [
+      {
+        "icon": "shield-check",
+        "text": "Tests d'étanchéité systématiques avant remblai",
+        "_tid": "bn2Drn"
+      },
+      {
+        "icon": "file-text",
+        "text": "PV de réception et DOE fournis",
+        "_tid": "bn3Drn"
+      },
+      {
+        "icon": "award",
+        "text": "Qualifiée Cat. IV Travaux Publics",
+        "_tid": "bn4Drn"
+      }
+    ],
+    "cta": {
+      "text": "Soumettre votre projet de canalisation",
+      "link": "/contact"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "component": "blocks/faq/FaqSplitAccordion",
+    "section": "nos-offres/travaux-publics/signalisation-routiere/faq001"
+  },
+  "data": {
+    "sectionLabel": "FAQ",
+    "title": "Questions fréquentes sur la signalisation routière",
+    "items": [
+      { "question": "Quelle est la différence entre signalisation horizontale et verticale ?", "answer": "La signalisation horizontale désigne tout ce qui est appliqué sur la chaussée : lignes de rive, lignes axiales, zébras, passages piétons, flèches. La signalisation verticale concerne les panneaux de signalisation montés sur mâts ou potences. Les deux se complètent et sont souvent réalisées en même temps.", "_tid": "fq1Sig" },
+      { "question": "Quelle est la durée de vie d'un marquage routier ?", "answer": "Un marquage en peinture routière classique dure 1 à 2 ans selon le trafic et les conditions climatiques. Un marquage thermoplastique à chaud dure 3 à 5 ans. Pour les zones à fort trafic ou les conditions climatiques extrêmes (Sahara), nous recommandons systématiquement le thermoplastique.", "_tid": "fq2Sig" },
+      { "question": "Pouvez-vous réaliser de grands linéaires rapidement ?", "answer": "Oui. Notre capacité de production nous permet de réaliser plusieurs milliers de mètres linéaires par jour selon le type de prestation. Notre référence Hassi Messaoud (75 000 ML en 10 jours) illustre notre capacité à exécuter de grands chantiers dans des délais serrés.", "_tid": "fq3Sig" },
+      { "question": "Respectez-vous les normes algériennes de signalisation ?", "answer": "Oui. Nous travaillons conformément aux normes algériennes de signalisation routière (instruction sur la signalisation routière) et au CCAG-T. Nos fournitures sont homologuées et nos mises en œuvre conformes aux prescriptions des maîtres d'ouvrages publics et privés.", "_tid": "fq4Sig" }
+    ]
+  }
+}

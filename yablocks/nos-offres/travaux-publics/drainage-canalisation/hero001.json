@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "component": "blocks/hero/HeroCenteredMinimal",
+    "section": "nos-offres/travaux-publics/drainage-canalisation/hero001"
+  },
+  "data": {
+    "overtitle": "TRAVAUX PUBLICS",
+    "title": "Drainage & Canalisation.",
+    "subtitle": "Pose de réseaux enterrés PEHD, assainissement pluvial et eaux usées, drainage de plateformes et zones agricoles — CVC CONCEPT réalise vos réseaux de canalisations avec rigueur et les équipements adaptés aux grands linéaires.",
+    "cta": {
+      "primary": { "text": "Demander un devis", "link": "/contact" },
+      "secondary": { "text": "Voir nos réalisations", "link": "/realisations" }
+    },
+    "backgroundImage": {
+      "src": "/equipements/11-testeur-fuite.jpg",
+      "alt": "Testeur d'étanchéité réseau — CVC CONCEPT Travaux Publics"
+    }
+  }
+}

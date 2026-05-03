@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "component": "blocks/testimonials/TestimonialDarkCard",
+    "section": "nos-offres/genie-climatique/chauffage-plomberie/testimonial001"
+  },
+  "data": {
+    "backgroundImage": {
+      "src": "/equipements/07-cintreuse-arbalete.jpg",
+      "alt": "Installation chauffage central CVC CONCEPT"
+    },
+    "quote": "Le réseau de chauffage central a été installé proprement, dans les délais. Les essais sous pression ont été réalisés devant moi avant fermeture des saignées — c'est ce genre de rigueur qu'on attend d'un professionnel.",
+    "author": {
+      "name": "Maître d'ouvrage",
+      "role": "Bâtiment tertiaire — Bordj Bou Arréridj"
+    }
+  }
+}

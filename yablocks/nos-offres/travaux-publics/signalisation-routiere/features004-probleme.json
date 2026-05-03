@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "component": "blocks/features/FeatureBadgeContent",
+    "section": "nos-offres/travaux-publics/signalisation-routiere/features004-probleme"
+  },
+  "data": {
+    "badges": [
+      { "src": "/logos/logo.png", "alt": "CVC CONCEPT — Signalisation Routière Algérie", "_tid": "bdg1Sig" }
+    ],
+    "headline": "Une signalisation défaillante n'est pas un problème esthétique — c'est une question de sécurité.",
+    "paragraphs": [
+      { "text": "Un marquage au sol effacé, des panneaux absents ou mal positionnés — ce sont des situations que l'on voit trop souvent sur les axes secondaires et les zones industrielles en Algérie. Les conséquences vont des accidents de circulation aux accidents du travail, et engagent la responsabilité du maître d'ouvrage.", "_tid": "pg1Sig" },
+      { "text": "La signalisation routière exige du matériel spécifique, des produits durables adaptés au climat (résistance aux UV, à la chaleur saharienne, aux hivers du nord) et une mise en œuvre précise. Un marquage mal exécuté s'efface en quelques mois. Un marquage bien fait dure 3 à 5 ans.", "_tid": "pg2Sig" },
+      { "text": "CVC CONCEPT dispose du matériel de marquage thermoplastique à chaud, de peinture routière et des équipements de pose de panneaux. Notre référence majeure : 75 000 ML de signalisation horizontale et verticale réalisés sur l'axe de Hassi Messaoud (Ouargla), en 10 jours, livrés sans réserve pour RACHI YACINE.", "_tid": "pg3Sig" }
+    ],
+    "closing": "75 000 ML. 10 jours. Sans réserve. C'est notre référence."
+  }
+}

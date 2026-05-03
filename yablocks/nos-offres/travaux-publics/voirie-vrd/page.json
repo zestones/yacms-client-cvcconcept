@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "title": "Voirie & VRD — Travaux Publics | CVC CONCEPT Algérie",
+    "description": "Voirie, Réseaux et Divers : terrassement, plateformes, rechargement bitumineux, infrastructures routières en Algérie. SARL CVC CONCEPT — Qualifiée Cat. IV Travaux Publics.",
+    "keywords": ["VRD Algérie", "voirie travaux publics", "terrassement Algérie", "rechargement bitumineux", "reprofilage chaussée", "CVC CONCEPT"],
+    "author": "CVC CONCEPT",
+    "canonical": "https://cvcconcept.com/nos-offres/travaux-publics/voirie-vrd",
+    "locale": "fr_DZ",
+    "robots": "index, follow",
+    "og": { "type": "website", "image": "/og-home.png", "imageAlt": "Voirie & VRD — CVC CONCEPT" }
+  },
+  "theme": "cvcconcept-default",
+  "blocks": [
+    "@shared/navigation.json",
+    "./hero001.json",
+    "./features004-probleme.json",
+    "./features009-definition.json",
+    "./process001-methode.json",
+    "./trust-logos002.json",
+    "./stats001.json",
+    "./features009-pourquoi-cvc.json",
+    "./testimonial001.json",
+    "./faq001.json",
+    "./cta001.json",
+    "@shared/footer.json"
+  ]
+}

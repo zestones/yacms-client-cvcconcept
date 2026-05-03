@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "component": "blocks/cta/CTABenefitsGrid",
+    "section": "nos-offres/travaux-publics/voirie-vrd/cta001"
+  },
+  "data": {
+    "title": "Confiez vos travaux VRD à une entreprise qualifiée",
+    "benefits": [
+      {
+        "icon": "award",
+        "text": "Qualifiée Cat. IV Travaux Publics",
+        "_tid": "bn1Vrd"
+      },
+      {
+        "icon": "shield-check",
+        "text": "100% des chantiers livrés sans réserve",
+        "_tid": "bn2Vrd"
+      },
+      {
+        "icon": "users",
+        "text": "Ingénieur Génie Civil sur chaque projet",
+        "_tid": "bn4Vrd"
+      }
+    ],
+    "cta": {
+      "text": "Soumettre un projet VRD",
+      "link": "/contact"
+    }
+  }
+}

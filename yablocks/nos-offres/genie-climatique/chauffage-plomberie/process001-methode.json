@@ -1,0 +1,17 @@
+{
+  "meta": {
+    "component": "blocks/process/ProcessCarousel",
+    "section": "nos-offres/genie-climatique/chauffage-plomberie/process001-methode"
+  },
+  "data": {
+    "overtitle": "NOTRE MÉTHODE",
+    "title": "De l'étude thermique à la mise en chauffe : notre process",
+    "steps": [
+      { "title": "Étude Thermique", "description": "Calcul des besoins en chaleur par pièce, analyse de l'isolation existante, choix de la source de chaleur et de la puissance de la chaudière.", "icon": "thermometer" },
+      { "title": "Plan de Distribution", "description": "Tracé des réseaux en cuivre ou multicouche, dimensionnement des canalisations, emplacement des radiateurs ou des collecteurs de plancher chauffant.", "icon": "layout" },
+      { "title": "Installation", "description": "Pose de la chaudière, raccordements gaz/fuel/électrique, tirage des réseaux, connexion des émetteurs. Travail soigné, sans dommages aux finitions.", "icon": "wrench" },
+      { "title": "Équilibrage du Réseau", "description": "Réglage des robinets thermostatiques, purge des circuits, vérification des débits et des températures dans chaque zone.", "icon": "sliders" },
+      { "title": "Réception", "description": "Tests sous pression, mesures des températures de départ et de retour, vérification de la régulation. Remise du dossier technique complet.", "icon": "check-circle" }
+    ]
+  }
+}

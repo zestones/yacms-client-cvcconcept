@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "component": "blocks/faq/FaqSplitAccordion",
+    "section": "nos-offres/genie-climatique/chauffage-plomberie/faq001"
+  },
+  "data": {
+    "sectionLabel": "FAQ",
+    "title": "Questions fréquentes sur le chauffage et la plomberie",
+    "items": [
+      { "question": "Quelle puissance de chaudière pour un logement de 150 m² ?", "answer": "Pour un logement de 150 m² bien isolé en zone nord-algérienne, comptez environ 8 à 12 kW. Pour les Hauts Plateaux (Bordj Bou Arréridj, Sétif), l'isolation et l'altitude demandent une puissance plus élevée. Nos ingénieurs réalisent un calcul précis basé sur les déperditions réelles.", "_tid": "fq1Chf" },
+      { "question": "Plancher chauffant ou radiateurs — que recommandez-vous ?", "answer": "Les deux ont leurs avantages. Le plancher chauffant offre un confort thermique supérieur et une consommation réduite (température de départ plus basse). Les radiateurs permettent une montée en température plus rapide. Le choix dépend du type de construction, du budget et des habitudes d'utilisation.", "_tid": "fq2Chf" },
+      { "question": "Intervenez-vous sur des rénovations ou uniquement en neuf ?", "answer": "Nous intervenons aussi bien en neuf qu'en rénovation. La rénovation d'un réseau de chauffage existant — remplacement de chaudière vétuste, ajout de zones, mise en conformité — représente une grande partie de notre activité.", "_tid": "fq3Chf" },
+      { "question": "Quelles marques de chaudières installez-vous ?", "answer": "Nous sélectionnons les marques en fonction des disponibilités de pièces en Algérie et du SAV local. Nous travaillons avec des équipements disponibles et maintenables sur le territoire algérien, pour éviter les immobilisations prolongées en cas de panne.", "_tid": "fq4Chf" }
+    ]
+  }
+}

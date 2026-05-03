@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "component": "blocks/cta/CTABenefitsGrid",
+    "section": "nos-offres/genie-climatique/chauffage-plomberie/cta001"
+  },
+  "data": {
+    "title": "Un réseau de chauffage conçu pour durer",
+    "benefits": [
+      {
+        "icon": "shield-check",
+        "text": "Tests sous pression avant livraison",
+        "_tid": "bn2Chf"
+      },
+      {
+        "icon": "tool",
+        "text": "Réseaux cuivre et multicouche certifiés",
+        "_tid": "bn3Chf"
+      },
+      {
+        "icon": "users",
+        "text": "Ingénieurs génie climatique diplômés",
+        "_tid": "bn4Chf"
+      }
+    ],
+    "cta": {
+      "text": "Demander un devis chauffage",
+      "link": "/contact"
+    }
+  }
+}

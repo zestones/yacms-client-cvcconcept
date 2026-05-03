@@ -1,0 +1,18 @@
+{
+  "meta": {
+    "component": "blocks/features/FeatureBadgeContent",
+    "section": "nos-offres/travaux-publics/voirie-vrd/features004-probleme"
+  },
+  "data": {
+    "badges": [
+      { "src": "/logos/logo.png", "alt": "CVC CONCEPT — Qualifiée Cat. IV Travaux Publics", "_tid": "bdg1Vrd" }
+    ],
+    "headline": "Un chantier VRD bien exécuté ne revient pas pour réfection deux ans plus tard.",
+    "paragraphs": [
+      { "text": "En Algérie, les axes routiers et les plateformes industrielles subissent des conditions climatiques extrêmes : chaleurs estivales, gelées hivernales sur les Hauts Plateaux, trafic lourd. Une voirie mal compactée ou une couche d'enrobé insuffisante se dégradent rapidement — et les reprises sont toujours plus coûteuses que le travail initial bien fait.", "_tid": "pg1Vrd" },
+      { "text": "CVC CONCEPT intervient sur tous les travaux de voirie et VRD : terrassement général, réalisation de plateformes et pistes, rechargement bitumineux, reprofilage de chaussée dégradée, pose de bordures et cunettes. Nos équipements (niveleuse, compacteur, finisseur) permettent d'exécuter des marchés de surface importante.", "_tid": "pg2Vrd" },
+      { "text": "Notre qualification Cat. IV Travaux Publics nous habilite à répondre aux appels d'offres publics. Chaque chantier est supervisé par un ingénieur génie civil et réceptionné avec rapport de compactage et essais de portance quand requis par le maître d'ouvrage.", "_tid": "pg3Vrd" }
+    ],
+    "closing": "Qualifié. Équipé. Livré dans les délais et sans réserve."
+  }
+}
