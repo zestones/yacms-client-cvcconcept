@@ -1,0 +1,27 @@
+{
+    "meta": {
+        "title": "Mentions Légales — SARL CVC CONCEPT",
+        "description": "Mentions légales de SARL CVC CONCEPT : informations sur l'éditeur, l'hébergement, la propriété intellectuelle et la protection des données.",
+        "keywords": [
+            "mentions légales",
+            "CVC CONCEPT",
+            "SARL algérienne",
+            "protection données"
+        ],
+        "author": "CVC CONCEPT",
+        "canonical": "https://cvcconcept.com/mentions-legales",
+        "locale": "fr_DZ",
+        "robots": "noindex, follow",
+        "og": {
+            "type": "website",
+            "image": "/og-home.png",
+            "imageAlt": "CVC CONCEPT — Mentions légales"
+        }
+    },
+    "theme": "cvcconcept-default",
+    "blocks": [
+        "@shared/navigation.json",
+        "./LegalNotice001.json",
+        "@shared/footer.json"
+    ]
+}

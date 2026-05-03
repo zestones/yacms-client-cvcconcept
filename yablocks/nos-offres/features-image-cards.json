@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "component": "blocks/features/FeatureImageCards",
+        "section": "nos-offres/features-image-cards"
+    },
+    "data": {
+        "sectionLabel": "CVC CONCEPT",
+        "title": "Nos domaines d'expertise",
+        "items": [
+            {
+                "image": {
+                    "src": "/images/nos-offres/genie-climatique.jpg",
+                    "alt": "Génie Climatique — Climatisation, Ventilation, Chauffage, Plomberie"
+                },
+                "title": "Génie Climatique",
+                "description": "Climatisation, ventilation, chauffage, plomberie et maintenance frigorifique. Des installations conformes aux normes pour les bâtiments industriels, tertiaires et résidentiels.",
+                "ctaText": "Voir les offres",
+                "ctaLink": "/nos-offres/genie-climatique/climatisation-ventilation",
+                "_tid": "noC1Gc"
+            },
+            {
+                "image": {
+                    "src": "/images/nos-offres/travaux-publics.jpg",
+                    "alt": "Travaux Publics — Voirie VRD, Signalisation Routière, Drainage"
+                },
+                "title": "Travaux Publics",
+                "description": "Voirie et VRD, signalisation horizontale et verticale, drainage et canalisation. Qualifiés Catégorie IV — nous intervenons sur les marchés publics et privés à l'échelle nationale.",
+                "ctaText": "Voir les offres",
+                "ctaLink": "/nos-offres/travaux-publics/voirie-vrd",
+                "_tid": "noC2Tp"
+            },
+            {
+                "image": {
+                    "src": "/images/nos-offres/batiment.jpg",
+                    "alt": "Bâtiment Tous Corps d'État — Gros œuvre, Second œuvre, Finitions"
+                },
+                "title": "Bâtiment",
+                "description": "Prestations tous corps d'état : gros œuvre, maçonnerie, second œuvre, menuiserie et finitions. Une équipe pluridisciplinaire pour conduire vos projets de construction de A à Z.",
+                "ctaText": "Voir les offres",
+                "ctaLink": "/nos-offres/batiment/tous-corps-detat",
+                "_tid": "noC3Ba"
+            }
+        ]
+    }
+}

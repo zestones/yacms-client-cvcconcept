@@ -1,0 +1,57 @@
+{
+    "meta": {
+        "component": "blocks/legal/LegalSections",
+        "section": "mentions-legales/LegalNotice001"
+    },
+    "data": {
+        "title": "Mentions Légales",
+        "lastUpdated": "2026-05-03",
+        "editor": {
+            "companyName": "SARL CVC CONCEPT",
+            "siren": "NRC : à compléter",
+            "address": {
+                "street": "Cité 40 Logts RDC Bloc 02, Route de Medjana",
+                "zip": "34000",
+                "city": "Bordj Bou Arréridj",
+                "country": "Algérie"
+            },
+            "email": "contact@cvcconcept.com",
+            "phone": "+213 6 65 55 18 93",
+            "director": "Gérant SARL CVC CONCEPT",
+            "foundedYear": "2020",
+            "description": "SARL CVC CONCEPT est une entreprise algérienne spécialisée dans le génie climatique (climatisation, ventilation, chauffage, plomberie, maintenance frigorifique) et les travaux publics (voirie VRD, signalisation routière, drainage et canalisation), qualifiée Catégorie IV pour les Travaux Publics."
+        },
+        "host": {
+            "companyName": "GitHub Inc. (GitHub Pages)",
+            "address": {
+                "street": "88 Colin P. Kelly Jr. Street",
+                "zip": "94107",
+                "city": "San Francisco, CA",
+                "country": "États-Unis"
+            },
+            "website": "https://pages.github.com"
+        },
+        "sections": [
+            {
+                "title": "Propriété Intellectuelle",
+                "content": "L'ensemble du contenu présent sur le site cvcconcept.com (textes, images, logos, visuels, données) est la propriété exclusive de SARL CVC CONCEPT. Toute reproduction, distribution, modification ou utilisation de ce contenu, même partielle, est strictement interdite sans autorisation écrite préalable de SARL CVC CONCEPT.\n\nLes marques et logos présents sur ce site sont des marques déposées de leurs propriétaires respectifs.",
+                "_tid": "ml001Pi"
+            },
+            {
+                "title": "Responsabilité",
+                "content": "SARL CVC CONCEPT s'efforce de maintenir les informations de ce site à jour et exactes. Toutefois, l'entreprise ne saurait être tenue responsable des erreurs, omissions ou résultats obtenus par l'utilisation de ces informations.\n\nLes liens hypertextes présents sur le site et pointant vers des sites tiers n'engagent pas la responsabilité de SARL CVC CONCEPT quant au contenu de ces sites externes.\n\nPour signaler une erreur ou nous faire part d'une remarque, contactez-nous à : contact@cvcconcept.com",
+                "_tid": "ml002Re"
+            },
+            {
+                "title": "Protection des données personnelles",
+                "content": "Les données personnelles collectées via le formulaire de contact (nom, email, téléphone, message) sont utilisées exclusivement pour traiter votre demande et vous recontacter. Ces données ne sont ni vendues, ni transmises à des tiers sans votre consentement.\n\nConformément aux dispositions en vigueur relatives à la protection des données, vous disposez d'un droit d'accès, de rectification et de suppression de vos données. Pour exercer ces droits, contactez-nous à : contact@cvcconcept.com",
+                "_tid": "ml003Pd"
+            },
+            {
+                "title": "Cookies",
+                "content": "Ce site utilise uniquement les cookies strictement nécessaires à son bon fonctionnement technique. Aucun cookie de tracking publicitaire ou analytique tiers n'est déposé sans votre consentement.\n\nVous pouvez configurer votre navigateur pour refuser les cookies, ce qui peut affecter certaines fonctionnalités du site.",
+                "_tid": "ml004Co"
+            }
+        ]
+    }
+}

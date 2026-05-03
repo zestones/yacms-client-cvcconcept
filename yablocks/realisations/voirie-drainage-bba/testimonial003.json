@@ -1,0 +1,17 @@
+{
+    "meta": {
+        "component": "blocks/testimonials/TestimonialDarkCard",
+        "section": "realisations/voirie-drainage-bba/testimonial003"
+    },
+    "data": {
+        "backgroundImage": {
+            "src": "/images/realisations/voirie-bba-overview.jpg",
+            "alt": "Chantier voirie et drainage Bordj Bou Arréridj"
+        },
+        "quote": "Les travaux de voirie et de drainage ont été réalisés dans les règles de l'art, dans les délais impartis et conformément aux spécifications techniques du marché. Réception prononcée sans réserve.",
+        "author": {
+            "name": "EURL RAD GROUP",
+            "role": "Maître d'ouvrage délégué — Bordj Bou Arréridj (Attestation de bonne exécution 2024)"
+        }
+    }
+}

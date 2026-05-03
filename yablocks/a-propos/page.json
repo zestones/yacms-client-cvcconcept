@@ -34,7 +34,7 @@
                 "country": "DZ"
             },
             "phone": "+213665551893",
-            "email": "sarlcvcconcept@gmail.com",
+            "email": "contact@cvcconcept.com",
             "openingHours": [
                 {
                     "days": [
@@ -55,6 +55,7 @@
         "@shared/navigation.json",
         "./hero001.json",
         "./richcontent001-histoire.json",
+        "./features009-thermosolis.json",
         "./stats001.json",
         "./features009-valeurs.json",
         "./team001.json",

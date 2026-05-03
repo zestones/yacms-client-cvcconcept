@@ -1,25 +1,23 @@
 {
     "meta": {
-        "title": "Cas Clients — Réalisations Terrain CVC CONCEPT, Algérie",
-        "description": "Découvrez les cas clients de SARL CVC CONCEPT : signalisation routière à Hassi Messaoud (75 000 ML en 10 jours), voirie et drainage à Bordj Bou Arréridj. Chantiers livrés sans réserve.",
+        "title": "Contact — SARL CVC CONCEPT, Devis Génie Climatique & Travaux Publics",
+        "description": "Contactez SARL CVC CONCEPT à Bordj Bou Arréridj pour un devis en génie climatique, travaux publics ou maintenance. Réponse sous 24h — équipe disponible Dim–Jeu 8h–17h.",
         "keywords": [
-            "cas clients CVC CONCEPT",
-            "réalisations travaux publics Algérie",
-            "signalisation Hassi Messaoud",
-            "voirie BBA Algérie",
-            "drainage canalisation Algérie",
-            "référence génie climatique",
-            "attestation bonne exécution",
-            "CVC CONCEPT chantiers"
+            "contact CVC CONCEPT",
+            "devis génie climatique Algérie",
+            "devis travaux publics BBA",
+            "SARL CVC CONCEPT Bordj Bou Arréridj",
+            "maintenance climatisation Algérie",
+            "devis signalisation routière Algérie"
         ],
         "author": "CVC CONCEPT",
-        "canonical": "https://cvcconcept.com/cas-clients",
+        "canonical": "https://cvcconcept.com/contact",
         "locale": "fr_DZ",
         "robots": "index, follow",
         "og": {
             "type": "website",
             "image": "/og-home.png",
-            "imageAlt": "CVC CONCEPT — Cas clients et réalisations terrain"
+            "imageAlt": "CVC CONCEPT — Contactez notre équipe d'experts"
         },
         "structuredData": {
             "type": "LocalBusiness",
@@ -33,7 +31,7 @@
                 "country": "DZ"
             },
             "phone": "+213665551893",
-            "email": "sarlcvcconcept@gmail.com",
+            "email": "contact@cvcconcept.com",
             "openingHours": [
                 {
                     "days": [
@@ -52,7 +50,7 @@
     "theme": "cvcconcept-default",
     "blocks": [
         "@shared/navigation.json",
-        "./features007.json",
+        "./contact002.json",
         "@shared/footer.json"
     ]
 }

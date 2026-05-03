@@ -1,0 +1,44 @@
+{
+    "meta": {
+        "title": "Nos Offres — Génie Climatique, Travaux Publics & Bâtiment | CVC CONCEPT",
+        "description": "Découvrez les offres de SARL CVC CONCEPT : génie climatique (climatisation, chauffage, maintenance), travaux publics (voirie, signalisation, drainage) et bâtiment tous corps d'état à Bordj Bou Arréridj.",
+        "keywords": [
+            "offres génie climatique Algérie",
+            "travaux publics BBA",
+            "climatisation ventilation Algérie",
+            "voirie VRD Algérie",
+            "signalisation routière Algérie",
+            "bâtiment tous corps d'état",
+            "CVC CONCEPT nos offres"
+        ],
+        "author": "CVC CONCEPT",
+        "canonical": "https://cvcconcept.com/nos-offres",
+        "locale": "fr_DZ",
+        "robots": "index, follow",
+        "og": {
+            "type": "website",
+            "image": "/og-home.png",
+            "imageAlt": "CVC CONCEPT — Nos offres en génie climatique et travaux publics"
+        },
+        "structuredData": {
+            "type": "LocalBusiness",
+            "name": "SARL CVC CONCEPT",
+            "logo": "/logos/logo.png",
+            "address": {
+                "street": "Cité 40 Logts RDC Bloc 02, Route de Medjana",
+                "city": "Bordj Bou Arréridj",
+                "postalCode": "34000",
+                "region": "Bordj Bou Arréridj",
+                "country": "DZ"
+            },
+            "phone": "+213665551893",
+            "email": "contact@cvcconcept.com"
+        }
+    },
+    "theme": "cvcconcept-default",
+    "blocks": [
+        "@shared/navigation.json",
+        "./features-image-cards.json",
+        "@shared/footer.json"
+    ]
+}

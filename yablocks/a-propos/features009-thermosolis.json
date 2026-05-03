@@ -1,0 +1,38 @@
+{
+    "meta": {
+        "component": "blocks/features/FeatureSplitHighlight",
+        "section": "a-propos/features009-thermosolis"
+    },
+    "data": {
+        "overtitle": "GROUPE FRANCO-ALGÉRIEN",
+        "title": "CVC CONCEPT, adossée à l'expertise française de THERMOSOLIS.",
+        "paragraphs": [
+            {
+                "text": "CVC CONCEPT est liée à THERMOSOLIS, SARL française spécialisée dans la plomberie, le chauffage, la climatisation et les énergies renouvelables, implantée à Saint-Étienne (Loire, 42). Les deux entités partagent le même fondateur et gérant, BENGUEZZOU Abdelhak, qui pilote depuis plus de dix ans des chantiers de génie thermique en France et en Algérie."
+            },
+            {
+                "text": "Cette double ancrage nous confère une vision technique à la fois locale — adaptée aux contraintes algériennes des marchés publics et privés — et internationale, nourrie par les standards européens de certification RGE, les protocoles de réception de chantier et les exigences des grands donneurs d'ordres comme ENGIE, VEOLIA ou ECOOR."
+            }
+        ],
+        "highlights": [
+            {
+                "text": "THERMOSOLIS certifiée RGE : QualiPAC, QualiSol, QualiPV"
+            },
+            {
+                "text": "Fluides Frigorigènes Cat. I — Bureau Veritas"
+            },
+            {
+                "text": "Références : ENGIE Solutions, VEOLIA, ECOOR"
+            },
+            {
+                "text": "Même gérant — cohérence technique et engagement franco-algérien"
+            }
+        ],
+        "conclusion": "Travailler avec CVC CONCEPT, c'est bénéficier d'une expertise éprouvée sur deux continents.",
+        "image": {
+            "src": "/a-propos/thermosolis-expertise.jpg",
+            "alt": "THERMOSOLIS — expertise franco-algérienne en génie thermique et énergies renouvelables"
+        },
+        "reverse": true
+    }
+}

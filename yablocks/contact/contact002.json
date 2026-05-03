@@ -1,0 +1,138 @@
+{
+    "meta": {
+        "component": "blocks/contact/ContactTaggedForm",
+        "section": "contact/contact002"
+    },
+    "data": {
+        "title": "Parlons de votre projet",
+        "subtitle": "Notre équipe répond sous 24h. Décrivez-nous votre besoin — installation, chantier, dépannage ou partenariat — nous revenons vers vous rapidement.",
+        "contactOptions": [
+            {
+                "icon": "mail",
+                "label": "Email",
+                "info": "contact@cvcconcept.com",
+                "href": "mailto:contact@cvcconcept.com"
+            },
+            {
+                "icon": "phone",
+                "label": "Téléphone",
+                "info": "0665 55 18 93",
+                "href": "tel:+213665551893"
+            },
+            {
+                "icon": "phone",
+                "label": "Téléphone 2",
+                "info": "0549 69 81 17",
+                "href": "tel:+213549698117"
+            },
+            {
+                "icon": "mapPin",
+                "label": "Adresse",
+                "info": "Cité 40 Logts RDC Bloc 02, Route de Medjana — Bordj Bou Arréridj 34000"
+            },
+            {
+                "icon": "clock",
+                "label": "Horaires",
+                "info": "Dimanche – Jeudi : 8h00 – 17h00"
+            }
+        ],
+        "trustBadges": [
+            {
+                "text": "Réponse sous 24h"
+            },
+            {
+                "text": "Devis gratuit"
+            },
+            {
+                "text": "Qualification Cat. IV TP"
+            }
+        ],
+        "formTitle": "Envoyez-nous un message",
+        "tagsTitle": "Type de demande",
+        "tags": [
+            {
+                "label": "Demande de devis",
+                "value": "quote",
+                "icon": "star"
+            },
+            {
+                "label": "Génie Climatique",
+                "value": "cvc",
+                "icon": "thermometer"
+            },
+            {
+                "label": "Travaux Publics",
+                "value": "tp",
+                "icon": "construction"
+            },
+            {
+                "label": "Maintenance / Dépannage",
+                "value": "maintenance",
+                "icon": "wrench"
+            },
+            {
+                "label": "Partenariat",
+                "value": "partnership",
+                "icon": "briefcase"
+            },
+            {
+                "label": "Demande générale",
+                "value": "general",
+                "icon": "messageSquare"
+            }
+        ],
+        "urgencyTitle": "Niveau d'urgence",
+        "urgencyLevels": [
+            {
+                "label": "Normale",
+                "value": "normal",
+                "description": "Pas d'urgence particulière",
+                "colorHint": "default"
+            },
+            {
+                "label": "Prioritaire",
+                "value": "priority",
+                "description": "Réponse sous 48 à 72h",
+                "colorHint": "default"
+            },
+            {
+                "label": "Urgent",
+                "value": "urgent",
+                "description": "Réponse requise sous 24h",
+                "colorHint": "accent"
+            },
+            {
+                "label": "Critique",
+                "value": "critical",
+                "description": "Panne installation / Chantier bloqué",
+                "colorHint": "destructive"
+            }
+        ],
+        "formLabels": {
+            "fullName": "Nom complet",
+            "email": "Email",
+            "phone": "Téléphone",
+            "company": "Entreprise / Organisme",
+            "message": "Message"
+        },
+        "formPlaceholders": {
+            "fullName": "Nom Prénom",
+            "email": "votre@email.com",
+            "phone": "06XX XX XX XX",
+            "company": "Nom de votre entreprise ou organisme",
+            "message": "Décrivez votre projet, chantier ou problème..."
+        },
+        "showPhone": true,
+        "showCompany": true,
+        "requirePhone": false,
+        "requireCompany": false,
+        "privacyText": "J'accepte la",
+        "privacyLink": "Politique de confidentialité",
+        "privacyHref": "/mentions-legales",
+        "submitText": "Envoyer le message",
+        "successTitle": "Merci !",
+        "successMessage": "Votre message a bien été envoyé. Nous reviendrons vers vous sous 24h (Dim–Jeu).",
+        "apiEndpoint": "https://yacms-runtime.idrissbenguezzou.workers.dev/api/forms",
+        "clientId": "CVCCONCEPT"
+    }
+}

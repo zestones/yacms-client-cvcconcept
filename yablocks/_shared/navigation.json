@@ -12,6 +12,10 @@
     },
     "links": [
       {
+        "label": "Accueil",
+        "href": "/"
+      },
+      {
         "label": "Nos Offres",
         "groups": [
           {
