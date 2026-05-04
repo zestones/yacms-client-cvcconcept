@@ -4,7 +4,7 @@ export default defineConfig({
   plugins: {
     ga4: {
       enabled: false,
-      trackingId: 'G-XXXXXXXXX',
+      trackingId: 'G-XXXXXXXXZ',
     },
     tawk: {
       widgetId: '69bc038b22e4791c3681a8c2/1jk36rmup',
