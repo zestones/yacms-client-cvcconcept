@@ -12,16 +12,28 @@
       }
     ],
     "highlights": [
-      { "text": "Diagnostic systématique avant devis — pas de remplacement de pièces à l'aveugle" },
-      { "text": "Devis transparent sur site, présenté et expliqué avant toute réparation" },
-      { "text": "95% des pannes résolues à la première intervention — grâce à un diagnostic rigoureux" },
-      { "text": "Pièces de rechange disponibles pour les marques courantes — pas d'attente inutile" },
-      { "text": "Clients contrat : priorité d'intervention et tarif préférentiel" },
-      { "text": "Rapport d'intervention signé remis après chaque dépannage" }
+      {
+        "text": "Diagnostic systématique avant devis — pas de remplacement de pièces à l'aveugle"
+      },
+      {
+        "text": "Devis transparent sur site, présenté et expliqué avant toute réparation"
+      },
+      {
+        "text": "95% des pannes résolues à la première intervention — grâce à un diagnostic rigoureux"
+      },
+      {
+        "text": "Pièces de rechange disponibles pour les marques courantes — pas d'attente inutile"
+      },
+      {
+        "text": "Clients contrat : priorité d'intervention et tarif préférentiel"
+      },
+      {
+        "text": "Rapport d'intervention signé remis après chaque dépannage"
+      }
     ],
     "conclusion": "Nos clients sous contrat ont un avantage décisif : nous connaissons déjà leur installation. Le temps de diagnostic est divisé par trois — et la facture aussi.",
     "image": {
-      "src": "/team/hannoufa-ramdane.jpg",
+      "src": "",
       "alt": "HANNOUFA Ramdane — Expert en génie climatique et maintenance CVC"
     },
     "reverse": true

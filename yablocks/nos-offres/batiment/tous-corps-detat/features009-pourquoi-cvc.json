@@ -12,16 +12,28 @@
       }
     ],
     "highlights": [
-      { "text": "Un seul interlocuteur pour tout le chantier — du premier marteau au remise des clés" },
-      { "text": "Planning de chantier global intégrant tous les corps d'état" },
-      { "text": "Réunions de chantier hebdomadaires avec compte-rendu — transparence totale" },
-      { "text": "Ingénieur Génie Civil (ROUABAH Rabah) comme chef de projet sur les chantiers importants" },
-      { "text": "Lots CVC et plomberie assurés en interne par les spécialistes de l'entreprise" },
-      { "text": "Dossier de fin de travaux complet : plans as-built, PV réception, garanties équipements" }
+      {
+        "text": "Un seul interlocuteur pour tout le chantier — du premier marteau au remise des clés"
+      },
+      {
+        "text": "Planning de chantier global intégrant tous les corps d'état"
+      },
+      {
+        "text": "Réunions de chantier hebdomadaires avec compte-rendu — transparence totale"
+      },
+      {
+        "text": "Ingénieur Génie Civil (ROUABAH Rabah) comme chef de projet sur les chantiers importants"
+      },
+      {
+        "text": "Lots CVC et plomberie assurés en interne par les spécialistes de l'entreprise"
+      },
+      {
+        "text": "Dossier de fin de travaux complet : plans as-built, PV réception, garanties équipements"
+      }
     ],
     "conclusion": "Notre taille est un avantage : nous ne sommes pas une grande entreprise anonyme. Le responsable de chantier connaît votre projet de A à Z — et reste joignable après la livraison.",
     "image": {
-      "src": "/team/rouabah-rabah-2.jpg",
+      "src": "",
       "alt": "CVC CONCEPT — Équipe pluridisciplinaire bâtiment travaux publics"
     },
     "reverse": true

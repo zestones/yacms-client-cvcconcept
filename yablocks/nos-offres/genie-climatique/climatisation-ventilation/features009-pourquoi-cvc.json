@@ -12,16 +12,28 @@
       }
     ],
     "highlights": [
-      { "text": "Bilan thermique systématique avant toute installation — dimensionnement exact" },
-      { "text": "Ingénieur génie climatique diplômé sur chaque projet important" },
-      { "text": "Matériel de mesure professionnel : manifold électronique, balance de charge, détecteur de fuite" },
-      { "text": "Fluides frigorigènes certifiés et traçabilité des charges" },
-      { "text": "Documentation remise à la livraison : fiche d'installation, rapport de mise en service" },
-      { "text": "Contrats de maintenance disponibles — nous connaissons l'installation, l'intervention est plus rapide" }
+      {
+        "text": "Bilan thermique systématique avant toute installation — dimensionnement exact"
+      },
+      {
+        "text": "Ingénieur génie climatique diplômé sur chaque projet important"
+      },
+      {
+        "text": "Matériel de mesure professionnel : manifold électronique, balance de charge, détecteur de fuite"
+      },
+      {
+        "text": "Fluides frigorigènes certifiés et traçabilité des charges"
+      },
+      {
+        "text": "Documentation remise à la livraison : fiche d'installation, rapport de mise en service"
+      },
+      {
+        "text": "Contrats de maintenance disponibles — nous connaissons l'installation, l'intervention est plus rapide"
+      }
     ],
     "conclusion": "Nous ne disparaissons pas après la pose. Nos clients nous appellent pour la maintenance, le dépannage et les extensions — parce qu'ils savent que nous connaissons leur installation.",
     "image": {
-      "src": "/team/hannoufa-ramdane.jpg",
+      "src": "",
       "alt": "HANNOUFA Ramdane — Fondateur CVC CONCEPT, Master Génie Climatique"
     },
     "reverse": true
