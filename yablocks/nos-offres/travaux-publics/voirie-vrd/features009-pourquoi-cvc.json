@@ -12,16 +12,28 @@
       }
     ],
     "highlights": [
-      { "text": "Qualification Cat. IV Travaux Publics — habilitation aux marchés publics" },
-      { "text": "Ingénieur Génie Civil (ROUABAH Rabah) présent sur chaque chantier important" },
-      { "text": "Essais de compactage et mesures de portance sur demande du maître d'ouvrage" },
-      { "text": "Planning de chantier fourni dès l'ordre de service — jalons suivis et reportés" },
-      { "text": "Dossier des Ouvrages Exécutés (DOE) remis à la réception" },
-      { "text": "Référence nationale : 75 000 ML à Hassi Messaoud en 10 jours, sans réserve" }
+      {
+        "text": "Qualification Cat. IV Travaux Publics — habilitation aux marchés publics"
+      },
+      {
+        "text": "Ingénieur Génie Civil (ROUABAH Rabah) présent sur chaque chantier important"
+      },
+      {
+        "text": "Essais de compactage et mesures de portance sur demande du maître d'ouvrage"
+      },
+      {
+        "text": "Planning de chantier fourni dès l'ordre de service — jalons suivis et reportés"
+      },
+      {
+        "text": "Dossier des Ouvrages Exécutés (DOE) remis à la réception"
+      },
+      {
+        "text": "Référence nationale : 75 000 ML à Hassi Messaoud en 10 jours, sans réserve"
+      }
     ],
     "conclusion": "Notre bilan : 100% de nos chantiers livrés sans réserve. Pas une communication marketing — le résultat d'un management de chantier rigoureux depuis le premier jour.",
     "image": {
-      "src": "/team/rouabah-rabah.jpg",
+      "src": "",
       "alt": "ROUABAH Rabah — Ingénieur Génie Civil, responsable travaux CVC CONCEPT"
     },
     "reverse": true
