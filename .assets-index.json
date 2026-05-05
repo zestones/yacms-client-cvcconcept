@@ -1,41 +1,14 @@
 {
   "images": [
-    "/images/banner.png",
-    "/images/bf.png",
-    "/images/gro.jpg",
-    "/images/hello asso.jpg",
-    "/images/helloasso-logo.png",
-    "/images/keptet3m7ck71.webp",
-    "/images/panneaux-solaires-toit-cellule-photovoltaique.avif",
-    "/images/photo-1591604129939-f1efa4d9f7fa.jpg",
-    "/images/reseau.png",
-    "/images/robot.jpg",
-    "/images/ss.png",
-    "/images/tanjiro-kamado-3840x2160-23027.jpg",
-    "/images/tiktok.avif",
-    "/images/unnamed.png",
-    "/images/vinland.png",
-    "/images/wallpaperflare.com_wallpaper (1).jpg",
-    "/images/wallpapersden.com_mushoku-tensei-jobless-reincarnation-family_1920x1080.jpg",
-    "/images/whatsapp.png",
-    "/images/yacms_long.png",
-    "/images/yacms.png",
-    "/images/youtube-logo.avif"
+    "/images/hero-background.webp"
   ],
   "logos": [
-    "/logos/AlWiffaq.png",
-    "/logos/blogs-1.jpg.webp",
-    "/logos/logo-qualipac.png",
-    "/logos/Logo.png",
-    "/logos/qualification-rge-qualisol.webp",
-    "/logos/reseau.png"
+    "/logos/logo.png"
   ],
-  "assets": [
-    "/assets/1235998-panneau-solaire-cellule-sur-fond-ciel-coucher-de-soleil-dramatique-gratuit-photo.jpg",
-    "/assets/panneaux-solaires-toit-cellule-photovoltaique.avif",
-    "/assets/whatsapp.png"
-  ],
+  "assets": [],
   "team": [
-    "/team/whatsapp.png"
+    "/team/hannoufa-ramdane.jpg",
+    "/team/rouabah-rabah-2.jpg",
+    "/team/rouabah-rabah.jpg"
   ]
 }
