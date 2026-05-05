@@ -1,32 +1,32 @@
 {
-    "meta": {
-        "component": "blocks/features/FeatureSplitPrimary",
-        "section": "home/features003"
+  "meta": {
+    "component": "blocks/features/FeatureSplitPrimary",
+    "section": "home/features003"
+  },
+  "data": {
+    "overtitle": "Notre Identité",
+    "title": "Une entreprise algérienne, des standards internationaux",
+    "paragraphs": [
+      {
+        "text": "Fondée à Bordj Bou Arréridj, SARL CVC CONCEPT est née de la volonté de proposer une expertise de haut niveau en génie climatique et en travaux publics sur le marché algérien. Portée par des ingénieurs et techniciens diplômés, l'entreprise s'appuie sur un partenariat stratégique avec la société française THERMOSOLIS pour accéder aux meilleures technologies et méthodes européennes.",
+        "_tid": "pg1IdFr"
+      },
+      {
+        "text": "Notre force : une équipe pluridisciplinaire — ingénieurs en génie climatique, ingénieurs en génie civil, techniciens BTS — capable d'intervenir sur l'intégralité d'un projet, du bureau d'études à la réception des travaux. Nous travaillons avec des partenaires et fournisseurs sélectionnés pour la qualité de leurs équipements (Siemens, matériaux certifiés).",
+        "_tid": "pg2TmFr"
+      },
+      {
+        "text": "Notre engagement est simple : livrer chaque chantier dans les délais, sans réserve, et avec les matériaux conformes aux spécifications contractuelles. C'est ce qui nous a valu une attestation de bonne exécution sans réserve dès notre première grande référence nationale à Hassi Messaoud.",
+        "_tid": "pg3EnFr"
+      }
+    ],
+    "image": {
+      "src": "",
+      "alt": "Ingénieur CVC CONCEPT sur chantier"
     },
-    "data": {
-        "overtitle": "Notre Identité",
-        "title": "Une entreprise algérienne, des standards internationaux",
-        "paragraphs": [
-            {
-                "text": "Fondée à Bordj Bou Arréridj, SARL CVC CONCEPT est née de la volonté de proposer une expertise de haut niveau en génie climatique et en travaux publics sur le marché algérien. Portée par des ingénieurs et techniciens diplômés, l'entreprise s'appuie sur un partenariat stratégique avec la société française THERMOSOLIS pour accéder aux meilleures technologies et méthodes européennes.",
-                "_tid": "pg1IdFr"
-            },
-            {
-                "text": "Notre force : une équipe pluridisciplinaire — ingénieurs en génie climatique, ingénieurs en génie civil, techniciens BTS — capable d'intervenir sur l'intégralité d'un projet, du bureau d'études à la réception des travaux. Nous travaillons avec des partenaires et fournisseurs sélectionnés pour la qualité de leurs équipements (Siemens, matériaux certifiés).",
-                "_tid": "pg2TmFr"
-            },
-            {
-                "text": "Notre engagement est simple : livrer chaque chantier dans les délais, sans réserve, et avec les matériaux conformes aux spécifications contractuelles. C'est ce qui nous a valu une attestation de bonne exécution sans réserve dès notre première grande référence nationale à Hassi Messaoud.",
-                "_tid": "pg3EnFr"
-            }
-        ],
-        "image": {
-            "src": "/team/rouabah-rabah.jpg",
-            "alt": "Ingénieur CVC CONCEPT sur chantier"
-        },
-        "cta": {
-            "text": "En savoir plus sur CVC CONCEPT",
-            "link": "/a-propos"
-        }
+    "cta": {
+      "text": "En savoir plus sur CVC CONCEPT",
+      "link": "/a-propos"
     }
+  }
 }

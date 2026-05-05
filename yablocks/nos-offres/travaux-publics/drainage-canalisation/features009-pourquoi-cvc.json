@@ -12,16 +12,28 @@
       }
     ],
     "highlights": [
-      { "text": "Tests d'étanchéité systématiques — à l'air ou à l'eau selon le réseau" },
-      { "text": "PV de test signé fourni avant remblaiement : preuve tangible de qualité" },
-      { "text": "Soudage PEHD bout-à-bout : joints monolithiques, aucune infiltration possible" },
-      { "text": "Pentes hydrauliques vérifiées au laser avant pose des canalisations" },
-      { "text": "Remblai par couches avec matériaux sélectionnés — pas de cailloux sur les tuyaux" },
-      { "text": "DOE complet à la livraison : plans as-built, PV de tests, fiches matériaux" }
+      {
+        "text": "Tests d'étanchéité systématiques — à l'air ou à l'eau selon le réseau"
+      },
+      {
+        "text": "PV de test signé fourni avant remblaiement : preuve tangible de qualité"
+      },
+      {
+        "text": "Soudage PEHD bout-à-bout : joints monolithiques, aucune infiltration possible"
+      },
+      {
+        "text": "Pentes hydrauliques vérifiées au laser avant pose des canalisations"
+      },
+      {
+        "text": "Remblai par couches avec matériaux sélectionnés — pas de cailloux sur les tuyaux"
+      },
+      {
+        "text": "DOE complet à la livraison : plans as-built, PV de tests, fiches matériaux"
+      }
     ],
     "conclusion": "Un réseau qu'on ne voit pas doit être le réseau qu'on ne remarque pas — parce qu'il n'a jamais causé de problème. C'est l'objectif de notre méthode.",
     "image": {
-      "src": "/team/rouabah-rabah.jpg",
+      "src": "",
       "alt": "ROUABAH Rabah — Ingénieur Génie Civil, responsable réseaux CVC CONCEPT"
     },
     "reverse": true

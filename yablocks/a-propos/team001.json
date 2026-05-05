@@ -1,182 +1,182 @@
 {
-    "meta": {
-        "component": "blocks/team/TeamHoverCards",
-        "section": "a-propos/team001"
-    },
-    "data": {
-        "overtitle": "L'ÉQUIPE",
-        "title": "Les experts derrière chaque chantier CVC CONCEPT",
-        "subtitle": "Génie civil, génie climatique, maintenance frigorifique — une équipe complémentaire, diplômée, présente sur le terrain.",
-        "members": [
-            {
-                "name": "ROUABAH Rabah",
-                "title": "Gérant & Ingénieur Génie Civil",
-                "location": "Bordj Bou Arréridj 🇩🇿",
-                "description": "Ingénieur en génie civil et gérant de SARL CVC CONCEPT. Responsable de tous les marchés travaux publics : voirie, VRD, signalisation, drainage et canalisation. Présent sur chaque chantier, il supervise les études d'exécution, le planning et les essais de réception. Référence : 75 000 ML signalisation Hassi Messaoud — livrés sans réserve.",
-                "image": {
-                    "src": "/team/rouabah-rabah.jpg",
-                    "alt": "ROUABAH Rabah — Gérant et Ingénieur Génie Civil, CVC CONCEPT"
-                },
-                "hoverImage": {
-                    "src": "/team/rouabah-rabah-2.jpg",
-                    "alt": "ROUABAH Rabah — terrain CVC CONCEPT"
-                },
-                "qualities": [
-                    {
-                        "text": "Leadership terrain",
-                        "_tid": "qR1Ldsh"
-                    },
-                    {
-                        "text": "Rigueur contractuelle",
-                        "_tid": "qR2Rgr"
-                    },
-                    {
-                        "text": "Gestion de chantier",
-                        "_tid": "qR3Gst"
-                    },
-                    {
-                        "text": "Vision projet",
-                        "_tid": "qR4Vis"
-                    }
-                ],
-                "skills": [
-                    {
-                        "text": "Génie Civil",
-                        "_tid": "sR1Gc"
-                    },
-                    {
-                        "text": "Voirie & VRD",
-                        "_tid": "sR2Vrd"
-                    },
-                    {
-                        "text": "Signalisation routière",
-                        "_tid": "sR3Sig"
-                    },
-                    {
-                        "text": "Drainage PEHD",
-                        "_tid": "sR4Drn"
-                    },
-                    {
-                        "text": "Terrassement",
-                        "_tid": "sR5Ter"
-                    },
-                    {
-                        "text": "DOE & réception",
-                        "_tid": "sR6Doe"
-                    }
-                ],
-                "_tid": "mbR1Rb"
-            },
-            {
-                "name": "HANNOUFA Ramdane",
-                "title": "Responsable Génie Climatique",
-                "location": "Bordj Bou Arréridj 🇩🇿",
-                "description": "Titulaire d'un Master en Génie Climatique de l'Université Mentouri de Constantine. Responsable des études thermiques, du dimensionnement et de l'installation de tous les systèmes CVC. Conçoit les plans d'exécution, sélectionne les équipements et supervise les mises en service sur les chantiers tertiaires, industriels et institutionnels.",
-                "image": {
-                    "src": "/team/hannoufa-ramdane.jpg",
-                    "alt": "HANNOUFA Ramdane — Master Génie Climatique, CVC CONCEPT"
-                },
-                "qualities": [
-                    {
-                        "text": "Expertise thermique",
-                        "_tid": "qH1Th"
-                    },
-                    {
-                        "text": "Dimensionnement CVC",
-                        "_tid": "qH2Dim"
-                    },
-                    {
-                        "text": "Études & plans",
-                        "_tid": "qH3Pln"
-                    },
-                    {
-                        "text": "Mise en service",
-                        "_tid": "qH4Mis"
-                    }
-                ],
-                "skills": [
-                    {
-                        "text": "Climatisation split/VRF",
-                        "_tid": "sH1Clm"
-                    },
-                    {
-                        "text": "CTA & VMC",
-                        "_tid": "sH2Cta"
-                    },
-                    {
-                        "text": "Chauffage central",
-                        "_tid": "sH3Chf"
-                    },
-                    {
-                        "text": "Bilan thermique",
-                        "_tid": "sH4Bil"
-                    },
-                    {
-                        "text": "Fluides frigorigènes",
-                        "_tid": "sH5Fld"
-                    },
-                    {
-                        "text": "GTB & régulation",
-                        "_tid": "sH6Gtb"
-                    }
-                ],
-                "_tid": "mbH2Rd"
-            },
-            {
-                "name": "HAKKAS Nassim",
-                "title": "Technicien Senior Maintenance CVC",
-                "location": "Bordj Bou Arréridj 🇩🇿",
-                "description": "Titulaire d'un BTS Maintenance Froid & Climatisation. Technicien de terrain senior, spécialisé dans le diagnostic instrumenté, la maintenance préventive et le dépannage rapide des installations CVC. Intervient sur les contrats de maintenance et les pannes en urgence pour les clients industriels et tertiaires.",
-                "image": {
-                    "src": "/team/hakkas-nassim.jpg",
-                    "alt": "HAKKAS Nassim — Technicien Senior Maintenance CVC, CVC CONCEPT"
-                },
-                "qualities": [
-                    {
-                        "text": "Diagnostic instrumenté",
-                        "_tid": "qN1Dg"
-                    },
-                    {
-                        "text": "Dépannage rapide",
-                        "_tid": "qN2Dp"
-                    },
-                    {
-                        "text": "Fiabilité terrain",
-                        "_tid": "qN3Fb"
-                    },
-                    {
-                        "text": "Maintenance préventive",
-                        "_tid": "qN4Mp"
-                    }
-                ],
-                "skills": [
-                    {
-                        "text": "Maintenance préventive",
-                        "_tid": "sN1Mp"
-                    },
-                    {
-                        "text": "Dépannage CVC",
-                        "_tid": "sN2Dp"
-                    },
-                    {
-                        "text": "Fluides frigorigènes",
-                        "_tid": "sN3Fld"
-                    },
-                    {
-                        "text": "Réglage & équilibrage",
-                        "_tid": "sN4Rg"
-                    },
-                    {
-                        "text": "Instrumentation froid",
-                        "_tid": "sN5If"
-                    },
-                    {
-                        "text": "Contrats de maintenance",
-                        "_tid": "sN6Cnt"
-                    }
-                ],
-                "_tid": "mbN3Nk"
-            }
-        ]
-    }
+  "meta": {
+    "component": "blocks/team/TeamHoverCards",
+    "section": "a-propos/team001"
+  },
+  "data": {
+    "overtitle": "L'ÉQUIPE",
+    "title": "Les experts derrière chaque chantier CVC CONCEPT",
+    "subtitle": "Génie civil, génie climatique, maintenance frigorifique — une équipe complémentaire, diplômée, présente sur le terrain.",
+    "members": [
+      {
+        "name": "ROUABAH Rabah",
+        "title": "Gérant & Ingénieur Génie Civil",
+        "location": "Bordj Bou Arréridj 🇩🇿",
+        "description": "Ingénieur en génie civil et gérant de SARL CVC CONCEPT. Responsable de tous les marchés travaux publics : voirie, VRD, signalisation, drainage et canalisation. Présent sur chaque chantier, il supervise les études d'exécution, le planning et les essais de réception. Référence : 75 000 ML signalisation Hassi Messaoud — livrés sans réserve.",
+        "image": {
+          "src": "",
+          "alt": "ROUABAH Rabah — Gérant et Ingénieur Génie Civil, CVC CONCEPT"
+        },
+        "hoverImage": {
+          "src": "/team/rouabah-rabah-2.jpg",
+          "alt": "ROUABAH Rabah — terrain CVC CONCEPT"
+        },
+        "qualities": [
+          {
+            "text": "Leadership terrain",
+            "_tid": "qR1Ldsh"
+          },
+          {
+            "text": "Rigueur contractuelle",
+            "_tid": "qR2Rgr"
+          },
+          {
+            "text": "Gestion de chantier",
+            "_tid": "qR3Gst"
+          },
+          {
+            "text": "Vision projet",
+            "_tid": "qR4Vis"
+          }
+        ],
+        "skills": [
+          {
+            "text": "Génie Civil",
+            "_tid": "sR1Gc"
+          },
+          {
+            "text": "Voirie & VRD",
+            "_tid": "sR2Vrd"
+          },
+          {
+            "text": "Signalisation routière",
+            "_tid": "sR3Sig"
+          },
+          {
+            "text": "Drainage PEHD",
+            "_tid": "sR4Drn"
+          },
+          {
+            "text": "Terrassement",
+            "_tid": "sR5Ter"
+          },
+          {
+            "text": "DOE & réception",
+            "_tid": "sR6Doe"
+          }
+        ],
+        "_tid": "mbR1Rb"
+      },
+      {
+        "name": "HANNOUFA Ramdane",
+        "title": "Responsable Génie Climatique",
+        "location": "Bordj Bou Arréridj 🇩🇿",
+        "description": "Titulaire d'un Master en Génie Climatique de l'Université Mentouri de Constantine. Responsable des études thermiques, du dimensionnement et de l'installation de tous les systèmes CVC. Conçoit les plans d'exécution, sélectionne les équipements et supervise les mises en service sur les chantiers tertiaires, industriels et institutionnels.",
+        "image": {
+          "src": "/team/hannoufa-ramdane.jpg",
+          "alt": "HANNOUFA Ramdane — Master Génie Climatique, CVC CONCEPT"
+        },
+        "qualities": [
+          {
+            "text": "Expertise thermique",
+            "_tid": "qH1Th"
+          },
+          {
+            "text": "Dimensionnement CVC",
+            "_tid": "qH2Dim"
+          },
+          {
+            "text": "Études & plans",
+            "_tid": "qH3Pln"
+          },
+          {
+            "text": "Mise en service",
+            "_tid": "qH4Mis"
+          }
+        ],
+        "skills": [
+          {
+            "text": "Climatisation split/VRF",
+            "_tid": "sH1Clm"
+          },
+          {
+            "text": "CTA & VMC",
+            "_tid": "sH2Cta"
+          },
+          {
+            "text": "Chauffage central",
+            "_tid": "sH3Chf"
+          },
+          {
+            "text": "Bilan thermique",
+            "_tid": "sH4Bil"
+          },
+          {
+            "text": "Fluides frigorigènes",
+            "_tid": "sH5Fld"
+          },
+          {
+            "text": "GTB & régulation",
+            "_tid": "sH6Gtb"
+          }
+        ],
+        "_tid": "mbH2Rd"
+      },
+      {
+        "name": "HAKKAS Nassim",
+        "title": "Technicien Senior Maintenance CVC",
+        "location": "Bordj Bou Arréridj 🇩🇿",
+        "description": "Titulaire d'un BTS Maintenance Froid & Climatisation. Technicien de terrain senior, spécialisé dans le diagnostic instrumenté, la maintenance préventive et le dépannage rapide des installations CVC. Intervient sur les contrats de maintenance et les pannes en urgence pour les clients industriels et tertiaires.",
+        "image": {
+          "src": "/team/hakkas-nassim.jpg",
+          "alt": "HAKKAS Nassim — Technicien Senior Maintenance CVC, CVC CONCEPT"
+        },
+        "qualities": [
+          {
+            "text": "Diagnostic instrumenté",
+            "_tid": "qN1Dg"
+          },
+          {
+            "text": "Dépannage rapide",
+            "_tid": "qN2Dp"
+          },
+          {
+            "text": "Fiabilité terrain",
+            "_tid": "qN3Fb"
+          },
+          {
+            "text": "Maintenance préventive",
+            "_tid": "qN4Mp"
+          }
+        ],
+        "skills": [
+          {
+            "text": "Maintenance préventive",
+            "_tid": "sN1Mp"
+          },
+          {
+            "text": "Dépannage CVC",
+            "_tid": "sN2Dp"
+          },
+          {
+            "text": "Fluides frigorigènes",
+            "_tid": "sN3Fld"
+          },
+          {
+            "text": "Réglage & équilibrage",
+            "_tid": "sN4Rg"
+          },
+          {
+            "text": "Instrumentation froid",
+            "_tid": "sN5If"
+          },
+          {
+            "text": "Contrats de maintenance",
+            "_tid": "sN6Cnt"
+          }
+        ],
+        "_tid": "mbN3Nk"
+      }
+    ]
+  }
 }
